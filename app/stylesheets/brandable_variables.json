@@ -37,7 +37,7 @@
   {
     "variable_name": "ic-brand-global-nav-bgd",
     "type": "color",
-    "default": "#394B58"
+    "default": "#0180ff"
   },
   {
     "variable_name": "ic-brand-global-nav-ic-icon-svg-fill",
@@ -87,7 +87,7 @@
   {
     "variable_name": "ic-brand-global-nav-logo-bgd",
     "type": "color",
-    "default": "#394B58"
+    "default": "#0180ff"
   },
   {
     "variable_name": "ic-brand-header-image",
@@ -149,7 +149,7 @@
   "variables": [{
     "variable_name": "ic-brand-Login-body-bgd-color",
     "type": "color",
-    "default": "#394B58"
+    "default": "#0180ff"
   },
   {
     "variable_name": "ic-brand-Login-body-bgd-image",

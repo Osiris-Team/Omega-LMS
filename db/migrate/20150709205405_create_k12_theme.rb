@@ -25,10 +25,10 @@ class CreateK12Theme < ActiveRecord::Migration[4.2]
   def up
     variables = {
       "ic-brand-primary" => "#E66135",
-      "ic-brand-button--primary-bgd" => "#4A90E2",
-      "ic-link-color" => "#4A90E2",
-      "ic-brand-global-nav-bgd" => "#4A90E2",
-      "ic-brand-global-nav-logo-bgd" => "#3B73B4"
+      "ic-brand-button--primary-bgd" => "#0180ff",
+      "ic-link-color" => "#0180ff",
+      "ic-brand-global-nav-bgd" => "#0180ff",
+      "ic-brand-global-nav-logo-bgd" => "##0180ff"
     }
     bc = BrandConfig.new(variables:)
     bc.name = NAME
