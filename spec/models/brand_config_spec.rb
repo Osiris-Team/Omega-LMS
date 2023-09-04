@@ -190,7 +190,7 @@ describe BrandConfig do
 --ic-brand-button--secondary-bgd-darkened-5: #2B3942;
 --ic-brand-button--secondary-bgd-darkened-15: #27333B;
 [\s|\S]*--ic-brand-primary: #321;
-[\s|\S]*--ic-brand-global-nav-bgd: #123;
+[\s|\S]*--ic-brand-global-nav-bgd: #0180ff;
 /)
     end
   end
