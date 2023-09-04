@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     bundler_lockfile_extensions (0.0.2)
+      bundler (>= 2.3.26)
 
 GEM
   remote: https://rubygems.org/
@@ -35,4 +36,4 @@ DEPENDENCIES
   rspec (~> 3.12)
 
 BUNDLED WITH
-   2.4.19
+   2.3.26

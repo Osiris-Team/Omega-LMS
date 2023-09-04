@@ -147,7 +147,7 @@ el:
   _b4455c8b: "%"
   a_calculation_value_is_not_used_with_this_calculat_b1e854b4: "Μια τιμή υπολογισμού δεν χρησιμοποιείται με αυτή την μέθοδο υπολογιστμού"
   a_file_named_itemname_already_exists_in_this_folde_b0dc7185: "Ένα αρχείο που ονομάζεται %{itemName} υπάρχει ήδη στο φάκελο αυτό."
-  a_full_size_logo_that_appears_in_the_right_sidebar_18873685: "Λογότυπο πλήρους μεγέθους που εμφανίζεται στη δεξιά πλευρική μπάρα της εργαλειοθήκης του Canvas. Το ιδανικό μέγεθος είναι 360 x 140 pixel.Αποδεκτοί τύποι αρχείων: svg, png, jpeg, gif"
+  a_full_size_logo_that_appears_in_the_right_sidebar_18873685: "Λογότυπο πλήρους μεγέθους που εμφανίζεται στη δεξιά πλευρική μπάρα της εργαλειοθήκης του Omega. Το ιδανικό μέγεθος είναι 360 x 140 pixel.Αποδεκτοί τύποι αρχείων: svg, png, jpeg, gif"
   a_handy_key_value_dump_of_a_host_of_interesting_en_d0518dfe: "Αποτύπωση της εύχρηστης μορφής κλειδί/τιμή διακομιστή με ενδιαφέρουσες πληροφορίες περιβάλλοντος για τον χρήστη που αναφέρει το σφάλμα"
   a_locked_item_named_name_already_exists_in_this_lo_ab03ee39: "Ένα κλειδωμένο στοιχείο με το όνομα \"%{name}\"  υπάρχει ήδη σε αυτήν την τοποθεσία. Παρακαλώ, καταχωρίστε ένα νέο όνομα."
   a_message_is_required_129e1814: "Απατείται ένα μήνυμα"
@@ -177,7 +177,7 @@ el:
   accepted_user_role_type_course_course_2ce91589: "Αποδέχτηκαν: %{user}, %{role_type}, course, %{course}"
   access_report_80d28095: "Αναφορά Πρόσβασης"
   access_token_3be22221: "Διακριτικό Πρόσβασης/Access Token"
-  access_tokens_can_be_used_to_allow_other_applicati_16c4a3ab: "Τα Διακριτικά Πρόσβασης/Access Tokens μπορούν να χρησιμοποιηθούν για να επιτρέψουν άλλες εφαρμογές να συνθέσουν κλήσεις τύπου API εκ μέρους σας. Μπορείτε, επίσης, να δημιουργήσετε διακριτικά πρόσβασης/Access Tokes και να *χρησιμοποιήσετε το Ανοιχτό API του Canvas* ώστε να υλοποιήσετε τις δικές σας ενσωματώσεις/συνδέσεις με το Canvas. "
+  access_tokens_can_be_used_to_allow_other_applicati_16c4a3ab: "Τα Διακριτικά Πρόσβασης/Access Tokens μπορούν να χρησιμοποιηθούν για να επιτρέψουν άλλες εφαρμογές να συνθέσουν κλήσεις τύπου API εκ μέρους σας. Μπορείτε, επίσης, να δημιουργήσετε διακριτικά πρόσβασης/Access Tokes και να *χρησιμοποιήσετε το Ανοιχτό API του Omega* ώστε να υλοποιήσετε τις δικές σας ενσωματώσεις/συνδέσεις με το Omega. "
   accordion_section_1_7888782d: "Τμήμα Ακορντεόν 1"
   accordion_section_2_e1812997: "Τμήμα Ακορντεόν 2"
   accordion_section_3_96861901: "Τμήμα Ακορντεόν 3"
@@ -188,8 +188,8 @@ el:
     errors: 
       invalid_discovery_url: "Το discovery URL δεν είναι έγκυρο"
     feedback_coach: "Ρωτήστε την Κοινότητα"
-    feedback_coach_sub: "Λάβετε βοήθεια απο έναν ειδικό στο Canvas"
-    feedback_feature_request_sub: "Έχετε μια ιδέα για την βελτίωση του Canvas;"
+    feedback_coach_sub: "Λάβετε βοήθεια απο έναν ειδικό στο Omega"
+    feedback_feature_request_sub: "Έχετε μια ιδέα για την βελτίωση του Omega;"
     manually_created_courses: "Μαθήματα που δημιουργήθηκαν με μηχανικό τρόπο"
     root_account_cant_have_sis_id: "τα SIS IDs δεν μπορούν  να ρυθμιστούν για λογαριασμούς ρίζας -root-"
     sis_id_in_use: "To SIS ID \"%{sis_id}\" χρησιμοποιείται ήδη"
@@ -234,7 +234,7 @@ el:
     index: 
       delete_auth_confirmation: "Είσαστε σίγουροι; Οι χρήστες πιθανόν να μην μπορούν να συνδεθούν αν αυτό αφαιρεθεί."
       delete_auth_link: "Αφαίρεση της Αυθεντικοποίησης"
-      ip_address_list_description: "Εάν χρησιμοποιείτε μια υπηρεσία αυθεντικοποίησης που απαιτεί τον διακομιστή του Canvas να επικοινωνήσει με τον δικό σας διακομιστή απευθείας, πχ τον LDAP, θα πρέπει να βεβαιωθείτε πως ο δικός σας διακομιστής μπορεί να δεχτεί συνδέσεις απο αυτές τις IP διευθύνσεις:"
+      ip_address_list_description: "Εάν χρησιμοποιείτε μια υπηρεσία αυθεντικοποίησης που απαιτεί τον διακομιστή του Omega να επικοινωνήσει με τον δικό σας διακομιστή απευθείας, πχ τον LDAP, θα πρέπει να βεβαιωθείτε πως ο δικός σας διακομιστής μπορεί να δεχτεί συνδέσεις απο αυτές τις IP διευθύνσεις:"
       no_auth_type_description: "Αυτός ο λογαριασμός δεν είναι ενσωματωμένος με κάποιο πάροχο ταυτότητας αυτήν την στιγμή"
       page_title: "Ρυθμίσεις αυθεντικοποίησης"
       profile_page_link_example: "Για παράδειγμα, εδώ είναι η σελίδα του προφίλ σας:  [%{friendlyname}](%{url})"
@@ -243,8 +243,8 @@ el:
       test_ldap_link: "Δοκιμή LDAP Αυθεντικοποίησης"
     ldap_fields: 
       auth_filter_description: "Χρησιμοποιήστε *%{placeholder}* σαν ετικέτα αντικατάστασης για το όνομα χρήστη που έχει καταχωριθεί απο τον ίδιο χρήστη. Για παράδειγμα: *(sAMAccountName=%{placeholder})*"
-      identifer_format_description: "To LDAP πεδίο που θα χρησιμοποιηθεί για την εύρεση της ονόματος σύνδεσης του Canvas. Αφήστε το κενό για να χρησιμοποιηθεί το όνομα χρήστη που έχει καταχωριθεί απο τον καθαυτόν χρήστη"
-      ldap_timeout_failure_help2: "Εαν το Canvas διακόπτει την σύνδεση με τον LDAP διακομιστή λόγω χρονοκαθυστέρησης, θα εμποδίσει περαιτέρω προσπάθειες για σύνδεση με τον LDAP διακομιστή για %{time}. Ο LDAP διακομιστής σας χρονοκαθυστέρησε την τελευταία φορά στις %{timestamp}."
+      identifer_format_description: "To LDAP πεδίο που θα χρησιμοποιηθεί για την εύρεση της ονόματος σύνδεσης του Omega. Αφήστε το κενό για να χρησιμοποιηθεί το όνομα χρήστη που έχει καταχωριθεί απο τον καθαυτόν χρήστη"
+      ldap_timeout_failure_help2: "Εαν το Omega διακόπτει την σύνδεση με τον LDAP διακομιστή λόγω χρονοκαθυστέρησης, θα εμποδίσει περαιτέρω προσπάθειες για σύνδεση με τον LDAP διακομιστή για %{time}. Ο LDAP διακομιστής σας χρονοκαθυστέρησε την τελευταία φορά στις %{timestamp}."
     ldap_settings_test: 
       labels: 
         pass: "Κωδικός πρόσβασης"
@@ -252,14 +252,14 @@ el:
       ldap_test_login_button: "Δοκιμή εισόδου στο σύστημα"
       test_ldap_bind_help_body: "O LDAP διακομιστής σας απέρριψε την προσπάθεια σύνδεσης. Θέματα που μπορείτε να εξετάσετε:"
       test_ldap_bind_help_fixes_1: "Επιβεβαιώστε το αλφαριθμητικό φίλτρου που παρείχατε  (π.χ. '(sAMAccountName={{login}})')."
-      test_ldap_bind_help_fixes_2: "Πρέπει να υπάρξει για το όνομα χρήστη περισσότερη πληροφορία για οριοθέτηση; (π.χ. 'cn=Canvas,ou=people,dc=example,dc=com'). "
-      test_ldap_bind_help_header: "To Canvas δεν μπορεί να συνδεθεί (login) στον LDAP διακομιστή σας"
+      test_ldap_bind_help_fixes_2: "Πρέπει να υπάρξει για το όνομα χρήστη περισσότερη πληροφορία για οριοθέτηση; (π.χ. 'cn=Omega,ou=people,dc=example,dc=com'). "
+      test_ldap_bind_help_header: "To Omega δεν μπορεί να συνδεθεί (login) στον LDAP διακομιστή σας"
       test_ldap_bind_label: "Έλεγχος συνδεσιμότητας με τον LPAP διακομιστή"
       test_ldap_connection_help_body: "Η σύνδεση είτε υπέρβει το χρονικό της όριο είτε απορρίφτηκε. Θέματα που μπορείτε να εξετάσετε:"
-      test_ldap_connection_help_fixes_1: "Το Canvas συνδέεται στο %{ips}"
+      test_ldap_connection_help_fixes_1: "Το Omega συνδέεται στο %{ips}"
       test_ldap_connection_help_fixes_2: "Αυτός ήταν μόνο ένας έλεγχος σύνδεσης. Τα πιστοποιητικά SSL δεν είναι επικυρωμένα."
-      test_ldap_connection_help_fixes_3: "Ελέγξτε τις ρυθμίσεις του τείχους προστασίας σας. Επιτρέπεται σε όλες τις διευθύνσεις IP του Canvas να έχουν πρόσβαση στο διακομιστή σας;"
-      test_ldap_connection_help_header: "To Canvas δεν μπορεί να συνδεθεί στο LDAP διακομιστή σας."
+      test_ldap_connection_help_fixes_3: "Ελέγξτε τις ρυθμίσεις του τείχους προστασίας σας. Επιτρέπεται σε όλες τις διευθύνσεις IP του Omega να έχουν πρόσβαση στο διακομιστή σας;"
+      test_ldap_connection_help_header: "To Omega δεν μπορεί να συνδεθεί στο LDAP διακομιστή σας."
       test_ldap_connection_label: "'Ελεγχος σύνδεσης..."
       test_ldap_dialog_close: Κλείσιμο
       test_ldap_dialog_page_title: "Γίνεται έλεγχος των LDAP ρυθμίσεων σας"
@@ -270,7 +270,7 @@ el:
       test_ldap_search_help_fixes_1: "Επιβεβαιώστε το αλφαριθμητικό φίλτρου που παρείχατε  (π.χ. '(sAMAccountName={{login}})')."
       test_ldap_search_help_fixes_2: "Επιβεβαιώστε τη βάση αναζήτησης που παρείχατε (π.χ. 'ou=people,dc=example,dc=com')."
       test_ldap_search_help_fixes_3: "Επιβεβαιώστε ότι το αντικείμενο χρήστη LDAP έχει προνόμια αναζήτησης για την παρεχόμενη βάση αναζήτησης."
-      test_ldap_search_help_header: "Το Canvas δεν μπορεί να ερευνήσει την LPAP σύνδεσή σας"
+      test_ldap_search_help_header: "Το Omega δεν μπορεί να ερευνήσει την LPAP σύνδεσή σας"
       test_ldap_search_label: "Έλεγχος αναζήτησης LDAP..."
     linkedin_fields: 
       description: |-
@@ -292,7 +292,7 @@ el:
       auth_request_to_idp: "AuthnRequest που στάλθηκε στο ldP"
       auth_response_from_idp: "AuthnResponse απο το ldP"
       labels: 
-        canvas_login_fail_message: "Μήνυμα απο το Canvas σχετικά με την αποτυχία σύνδεσης"
+        canvas_login_fail_message: "Μήνυμα απο το Omega σχετικά με την αποτυχία σύνδεσης"
         fingerprint_from_idp: "IdP ψηφιακό πιστοποιητιό αποτύπωμα"
         idp_in_response_to: "IdP inResponseTo"
         idp_login_destination: "IdP LoginResponse κατεύθυνση"
@@ -303,10 +303,10 @@ el:
         idp_response_encoded: "IdP LoginResponse encoded"
         idp_response_xml_decrypted: "IdP LoginResponse Decrypted"
         idp_response_xml_encrypted: "IdP LoginResponse Encrypted"
-        is_valid_login_response: "το Canvas πιστεύει πως η απάντηση είναι έγκυρη"
+        is_valid_login_response: "το Omega πιστεύει πως η απάντηση είναι έγκυρη"
         logged_in_user_id: "Το id χρήστη που έχει συνδεθεί"
         login_response_validation_error: "Λάθος στην Επικύρωση"
-        login_to_canvas_success: "Ο χρήστης συνδέθηκε επιτυχώς στο Canvas"
+        login_to_canvas_success: "Ο χρήστης συνδέθηκε επιτυχώς στο Omega"
         logout_request_id: "Logout request id"
         logout_to_idp_url: "LogoutRequest encoded URL"
         logout_to_idp_xml: "Το XML LogoutRequest που στάλθηκε στο ldP"
@@ -317,10 +317,10 @@ el:
       logout_request_to_idp: "LogoutRequest που στάλθηκε στο IdP"
       logout_response_from_idp: "LogoutResponse απο το IdP"
     sso_settings_form: 
-      change_password_url_help: "Αφήστε το κενό για βασική συμπεριφορά του Canvas"
-      discovery_url_description: "<mrk mid=\"3545\" mtype=\"seg\">Αν έχει οριστεί διεύθυνση εντοπισμού URL, το Canvas θα παραπέμπει όλους τους χρήστες σε αυτό το URL όταν θα πρέπει να επαληθευτούν.</mrk> <mrk mid=\"3546\" mtype=\"seg\">Αυτή η σελίδα θα πρέπει στη συνέχεια να βοηθήσει τον χρήστη να καταλάβει πού πρέπει να πάει για να συνδεθεί. Αν δεν έχει οριστεί διεύθυνση εντοπισμού URL, η πρώτη ρύθμιση θα χρησιμοποιηθεί για να προσπαθήσει να επαληθεύσει τον χρήστη.</mrk>"
+      change_password_url_help: "Αφήστε το κενό για βασική συμπεριφορά του Omega"
+      discovery_url_description: "<mrk mid=\"3545\" mtype=\"seg\">Αν έχει οριστεί διεύθυνση εντοπισμού URL, το Omega θα παραπέμπει όλους τους χρήστες σε αυτό το URL όταν θα πρέπει να επαληθευτούν.</mrk> <mrk mid=\"3546\" mtype=\"seg\">Αυτή η σελίδα θα πρέπει στη συνέχεια να βοηθήσει τον χρήστη να καταλάβει πού πρέπει να πάει για να συνδεθεί. Αν δεν έχει οριστεί διεύθυνση εντοπισμού URL, η πρώτη ρύθμιση θα χρησιμοποιηθεί για να προσπαθήσει να επαληθεύσει τον χρήστη.</mrk>"
       login_handle_name_description: "Η ετικέτα που χρησιμοποιείται για μοναδικά αναγνωριστικά εισόδου. Παραδείγματα: Σύνδεση, Όνομα χρήστη, Αριθμός ταυτότητας Σπουδαστή/ιας κτλ"
-      unknown_user_url_description: "Το url στο οποίο θα γίνει ανακατεύθυνση όταν ένας αυθεντικοποιημένος χρήστης δεν βρεθεί στο Canvas"
+      unknown_user_url_description: "Το url στο οποίο θα γίνει ανακατεύθυνση όταν ένας αυθεντικοποιημένος χρήστης δεν βρεθεί στο Omega"
   account_course_and_user_search_22bf297a: "Μάθημα Λογαριασμού και Εύρεση Χρήστη"
   account_domain_78f43049: "Τομέας Λογαριασμού"
   account_groups_2f301732: "Ομάδες Λογαριασμού"
@@ -911,7 +911,7 @@ el:
       account_reports: 
         sis_export: 
           description: 
-            text: "Αυτή η αναφορά θα εξαγάγει όλες τις απαραίτητες πληροφορίες που σχετίζονται με την παροχή του Canvas στις αντίστοιχες κατηγορίες του."
+            text: "Αυτή η αναφορά θα εξαγάγει όλες τις απαραίτητες πληροφορίες που σχετίζονται με την παροχή του Omega στις αντίστοιχες κατηγορίες του."
     provisioning_csv_parameters: 
       account_reports: 
         default: 
@@ -987,11 +987,11 @@ el:
     settings: 
       about_google_docs: |-
           Οι Προεπισκοπήσεις των Google Doc επιτρέπουν στους χρήστες να προβάλουν τα έγγραφα
-          μέσα από το Canvas, αντί να τα κατεβάζουν και
+          μέσα από το Omega, αντί να τα κατεβάζουν και
           να ανοίγουν το αντίστοιχο πρόγραμμα (π.χ. Word ή Excel).
           
           Οι Προεπισκοπήσεις των Google Doc  μπορούν ακόμη να υποστηρίξουν τύπους αρχείων
-          που δεν υποστηρίζει το εργαλείο προεπισκόπησης εγγράφων του Canvas.
+          που δεν υποστηρίζει το εργαλείο προεπισκόπησης εγγράφων του Omega.
           
           Χρησιμοποιώντας αυτή την υπηρεσία,
           αναγνωρίζετε ότι έχετε διαβάσει και συμφωνείτε με τους
@@ -1021,7 +1021,7 @@ el:
       default_language_description: |-
           Αυτή η ενέργεια θα παρακάμψει όλες τις ρυθμίσεις του περιηγητή/λειτουργικού συστήματος.
           Οι προτιμώμενες γλώσσες μπορούν να ξαναρυθμιστούν σε επίπεδο μαθήματος/χρήστη.
-      email_notification_from_description: "Αυτή η ρύθμιση επιτρέπει στον Διαχειριστή να ορίζει σήμανση ή ετικέτα στο κείμενο στη θέση «Από» για όλες τις ειδοποιήσεις που αποστέλλονται από το Canvas για αυτόν τον λογαριασμό. "
+      email_notification_from_description: "Αυτή η ρύθμιση επιτρέπει στον Διαχειριστή να ορίζει σήμανση ή ετικέτα στο κείμενο στη θέση «Από» για όλες τις ειδοποιήσεις που αποστέλλονται από το Omega για αυτόν τον λογαριασμό. "
       email_notification_from_settings: "Ρυθμίσεις «Από» για Ειδοποιήσεις Email"
       equall_endpoint_help: "Αυτό είναι το URL για την υπηρεσία σας equella. Πιθανόν να έχει εμφάνιση κάτι σαν \"%{sample_url}\"."
       equella_settings_title: "Ρυθμίσεις Equella"
@@ -1038,7 +1038,7 @@ el:
         sections: Αναφορές
         settings: "Ρυθμίσεις Λογαριασμού"
       interpolate_account_domain: "Εισαγάγετε «{{ACCOUNT_DOMAIN}}» για να υποκαταστήσετε τον τομέα λογαριασμού ρίζας του χρήστη"
-      interpolate_user_id: "Εισαγάγετε το «{{CANVAS_USER_ID}}» για να υποκαταστήσετε το μοναδικό ID του χρήστη στο Canvas"
+      interpolate_user_id: "Εισαγάγετε το «{{CANVAS_USER_ID}}» για να υποκαταστήσετε το μοναδικό ID του χρήστη στο Omega"
       labels: 
         admins_can_change_passwords: "Συνθηματικό που ρυθμίζεται απο τους διαχειριστές"
         admins_can_view_notifications: "Οι Διαχειριστές μπορούν να δουν τις ειδοποιήσεις"
@@ -1069,7 +1069,7 @@ el:
         originality_report_visibility: "Οι Φοιτητές/τριες Μπορούν να Δουν την αναφορά πρωτοτυπίας"
         outgoing_email_default_name: "Όνομα:"
         outgoing_email_default_name_option_custom: "Προσαρμογή Ονόματος «Από»"
-        outgoing_email_default_name_option_default: "Προεπιλεγμένη Ρύθμιση Canvas"
+        outgoing_email_default_name_option_default: "Προεπιλεγμένη Ρύθμιση Omega"
         prevent_course_renaming_by_teachers: "Μην δώσετε την δυνατότητα στους καθηγητές να μετανομάσουν τα μαθηματά τους"
         restrict_quiz_questions: "Περιορισμός των μαθητών απο το να βλέπουν τις ερωτήσεις των quiz  έπειτα απο την ημερομηνία λήξης του μαθήματος"
         restrict_student_future_listing: "Περιορισμός των μαθητών από το να βλέπουν τα μελλοντικά μαθήματα στην λίστα εγγραφών"
@@ -1103,14 +1103,14 @@ el:
       no_enrollment_roles: "χρήστες που δεν έχουν εγγραφτεί"
       no_language_preference: "Δεν έχει ρυθμιστεί(προεπιλεγμένη γλώσσα %{language})"
       notifications: 
-        custom_name_description: "Αν επιλεγεί, θα αντικαταστήσει κάθε άλλη σήμανση που αποστέλλεται στις ειδοποιήσεις του Canvas."
+        custom_name_description: "Αν επιλεγεί, θα αντικαταστήσει κάθε άλλη σήμανση που αποστέλλεται στις ειδοποιήσεις του Omega."
         email_date: Ημερομηνία
         email_reply_to: Απάντηση-Προς
         email_to: Πρός
         example: "Παράδειγμα:"
         external_services: "Οι ειδοποιήσεις στάλθηκαν σε εξωτερικές υπηρεσίες"
         external_services_label: "Προβολή αναδυόμενης προειδοποίησης που εμφανίζεται μία φορά στη σελίδα των Προτιμήσεων Ειδοποιήσεων."
-        external_services_warning: "Ειδοποίηση: Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες. Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Canvas εκτός του συστήματος του ιδρύματος."
+        external_services_warning: "Ειδοποίηση: Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες. Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Omega εκτός του συστήματος του ιδρύματος."
         external_services_warning_label: "Περιεχόμενο Αναδυόμενου Μηνύματος"
         from: Από
         subject: Μάθημα
@@ -1154,7 +1154,7 @@ el:
       tab_quotas: "Όρια αποθηκευτικού χώρου/Quotas"
       tab_reports: Αναφορές
       tab_settings: Ρυθμίσεις
-      transifex_message: "Μπείτε στην [Κοινότητα Μετάφρασης του Canvas](%{transifex_url})"
+      transifex_message: "Μπείτε στην [Κοινότητα Μετάφρασης του Omega](%{transifex_url})"
       turnitin_comments_help: "αυτά τα σχόλια θα εμφανιστούν στους σπουδαστές κατά την διάρκεια της υποβολής εργασίας στο Turnitin"
       turnitin_pledge_help: "οι φοιτητές πρέπει να τσεκάρουν ένα κουτί αναγνωρίζοντας ότι συμφωνούν με αυτή τη δέσμευση"
       turnitin_settings_title: "Ρυθμίσεις Turnitin"
@@ -1600,7 +1600,7 @@ el:
   allow_the_ability_to_send_notifications_through_ou_13cc8537: "Δίνεται η δυνατότητα αποστολής ειδοποιήσεων μέσω της ουράς αποστολής"
   allowed_attempts_4e229caa: "Επιτρεπόμενες Προσπάθειες"
   allows_the_scheduling_of_recurring_calendar_events_aac71007: "Επιτρέπει τον προγραμματισμό επαναλαμβανόμενων εκδηλώσεων στο ημερολόγιο"
-  allows_users_with_international_phone_numbers_to_r_f90f8522: "Επιτρέπει στους χρήστες με διεθνείς τηλεφωνικούς αριθμούς να λαμβάνουν γραπτά μηνύματα από το Canvas."
+  allows_users_with_international_phone_numbers_to_r_f90f8522: "Επιτρέπει στους χρήστες με διεθνείς τηλεφωνικούς αριθμούς να λαμβάνουν γραπτά μηνύματα από το Omega."
   always_3a59e701: Πάντα
   an_assignment_name_dc624e70: "Ένα Όνομα Εργασίας"
   an_error_occured_please_try_again_e59b65b: "Συνέβη ένα σφάλμα. Παρακαλούμε ξαναπροσπαθήστε."
@@ -1748,7 +1748,7 @@ el:
       page_disabled_for_group: "Αυτή η σελίδα έχει απενεργοποιηθεί για αυτή την ομάδα"
     warnings: 
       details: 
-        suspended: "Ο λογαριασμός του πανεπιστημίου στο Canvas έχει ανασταλεί. Μόνο οι διαχειριστές του λογαριασμού μπορούν να συνδέονται για την επίλυση προβλημάτων."
+        suspended: "Ο λογαριασμός του πανεπιστημίου στο Omega έχει ανασταλεί. Μόνο οι διαχειριστές του λογαριασμού μπορούν να συνδέονται για την επίλυση προβλημάτων."
       please_log_in: "Για λόγους ασφαλείας, παρακαλώ εισαγάγετε τον κωδικό πρόσβασής σας για να συνεχίσετε"
       titles: 
         suspended: "To ίδρυμα αυτό έχει ανασταλεί"
@@ -1772,7 +1772,7 @@ el:
   approved_c3b285d4: "εγκεκριμένο/α "
   approximate_value_with_precision_precision_6b7cc6ef: "%{approximate_value} με ακρίβεια %{precision}"
   apps_54d24a47: Εφαρμογές
-  apps_are_an_easy_way_to_add_new_features_to_canvas_2cbc2531: "Οι εφαρμογές είναι ένας εύκολος τρόπος να προσθέσετε νέες λειτουργίες στο Canvas. Μπορούν να προστεθούν σε μεμονωμένα μαθήματα ή σε όλα τα μαθήματα ενός λογαριασμού. Μόλις ολοκληρωθεί η ρύθμισή τους, μπορείτε να συνδεθείτε σε αυτά μέσω ενοτήτων των μαθημάτων και να δημιουργήσετε εργασίες για εργαλεία αξιολόγησης."
+  apps_are_an_easy_way_to_add_new_features_to_canvas_2cbc2531: "Οι εφαρμογές είναι ένας εύκολος τρόπος να προσθέσετε νέες λειτουργίες στο Omega. Μπορούν να προστεθούν σε μεμονωμένα μαθήματα ή σε όλα τα μαθήματα ενός λογαριασμού. Μόλις ολοκληρωθεί η ρύθμισή τους, μπορείτε να συνδεθείτε σε αυτά μέσω ενοτήτων των μαθημάτων και να δημιουργήσετε εργασίες για εργαλεία αξιολόγησης."
   appt_calendar_event_dialog: 
     invalid_participants: "Πρέπει να επιτρέψετε σε τουλάχιστον ένα μαθητή να παρευρεθεί"
     title: "Επεφεργασία %{name}"
@@ -2087,7 +2087,7 @@ el:
       gpa_scale_input_explainer: "Οι βαθμολογίες απεικονίζονται σε κλίμακα έως 4.0. Για παράδειγμα, αν μια εργασία βαθμολογείται με άριστα τα 100 μόρια, η καταχώριση 4.0 αντιστοιχεί στο 100%, η καταχώριση 3.0 στο 87%, κ.λπ."
       gpa_scale_letters_explainer: "Η βαθμολόγηση με γράμματα μπορεί να χρησιμοποιηθεί επιπλέον της βαθμολόγησης με αριθμούς."
       gpa_scale_percentage_explainer: "Δεν μπορείτε να εισαγάγετε απευθείας μόρια, αλλά μπορείτε να εισαγάγετε ποσοστά. Για παράδειγμα, αν μια εργασία βαθμολογείται με άριστα τα 50 μόρια, η καταχώριση «40» δεν θα λειτουργήσει, αλλά η καταχώριση «80%» θα λειτουργήσει."
-      gpa_scale_recommendation: "Το Canvas συνιστά την εμφάνιση της Βαθμολόγησης με Γράμματα, εκτός και αν το σχολείο σας χρησιμοποιεί κλίμακα έως 4.0 (ή 5.0/6.0) για τη βαθμολόγηση."
+      gpa_scale_recommendation: "Το Omega συνιστά την εμφάνιση της Βαθμολόγησης με Γράμματα, εκτός και αν το σχολείο σας χρησιμοποιεί κλίμακα έως 4.0 (ή 5.0/6.0) για τη βαθμολόγηση."
       gpa_scale_scores_explainer: "Οι μόνες επιτρεπόμενες βαθμολογίες έχουν προκαθοριστεί στο σύστημα βαθμολόγησης."
       gpa_scale_title: "«Τι είναι η Κλίμακα Βαθμολόγησης GPA;»"
       grading_type_options: 
@@ -2335,15 +2335,15 @@ el:
           website: "URL ιστοσελίδας"
       loading_tools: "Φόρτωση εργαλίων..."
       messages: 
-        google_drives_auth_required: "Πριν μπορέσετε να υποβάλετε εργασίες απευθείας από το Google Drive, θα πρέπει να εξουσιοδοτήσετε το Canvas να έχει πρόσβαση στον λογαριασμό σας στο Google Drive:"
+        google_drives_auth_required: "Πριν μπορέσετε να υποβάλετε εργασίες απευθείας από το Google Drive, θα πρέπει να εξουσιοδοτήσετε το Omega να έχει πρόσβαση στον λογαριασμό σας στο Google Drive:"
         media_recording_ready: "Όλα Έτοιμα για Υποβολή! Κάντε κλικ στο κουμπί «Υποβολή Εργασίας» για ολοκλήρωση."
-        media_recordings_disabled: "Οι ηχογραφήσεις αρχείων πολυμέσων δεν είναι ενεργοποιημένες σε αυτή την ιστοσελίδα του Canvas και δεν θα μπορέσετε να υποβάλετε εργασίες αυτού του τύπου. Παρακαλώ επικοινωνήστε με τον εκπαιδευτή σας για να αλλάξετε τις ρυθμίσεις αυτής της εργασίας ή με τον διαχειριστή των υπολογιστικών συστημάτων σας για την ενεργοποίηση των ηχογραφήσεων αρχείων πολυμέσων."
+        media_recordings_disabled: "Οι ηχογραφήσεις αρχείων πολυμέσων δεν είναι ενεργοποιημένες σε αυτή την ιστοσελίδα του Omega και δεν θα μπορέσετε να υποβάλετε εργασίες αυτού του τύπου. Παρακαλώ επικοινωνήστε με τον εκπαιδευτή σας για να αλλάξετε τις ρυθμίσεις αυτής της εργασίας ή με τον διαχειριστή των υπολογιστικών συστημάτων σας για την ενεργοποίηση των ηχογραφήσεων αρχείων πολυμέσων."
         submitting: "Υποβολή σε εξέλιξη..."
         uploading: "Γίνεται ανάκτηση αντιγράφου του Google Doc σας για υποβολή για αυτή την εργασία. Αυτό μπορεί να πάρει λίγη ώρα, ανάλογα με το μέγεθος του αρχείου..."
       no_submission: "Δεν έχει Επιλεγεί Υποβολή"
       submission_url: "Υποβολή:"
       titles: 
-        media_recordings_disabled: "Εγγραφές πολυμέσων δεν έχουν ενεργοποιηθεί για αυτή την ιστοσελίδα Canvas"
+        media_recordings_disabled: "Εγγραφές πολυμέσων δεν έχουν ενεργοποιηθεί για αυτή την ιστοσελίδα Omega"
     submit_online_text_entry: 
       additional_comments: "Πρόσθετα σχόλια"
       buttons: 
@@ -2505,7 +2505,7 @@ el:
     index: 
       delete_auth_confirmation: "Είσαστε σίγουροι; Οι χρήστες πιθανόν να μην μπορούν να συνδεθούν αν αυτό αφαιρεθεί."
       delete_auth_link: "Αφαίρεση της Αυθεντικοποίησης"
-      ip_address_list_description: "Εάν χρησιμοποιείτε μια υπηρεσία αυθεντικοποίησης που απαιτεί τον διακομιστή του Canvas να επικοινωνήσει με τον δικό σας διακομιστή απευθείας, πχ τον LDAP, θα πρέπει να βεβαιωθείτε πως ο δικός σας διακομιστής μπορεί να δεχτεί συνδέσεις απο αυτές τις IP διευθύνσεις:"
+      ip_address_list_description: "Εάν χρησιμοποιείτε μια υπηρεσία αυθεντικοποίησης που απαιτεί τον διακομιστή του Omega να επικοινωνήσει με τον δικό σας διακομιστή απευθείας, πχ τον LDAP, θα πρέπει να βεβαιωθείτε πως ο δικός σας διακομιστής μπορεί να δεχτεί συνδέσεις απο αυτές τις IP διευθύνσεις:"
       no_auth_type_description: "Αυτός ο λογαριασμός δεν είναι ενσωματωμένος με κάποιο πάροχο ταυτότητας αυτήν την στιγμή"
       page_title: "Ρυθμίσεις αυθεντικοποίησης"
       profile_page_link_example: "Για παράδειγμα, εδώ είναι η σελίδα του προφίλ σας:  [%{friendlyname}](%{url})"
@@ -2514,8 +2514,8 @@ el:
       test_ldap_link: "Δοκιμή LDAP Αυθεντικοποίησης"
     ldap_fields: 
       auth_filter_description: "Χρησιμοποιήστε *%{placeholder}* σαν ετικέτα αντικατάστασης για το όνομα χρήστη που έχει καταχωριθεί απο τον ίδιο χρήστη. Για παράδειγμα: *(sAMAccountName=%{placeholder})*"
-      identifer_format_description: "To LDAP πεδίο που θα χρησιμοποιηθεί για την εύρεση της ονόματος σύνδεσης του Canvas. Αφήστε το κενό για να χρησιμοποιηθεί το όνομα χρήστη που έχει καταχωριθεί απο τον καθαυτόν χρήστη"
-      ldap_timeout_failure_help2: "Εαν το Canvas διακόπτει την σύνδεση με τον LDAP διακομιστή λόγω χρονοκαθυστέρησης, θα εμποδίσει περαιτέρω προσπάθειες για σύνδεση με τον LDAP διακομιστή για %{time}. Ο LDAP διακομιστής σας χρονοκαθυστέρησε την τελευταία φορά στις %{timestamp}."
+      identifer_format_description: "To LDAP πεδίο που θα χρησιμοποιηθεί για την εύρεση της ονόματος σύνδεσης του Omega. Αφήστε το κενό για να χρησιμοποιηθεί το όνομα χρήστη που έχει καταχωριθεί απο τον καθαυτόν χρήστη"
+      ldap_timeout_failure_help2: "Εαν το Omega διακόπτει την σύνδεση με τον LDAP διακομιστή λόγω χρονοκαθυστέρησης, θα εμποδίσει περαιτέρω προσπάθειες για σύνδεση με τον LDAP διακομιστή για %{time}. Ο LDAP διακομιστής σας χρονοκαθυστέρησε την τελευταία φορά στις %{timestamp}."
     ldap_settings_test: 
       labels: 
         pass: "Κωδικός πρόσβασης"
@@ -2523,14 +2523,14 @@ el:
       ldap_test_login_button: "Δοκιμή εισόδου στο σύστημα"
       test_ldap_bind_help_body: "O LDAP διακομιστής σας απέρριψε την προσπάθεια σύνδεσης. Θέματα που μπορείτε να εξετάσετε:"
       test_ldap_bind_help_fixes_1: "Επιβεβαιώστε το αλφαριθμητικό φίλτρου που παρείχατε  (π.χ. '(sAMAccountName={{login}})')."
-      test_ldap_bind_help_fixes_2: "Πρέπει να υπάρξει για το όνομα χρήστη περισσότερη πληροφορία για οριοθέτηση; (π.χ. 'cn=Canvas,ou=people,dc=example,dc=com'). "
-      test_ldap_bind_help_header: "To Canvas δεν μπορεί να συνδεθεί (login) στον LDAP διακομιστή σας"
+      test_ldap_bind_help_fixes_2: "Πρέπει να υπάρξει για το όνομα χρήστη περισσότερη πληροφορία για οριοθέτηση; (π.χ. 'cn=Omega,ou=people,dc=example,dc=com'). "
+      test_ldap_bind_help_header: "To Omega δεν μπορεί να συνδεθεί (login) στον LDAP διακομιστή σας"
       test_ldap_bind_label: "Έλεγχος συνδεσιμότητας με τον LPAP διακομιστή"
       test_ldap_connection_help_body: "Η σύνδεση είτε υπέρβει το χρονικό της όριο είτε απορρίφτηκε. Θέματα που μπορείτε να εξετάσετε:"
-      test_ldap_connection_help_fixes_1: "Το Canvas συνδέεται στο %{ips}"
+      test_ldap_connection_help_fixes_1: "Το Omega συνδέεται στο %{ips}"
       test_ldap_connection_help_fixes_2: "Αυτός ήταν μόνο ένας έλεγχος σύνδεσης. Τα πιστοποιητικά SSL δεν είναι επικυρωμένα."
-      test_ldap_connection_help_fixes_3: "Ελέγξτε τις ρυθμίσεις του τείχους προστασίας σας. Επιτρέπεται σε όλες τις διευθύνσεις IP του Canvas να έχουν πρόσβαση στο διακομιστή σας;"
-      test_ldap_connection_help_header: "To Canvas δεν μπορεί να συνδεθεί στο LDAP διακομιστή σας."
+      test_ldap_connection_help_fixes_3: "Ελέγξτε τις ρυθμίσεις του τείχους προστασίας σας. Επιτρέπεται σε όλες τις διευθύνσεις IP του Omega να έχουν πρόσβαση στο διακομιστή σας;"
+      test_ldap_connection_help_header: "To Omega δεν μπορεί να συνδεθεί στο LDAP διακομιστή σας."
       test_ldap_connection_label: "'Ελεγχος σύνδεσης..."
       test_ldap_dialog_close: Κλείσιμο
       test_ldap_dialog_page_title: "Γίνεται έλεγχος των LDAP ρυθμίσεων σας"
@@ -2541,7 +2541,7 @@ el:
       test_ldap_search_help_fixes_1: "Επιβεβαιώστε το αλφαριθμητικό φίλτρου που παρείχατε  (π.χ. '(sAMAccountName={{login}})')."
       test_ldap_search_help_fixes_2: "Επιβεβαιώστε τη βάση αναζήτησης που παρείχατε (π.χ. 'ou=people,dc=example,dc=com')."
       test_ldap_search_help_fixes_3: "Επιβεβαιώστε ότι το αντικείμενο χρήστη LDAP έχει προνόμια αναζήτησης για την παρεχόμενη βάση αναζήτησης."
-      test_ldap_search_help_header: "Το Canvas δεν μπορεί να ερευνήσει την LPAP σύνδεσή σας"
+      test_ldap_search_help_header: "Το Omega δεν μπορεί να ερευνήσει την LPAP σύνδεσή σας"
       test_ldap_search_label: "Έλεγχος αναζήτησης LDAP..."
     linkedin_fields: 
       description: |-
@@ -2552,10 +2552,10 @@ el:
     no_changing_auth_types: "Δεν είναι δυνατή η αλλαγή του τύπου της ρύθμισης που αφορά την αυθεντικοποίηση, παρακαλώ σβήστε και δημιουργήστε μα καινούργια ρύθμιση"
     password_required: "πρέπει να παρέχεται"
     sso_settings_form: 
-      change_password_url_help: "Αφήστε το κενό για βασική συμπεριφορά του Canvas"
-      discovery_url_description: "<mrk mid=\"3545\" mtype=\"seg\">Αν έχει οριστεί διεύθυνση εντοπισμού URL, το Canvas θα παραπέμπει όλους τους χρήστες σε αυτό το URL όταν θα πρέπει να επαληθευτούν.</mrk> <mrk mid=\"3546\" mtype=\"seg\">Αυτή η σελίδα θα πρέπει στη συνέχεια να βοηθήσει τον χρήστη να καταλάβει πού πρέπει να πάει για να συνδεθεί. Αν δεν έχει οριστεί διεύθυνση εντοπισμού URL, η πρώτη ρύθμιση θα χρησιμοποιηθεί για να προσπαθήσει να επαληθεύσει τον χρήστη.</mrk>"
+      change_password_url_help: "Αφήστε το κενό για βασική συμπεριφορά του Omega"
+      discovery_url_description: "<mrk mid=\"3545\" mtype=\"seg\">Αν έχει οριστεί διεύθυνση εντοπισμού URL, το Omega θα παραπέμπει όλους τους χρήστες σε αυτό το URL όταν θα πρέπει να επαληθευτούν.</mrk> <mrk mid=\"3546\" mtype=\"seg\">Αυτή η σελίδα θα πρέπει στη συνέχεια να βοηθήσει τον χρήστη να καταλάβει πού πρέπει να πάει για να συνδεθεί. Αν δεν έχει οριστεί διεύθυνση εντοπισμού URL, η πρώτη ρύθμιση θα χρησιμοποιηθεί για να προσπαθήσει να επαληθεύσει τον χρήστη.</mrk>"
       login_handle_name_description: "Η ετικέτα που χρησιμοποιείται για μοναδικά αναγνωριστικά εισόδου. Παραδείγματα: Σύνδεση, Όνομα χρήστη, Αριθμός ταυτότητας Σπουδαστή/ιας κτλ"
-      unknown_user_url_description: "Το url στο οποίο θα γίνει ανακατεύθυνση όταν ένας αυθεντικοποιημένος χρήστης δεν βρεθεί στο Canvas"
+      unknown_user_url_description: "Το url στο οποίο θα γίνει ανακατεύθυνση όταν ένας αυθεντικοποιημένος χρήστης δεν βρεθεί στο Omega"
   authnrequest_sent_to_idp_74e030fc: "AuthnRequest που στάλθηκε στο ldP"
   authnresponse_from_idp_185037e9: "AuthnResponse απο το ldP"
   author_215203d2: Συγγραφέας
@@ -2623,9 +2623,9 @@ el:
     export_failed: "Παρουσιάστηκε σφάλμα κατά την εξαγωγή μαθήματος με αναγνωριστικό bb_lcid %{id} από το Blackboard"
     export_failed_no_id: "Παρουσιάστηκε σφάλμα κατά την εισαγωγή μαθήματος"
     export_failed_not_found: "Το μάθημα με αναγνωριστικό bb_lcid %{id} δεν βρέθηκε στο Blackboard με τον χρήστη %{user_name}"
-    export_failed_with_id: "Παρουσιάστηκε σφάλμα κατά την εισαγωγή μαθήματος με αναγνωριστικό bb_lcid %{id} στο Canvas"
+    export_failed_with_id: "Παρουσιάστηκε σφάλμα κατά την εισαγωγή μαθήματος με αναγνωριστικό bb_lcid %{id} στο Omega"
     no_course_found: "Δεν βρέθηκε μάθημα με %{id_type} του %{id}"
-    no_course_id_given: "Δεν βρέθηκε μάθημα στο Canvas με αναγνωριστικό bb_lcid %{id}"
+    no_course_id_given: "Δεν βρέθηκε μάθημα στο Omega με αναγνωριστικό bb_lcid %{id}"
     no_credentials_found: "Δεν βρέθηκαν διαπιστευτήρια για το όνομα χρήστη %{user_name}"
     no_credentials_given: "Δεν υπάρχει όνομα χρήστη για το μάθημα %{course_identifier}"
     no_lcid_found: "Δεν έχει οριστεί bb_lcid για μια σειρά."
@@ -2635,7 +2635,7 @@ el:
       exporting: "Εξαγωγή από το Blackboard"
       failed: Απέτυχε
       finished: Ολοκληρώθηκε
-      importing: "Εισαγωγή στο Canvas"
+      importing: "Εισαγωγή στο Omega"
       migration_cancelled_on: "Ακυρώθηκε στις %{date}"
       migration_failed_on: "Απέτυχε στις %{date}"
       migration_finished_on: "Ολοκληρώθηκε στις %{date}"
@@ -2645,7 +2645,7 @@ el:
       see_results: "Δείτε τα αποτελέσματα"
       show_warnings: "Προβολή προειδοποιήσεων"
       waiting_to_export: "Αναμονή εξαγωγής από το Blackboard"
-      waiting_to_import: "Αναμονή εισαγωγής στο Canvas"
+      waiting_to_import: "Αναμονή εισαγωγής στο Omega"
     index: 
       available_courses: "Διαθέσιμα Μαθήματα"
       bulk_description: "Αυτές είναι οι αναμενόμενες επικεφαλίδες στο αρχείο CSV:"
@@ -2653,8 +2653,8 @@ el:
         add_credentials: "Προσθήκη Διαπιστευτηρίων"
         migrate_courses: "Μεταφορά Μαθημάτων"
       column_name: "Όνομα στήλης"
-      course_id_description: "Το id του μαθήματος στο Canvas για εισαγωγή εκεί."
-      credential_description: "Αυτό το εργαλείο θα σας βοηθήσει να μεταφέρετε πολλαπλά μαθήματα ταυτόχρονα από σύστημα Blackboard Vista/CE. Προσθέστε ένα σετ διαπιστευτηρίων από σύστημα Blackboard σας και στη συνέχεια προσθέστε τα αναγνωριστικά του μαθήματος στο Canvas στο πρότυπο CSV που παρέχεται για να μεταφέρετε τα μαθήματά σας."
+      course_id_description: "Το id του μαθήματος στο Omega για εισαγωγή εκεί."
+      credential_description: "Αυτό το εργαλείο θα σας βοηθήσει να μεταφέρετε πολλαπλά μαθήματα ταυτόχρονα από σύστημα Blackboard Vista/CE. Προσθέστε ένα σετ διαπιστευτηρίων από σύστημα Blackboard σας και στη συνέχεια προσθέστε τα αναγνωριστικά του μαθήματος στο Omega στο πρότυπο CSV που παρέχεται για να μεταφέρετε τα μαθήματά σας."
       csv_description: "Μπορούν να προστεθούν και άλλες στήλες αλλά θα αγνοηθούν. Να ένα παράδειγμα ενός απλού αρχείου CSV για 3 μαθήματα στον λογαριασμό ενός χρήστη με το όνομα «greg»:"
       csv_template: "Πρότυπο CSV"
       current_migration_batch: "Τμήμα Τρέχουσας Μεταφοράς"
@@ -2672,7 +2672,7 @@ el:
       previous_migration_batches: "Τμήματα προηγούμενης μεταφοράς"
       school: Σχολείο
       school_not_supported: "Παρακαλώ ζητήστε από τον διαχειριστή σας να επικοινωνήσει με την Instructure για να σας βοηθήσει να λάβετε υποστήριξη για το πανεπιστήμιό σας."
-      sis_id_description: "Το SIS ID του μαθήματος στο Canvas για εισαγωγή εκεί."
+      sis_id_description: "Το SIS ID του μαθήματος στο Omega για εισαγωγή εκεί."
       upload_migration_csv: "Μεταφόρτωση αρχείου CSV Μεταφοράς"
       user_name: "Όνομα Χρήστη"
       user_name_description: "Το όνομα χρήστη του χρήστη που έχει πρόσβαση καθηγητή/σχεδιαστή στο μάθημα για τη σειρά. Το όνομα πρέπει να ταυτίζεται με το όνομα χρήστη που εμφανίζεται στα διαπιστευτήρια σύνδεσης στο Blackboard παραπάνω."
@@ -3027,7 +3027,7 @@ el:
     ics_description_course: "Γεγονότα ημερολογίου για το μάθημα %{course_name}"
     ics_description_group: "Γεγονότα ημερολογίου για την ομάδα %{group_name}"
     ics_description_user: "Γεγονότα ημερολογίου για τον χρήστη %{user_name}"
-    ics_title: "Ημερολόγιο %{course_or_group_name} (Canvas)"
+    ics_title: "Ημερολόγιο %{course_or_group_name} (Omega)"
     invalid_date_or_time: "Μη έγκυρη ημερομηνία ή μη έγκυρη ημερομηνία/ώρα για το %{attr}"
   calendars: 
     event: 
@@ -3104,30 +3104,30 @@ el:
         login_expiration_minimum: "Η λήξη του χρόνου της συνεδρίας πρέπει να είναι 20 λεπτά ή παραπάνω"
         need_integer: "Παρακαλώ εισαγάγετε μια τιμή για την κρυφή μνήμη της λίστας αναπαραγωγής"
         stream_name_required: "Απαιτείται το όνομα της ροής kinesis stream"
-  canvas_3962b702: Canvas
-  canvas_alert_change_assignment_name_course_name_2fc63d9c: "<mrk mid=\"4387\" mtype=\"seg\">Ειδοποίηση Canvas - Αλλαγή:</mrk> <mrk mid=\"4388\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
-  canvas_alert_invited_course_as_role_type_9ed79ce3: "<mrk mid=\"1447\" mtype=\"seg\">Ειδοποίηση Canvas - Προσκλήθηκε:</mrk> <mrk mid=\"1448\" mtype=\"seg\">%{course} ως %{role_type}</mrk>"
-  canvas_alert_invited_course_as_role_type_ea825937: "Ειδοποίηση Canvas - Προσκλήθηκε: course ως %{role_type}"
-  canvas_alert_late_submission_user_name_assignment__ee1301ac: "<mrk mid=\"1742\" mtype=\"seg\">Ειδοποίηση Canvas - Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"1743\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
-  canvas_by_instructure_1490381: "Canvas από την Instructure"
+  canvas_3962b702: Omega
+  canvas_alert_change_assignment_name_course_name_2fc63d9c: "<mrk mid=\"4387\" mtype=\"seg\">Ειδοποίηση Omega - Αλλαγή:</mrk> <mrk mid=\"4388\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
+  canvas_alert_invited_course_as_role_type_9ed79ce3: "<mrk mid=\"1447\" mtype=\"seg\">Ειδοποίηση Omega - Προσκλήθηκε:</mrk> <mrk mid=\"1448\" mtype=\"seg\">%{course} ως %{role_type}</mrk>"
+  canvas_alert_invited_course_as_role_type_ea825937: "Ειδοποίηση Omega - Προσκλήθηκε: course ως %{role_type}"
+  canvas_alert_late_submission_user_name_assignment__ee1301ac: "<mrk mid=\"1742\" mtype=\"seg\">Ειδοποίηση Omega - Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"1743\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
+  canvas_by_instructure_1490381: "Omega από την Instructure"
   canvas_cartridge_description: "Αυτή η επιλογή επιτρέπει τη μετατροπή εξαγωγής του canvas στην ενδιάμεση μορφή json για εισαγωγή"
-  canvas_cartridge_display: "Common Cartridge του Canvas"
-  canvas_cartridge_file_description: "Πακέτο Εξαγωγής Μαθήματος του Canvas"
-  canvas_cartridge_name: "Εισαγωγέας Cartridge του Canvas"
-  canvas_cloud_information_fdd404f2: "Πληροφορίες Canvas Cloud"
+  canvas_cartridge_display: "Common Cartridge του Omega"
+  canvas_cartridge_file_description: "Πακέτο Εξαγωγής Μαθήματος του Omega"
+  canvas_cartridge_name: "Εισαγωγέας Cartridge του Omega"
+  canvas_cloud_information_fdd404f2: "Πληροφορίες Omega Cloud"
   canvas_course_id_db4de2b8: canvas_course_id
-  canvas_dashboard_links_will_navigate_to_the_catalo_4143635e: "Οι σύνδεσμοι των εργαλειοθηκών του Canvas θα σας βοηθήσουν να πλοηγηθείτε στην εργαλειοθήκη του Καταλόγου"
-  canvas_demo_7a005cf3: "Δοκιμή Canvas"
-  canvas_did_not_recognize_your_identity_provider_cb0e50fc: "Το Canvas δεν αναγνώρισε τον πάροχο επαλήθευσής σας"
-  canvas_doesn_t_have_an_account_for_user_user_5bcae0dd: "<mrk mid=\"3557\" mtype=\"seg\">Στο Canvas δεν υπάρχει λογαριασμός για τον χρήστη:</mrk> <mrk mid=\"3558\" mtype=\"seg\">%{user}</mrk>"
-  canvas_error_report_ff678539: "Αναφορά Σφάλματος Canvas"
-  canvas_id_f42f6ad: "Canvas ID"
-  canvas_introduction_video_2d81f3ad: "Εισαγωγικό Βίντεο στο Canvas"
-  canvas_login_failure_message_4c922f2f: "Μήνυμα απο το Canvas σχετικά με την αποτυχία σύνδεσης"
+  canvas_dashboard_links_will_navigate_to_the_catalo_4143635e: "Οι σύνδεσμοι των εργαλειοθηκών του Omega θα σας βοηθήσουν να πλοηγηθείτε στην εργαλειοθήκη του Καταλόγου"
+  canvas_demo_7a005cf3: "Δοκιμή Omega"
+  canvas_did_not_recognize_your_identity_provider_cb0e50fc: "Το Omega δεν αναγνώρισε τον πάροχο επαλήθευσής σας"
+  canvas_doesn_t_have_an_account_for_user_user_5bcae0dd: "<mrk mid=\"3557\" mtype=\"seg\">Στο Omega δεν υπάρχει λογαριασμός για τον χρήστη:</mrk> <mrk mid=\"3558\" mtype=\"seg\">%{user}</mrk>"
+  canvas_error_report_ff678539: "Αναφορά Σφάλματος Omega"
+  canvas_id_f42f6ad: "Omega ID"
+  canvas_introduction_video_2d81f3ad: "Εισαγωγικό Βίντεο στο Omega"
+  canvas_login_failure_message_4c922f2f: "Μήνυμα απο το Omega σχετικά με την αποτυχία σύνδεσης"
   canvas_revision_unknown: Άγνωστο
-  canvas_thinks_response_is_valid_8cc4a67d: "το Canvas πιστεύει πως η απάντηση είναι έγκυρη"
-  canvas_ticketing_email_connector_27e253ae: "Συνδέτης (Connector) Email του Συστήματος Υποβολής Ticket του Canvas"
-  canvas_ticketing_web_post_connector_11158897: "Συνδέτης (Connector) Web Post του Συστήματος Υποβολής Ticket του Canvas"
+  canvas_thinks_response_is_valid_8cc4a67d: "το Omega πιστεύει πως η απάντηση είναι έγκυρη"
+  canvas_ticketing_email_connector_27e253ae: "Συνδέτης (Connector) Email του Συστήματος Υποβολής Ticket του Omega"
+  canvas_ticketing_web_post_connector_11158897: "Συνδέτης (Connector) Web Post του Συστήματος Υποβολής Ticket του Omega"
   careful_changes_to_group_membership_will_apply_to__19a9089c: "<mrk mid=\"7448\" mtype=\"seg\">Προσοχή!</mrk> <mrk mid=\"7449\" mtype=\"seg\">Οι αλλαγές στις συνδρομές των ομάδων θα εφαρμοστούν στις ομάδες που έχουν ήδη υποβολές εργασιών.</mrk> <mrk mid=\"7450\" mtype=\"seg\">Οι υποβολές ομαδικών εργασιών ενδέχεται, συνεπώς, να μην ευθυγραμμιστούν.</mrk> <mrk mid=\"7451\" mtype=\"seg\">Θα θέλατε να δημιουργήσετε μια νέα ομάδα για μελλοντικές εργασίες;</mrk>"
   cas_url_4ba2843e: "CAS URL"
   catalog_already_enabled_56478a3c: "Ο κατάλογος είναι ήδη ενεργοποιημένος"
@@ -3186,7 +3186,7 @@ el:
   client_id_cb2502af: "ID Πελάτη"
   clone_group_set_c2a40e15: "Κλωνοποίηση Σετ Ομάδων"
   close_17f50799: κλείσιμο
-  close_and_return_to_canvas_80544344: "Κλείσιμο και επιστροφή στο Canvas"
+  close_and_return_to_canvas_80544344: "Κλείσιμο και επιστροφή στο Omega"
   close_d634289d: Κλείσιμο
   close_for_comments_37783f56: "Κλεισμένο για Σχόλια"
   closed_for_comments_e395b42f: "Κλεισμένο για Σχόλια"
@@ -3219,14 +3219,14 @@ el:
       cannot_load_collaboration: "Αδυναμία φόρτωσης συνεργασίας"
       create_failed: "Αποτυχία δημιουργίας συνεργασίας"
       no_name: "Παρακαλώ εισάγετε όνομα για αυτή την συνεργασία."
-      not_enabled: "Δεν έχουν ενεργοποιηθεί συνεργασίες για αυτή την ιστοσελίδα Canvas"
+      not_enabled: "Δεν έχουν ενεργοποιηθεί συνεργασίες για αυτή την ιστοσελίδα Omega"
       title_too_long: "<mrk mid=\"6614\" mtype=\"seg\">Παρακαλώ χρησιμοποιήστε %{maxLength} χαρακτήρες ή λιγότερους για το όνομα.</mrk> <mrk mid=\"6615\" mtype=\"seg\">Χρησιμοποιήστε την περιγραφή για επιπλέον περιεχόμενο.</mrk>"
       update_failed: "Απέτυχε η ενημέρωση της συνεργασίας"
     forms: 
       buttons: 
         delete_from_canvas: |-
             Διαγραφή
-            από το Canvas
+            από το Omega
         delete_from_google_docs: |-
             Διαγραφή και από
             το Google Docs
@@ -3243,7 +3243,7 @@ el:
         description: "Περιγραφή:"
         document_name: "Όνομα αρχείου:"
       messages: 
-        delete_google_doc_as_well: "Αυτή η συνεργασία αποθηκεύεται ως Google Doc. Θέλατε να το διαγράψετε μόνο από το Canvas, ή και από τα Google Docs;"
+        delete_google_doc_as_well: "Αυτή η συνεργασία αποθηκεύεται ως Google Doc. Θέλατε να το διαγράψετε μόνο από το Omega, ή και από τα Google Docs;"
       titles: 
         new: "Ξεκινήστε μια Νέα Συνεργασία"
     google_drive: 
@@ -3296,7 +3296,7 @@ el:
   common_cartridge_name: "Εισαγωγέας Common Cartridge"
   communication_5255723c: Επικοινωνία
   communication_channel: 
-    body: "Ο κωδικός επιβεβαίωσής σας στο Canvas είναι %{verification_code}"
+    body: "Ο κωδικός επιβεβαίωσής σας στο Omega είναι %{verification_code}"
     default_twitter_handle: Twitter
     default_yo_name: "Όνομα Υο"
   communication_channel_id_197ef6f9: "ID καναλιού επικοινωνίας"
@@ -3307,7 +3307,7 @@ el:
         back: Πίσω
         continue: Συνέχεια
         create_account: "Δημιουργία του Λογασιασμού μου"
-        have_account: "Έχω Λογασιασμό Canvas"
+        have_account: "Έχω Λογασιασμό Omega"
         merge: Συνδυασμός
         new_account: Όχι
         ? "no"
@@ -3321,7 +3321,7 @@ el:
             Υπάρχει ήδη λογαριασμός συνδεδεμένος με το %{email}.
             
             **Είστε ο/η %{name}?**
-        account_needed: "Έχετε προσκληθεί να συμμετάσχετε στο **%{course}**. Για να αποδεχθείτε αυτή την πρόσκληση, πρέπει να έχετε λογαριασμό Canvas. Πατήστε στον παρακάτω σύνδεσμο για να δημιουργήσετε λογαριασμό Canvas."
+        account_needed: "Έχετε προσκληθεί να συμμετάσχετε στο **%{course}**. Για να αποδεχθείτε αυτή την πρόσκληση, πρέπει να έχετε λογαριασμό Omega. Πατήστε στον παρακάτω σύνδεσμο για να δημιουργήσετε λογαριασμό Omega."
         add_email: "Θα θέλατε να προσθέσετε διεύθυνση ηλεκτρονικού ταχυδρομείου στον τρέχοντα λογαριασμό σας;"
         choose_login: "Επιλέξτε που θα θέλατε να συνδεθείτε."
         logged_in_other_user: "**%{email}** είναι νέος λογαριασμός, αλλά προς το παρόν είστε συνδεδεμένοι ως **%{user}**."
@@ -3377,7 +3377,7 @@ el:
           
           Δεν θα μπορέσετε να την ξανανοίξετε.
       delete: "Είστε σίγουρος/η ότι επιθυμείτε να διαγράψετε αυτή τη συνεδρία;"
-    disabled_error: "Η συνεδρία μέσω Διαδικτύου δεν έχει ενεργοποιηθεί για αυτή την ιστοσελίδα Canvas"
+    disabled_error: "Η συνεδρία μέσω Διαδικτύου δεν έχει ενεργοποιηθεί για αυτή την ιστοσελίδα Omega"
     edit_conference_form: 
       advanced_settings: "Διαχείριση Προηγμένων Ρυθμίσεων..."
       conference_type: Είδος
@@ -3425,7 +3425,7 @@ el:
       buttons: 
         close: "Τερματισμός τώρα"
         join: "Συμμετοχή τώρα"
-    type_disabled_error: "Αυτό το είδος συνεδρίου δεν είναι πλέον διαθέσιμο για αυτή την ιστοσελίδα Canvas"
+    type_disabled_error: "Αυτό το είδος συνεδρίου δεν είναι πλέον διαθέσιμο για αυτή την ιστοσελίδα Omega"
   config_url_e96ceaf3: "Ρύθμιση URL"
   configuration_location_ee0f6592: "Τοποθεσία Ρύθμισης"
   configuration_type_25a084a4: "Τύπος Ρυθμίσεων"
@@ -3719,7 +3719,7 @@ el:
         user_services: "Εγγεγραμένες Υπηρεσίες Διαδικτύου"
       help: 
         list_services: "Η λίστα σας με τις υπηρεσίες στις οποίες έχετε εγγραφεί δεν είναι ενεργοποιημένη. Η ενεργοποίηση αυτής της λίστας θα επιτρέψει στα υπόλοιπα μέλη του μαθήματος και της ομάδας να συνδεθούν μαζί σας πιο εύκολα εκτός τάξης."
-        services: "Δεν έχετε συνδέσει το προφίλ χρήστη σας με εξωτερικές υπηρεσίες. Μπορείτε να συνδέσετε τον λογαριασμό σας στο Canvas με υπηρεσίες όπως το Twitter.Αυτό θα επιτρέψει στα υπόλοιπα μέλη του μαθήματος και της ομάδας να συνδεθούν μαζί σας πιο εύκολα εκτός τάξης."
+        services: "Δεν έχετε συνδέσει το προφίλ χρήστη σας με εξωτερικές υπηρεσίες. Μπορείτε να συνδέσετε τον λογαριασμό σας στο Omega με υπηρεσίες όπως το Twitter.Αυτό θα επιτρέψει στα υπόλοιπα μέλη του μαθήματος και της ομάδας να συνδεθούν μαζί σας πιο εύκολα εκτός τάξης."
       labels: 
         public_list_services: "Επιτρέπω στα μέλη του μαθήματος/της ομάδας να βλέπουν με ποιες υπηρεσίες έχω συνδέσει το προφίλ μου"
         user_privileges: Προνόμια
@@ -3755,9 +3755,9 @@ el:
         registered_services: "Υπηρεσίες στις οποίες έχετε Εγγραφεί"
         service_types: "Είδη Υπηρεσιών"
       help: 
-        no_services: "<mrk mid=\"415\" mtype=\"seg\">Δεν έχετε συνδέσει το προφίλ χρήστη σας με εξωτερικές υπηρεσίες.</mrk> <mrk mid=\"416\" mtype=\"seg\">Μπορείτε να συνδέσετε τον λογαριασμό σας στο Canvas με υπηρεσίες όπως το Twitter.</mrk>"
-        services_private: "<mrk mid=\"417\" mtype=\"seg\">Η λίστα σας με τις υπηρεσίες στις οποίες έχετε εγγραφεί δεν είναι ενεργοποιημένη.</mrk> <mrk mid=\"418\" mtype=\"seg\">Η ενεργοποίηση αυτής της λίστας θα επιτρέψει στα υπόλοιπα μέλη του μαθήματος και της ομάδας να δουν ποιες υπηρεσίες έχετε συνδέσει στον λογαριασμό σας στο Canvas.</mrk>"
-        user_services: "<mrk mid=\"419\" mtype=\"seg\">Αν το επιλέξουν άλλα μέλη, μπορεί να σας επιτρέψουν να δείτε με ποιες εξωτερικές υπηρεσίες έχουν συνδέσει τον λογαριασμό τους στο Canvas.</mrk> <mrk mid=\"420\" mtype=\"seg\">Κάτι τέτοιο θα διευκολύνει τον συντονισμό ομαδικών πρότζεκτς και την επαφή και εκτός τάξης.</mrk>"
+        no_services: "<mrk mid=\"415\" mtype=\"seg\">Δεν έχετε συνδέσει το προφίλ χρήστη σας με εξωτερικές υπηρεσίες.</mrk> <mrk mid=\"416\" mtype=\"seg\">Μπορείτε να συνδέσετε τον λογαριασμό σας στο Omega με υπηρεσίες όπως το Twitter.</mrk>"
+        services_private: "<mrk mid=\"417\" mtype=\"seg\">Η λίστα σας με τις υπηρεσίες στις οποίες έχετε εγγραφεί δεν είναι ενεργοποιημένη.</mrk> <mrk mid=\"418\" mtype=\"seg\">Η ενεργοποίηση αυτής της λίστας θα επιτρέψει στα υπόλοιπα μέλη του μαθήματος και της ομάδας να δουν ποιες υπηρεσίες έχετε συνδέσει στον λογαριασμό σας στο Omega.</mrk>"
+        user_services: "<mrk mid=\"419\" mtype=\"seg\">Αν το επιλέξουν άλλα μέλη, μπορεί να σας επιτρέψουν να δείτε με ποιες εξωτερικές υπηρεσίες έχουν συνδέσει τον λογαριασμό τους στο Omega.</mrk> <mrk mid=\"420\" mtype=\"seg\">Κάτι τέτοιο θα διευκολύνει τον συντονισμό ομαδικών πρότζεκτς και την επαφή και εκτός τάξης.</mrk>"
       labels: 
         allow_view_services: "Επιτρέπω στα μέλη του μαθήματος/της ομάδας να βλέπουν με ποιες υπηρεσίες έχω συνδέσει το προφίλ μου"
       links: 
@@ -4136,7 +4136,7 @@ el:
   correct_answers_will_be_available_from_to_5762e8c6: "Οι σωστές απαντήσεις θα είναι διαθέσιμες %{from} - %{to}."
   correct_answers_will_be_available_on_date_48137: "Οι σωστές απαντήσεις θα είναι διαθέσιμες στις %{date}."
   couldn_t_find_an_authority_to_update_44d9407e: "Δεν βρέθηκε καμία εξουσιοδότηση για ενημέρωση"
-  couldn_t_find_canvas_csv_import_headers_487f1b6c: "Δεν βρέθηκαν επικεφαλίδες εισαγωγής CSV στο Canvas"
+  couldn_t_find_canvas_csv_import_headers_487f1b6c: "Δεν βρέθηκαν επικεφαλίδες εισαγωγής CSV στο Omega"
   couldn_t_generate_diff_message_a0528b20: "<mrk mid=\"5876\" mtype=\"seg\">Δεν ήταν δυνατή η πραγματοποίηση σύγκρισης diff:</mrk> <mrk mid=\"5877\" mtype=\"seg\">%{message}</mrk>"
   couldn_t_update_standards_for_authority_auth_81206187: "Δεν ήταν δυνατή η ενημέρωση των προτύπων εξουσιοδότησης %{auth}"
   count_assignments_with_errors_e8f3c18c: 
@@ -4216,8 +4216,8 @@ el:
   course_copy_argument_error: "Η αντιγραφή μαθήματος απαιτεί να υπάρχει πρωτότυπο μάθημα."
   course_copy_description: "Προσθήκη μεταφοράς για την αντιγραφή μαθημάτων του canvas"
   course_copy_display: "Αντιγραφή Μαθήματος"
-  course_copy_file_description: "Αντιγράψτε ένα μάθημα Canvas"
-  course_copy_name: "Αντιγραφή Μαθήματος Canvas"
+  course_copy_file_description: "Αντιγράψτε ένα μάθημα Omega"
+  course_copy_name: "Αντιγραφή Μαθήματος Omega"
   course_copy_no_course_error: "Δεν βρέθηκε το πρωτότυπο μάθημα."
   course_copy_not_allowed_error: "Δεν σας επιτρέπεται αν αντιγράψετε το πρωτότυπο μάθημα."
   course_details_25cdf103: "Λεπτομέρειες Μαθήματος"
@@ -4229,7 +4229,7 @@ el:
       assignment_groups: "Αποτυχία εξαγωγής ομάδων υποβολής"
       assignment_is_locked: "Η εργασία «%{title}» δεν μπορεί να αντιγραφεί γιατί είναι κλειδωμένη."
       assignments: "Αποτυχία εξαγωγής ορισμένων εργασιών"
-      canvas_meta: "Αποτυχία εξαγωγής μεταδεδομένων για το Canvas"
+      canvas_meta: "Αποτυχία εξαγωγής μεταδεδομένων για το Omega"
       course_export: "Σφάλμα κατά τη διαδικασία εξαγωγής του μαθήματος."
       course_settings: "Αποτυχία εξαγωγής των ρυθμίσεων του μαθήματος"
       events: "Αποτυχία εξαγωγής γεγονότων ημερολογίου"
@@ -4537,7 +4537,7 @@ el:
         name: Όνομα
         next: Επόμενη
         section: Τομέας
-        user_might_not_exist: "Αν ο τύπος σας είναι σωστός, επικοινωνήστε με τον Διαχειριστή του Canvas για να βεβαιωθείτε ότι ο χρήστης διαθέτει λογαριασμό στο Canvas."
+        user_might_not_exist: "Αν ο τύπος σας είναι σωστός, επικοινωνήστε με τον Διαχειριστή του Omega για να βεβαιωθείτε ότι ο χρήστης διαθέτει λογαριασμό στο Omega."
         user_role: "Ρόλος:"
         validating: Επικύρωση...
         will_not_be_added: "<mrk mid=\"542\" mtype=\"seg\">Παρουσιάστηκαν σφάλματα σε αυτούς τους χρήστες και δεν θα προστεθούν.</mrk> <mrk mid=\"543\" mtype=\"seg\">Παρακαλώ βεβαιωθείτε ότι η μορφοποίηση είναι σωστή.</mrk>"
@@ -4582,7 +4582,7 @@ el:
         pending_acceptance_explanation: "Ο χρήστης δεν έχει ακόμη αποδεχθεί την πρόσκληση για το μάθημα"
         pending_acceptance_of_invitation: εκκρεμεί
       roster_users: 
-        canvas_user_id: "ID Χρήστη του Canvas"
+        canvas_user_id: "ID Χρήστη του Omega"
         last_activity: "Τελευταία Δραστηριότητα"
         login_name: "ID Εισόδου"
         name: Όνομα
@@ -4701,7 +4701,7 @@ el:
         edit_navigation: "Επεξεργασία Πλοήγησης στο Μάθημα"
       tooltips: 
         cannot_unpublish_course: "Δεν μπορείτε να αναιρέσετε τη δημοσίευση αυτού του μαθήματος αν υπάρχουν βαθμολογημένες υποβολές σπουδαστών"
-      transifex_message: "Μπείτε στην [Κοινότητα Μετάφρασης του Canvas](%{transifex_url})"
+      transifex_message: "Μπείτε στην [Κοινότητα Μετάφρασης του Omega](%{transifex_url})"
       turnitin: "αυτά τα σχόλια θα εμφανιστούν στους σπουδαστές κατά την διάρκεια της υποβολής εργασίας στο Turnitin"
       view_grading_scheme: "προβολή κανονισμού βαθμολόγησης"
       wiki_editing_roles_change_existing: "Αλλαγή επεξεργάσιμων αυτή τη στιγμή σελίδων από «%{current_setting}» σε «%{new_setting}»."
@@ -5140,7 +5140,7 @@ el:
   deleted_topic_notice: "Το θέμα έχει διαγραφεί"
   deleting_6421031e: διαγραφή...
   delicious_7f9ac66f: "Η υπηρεσία Delicious"
-  demo_sites_require_recaptcha_settings_to_be_config_8bf9c7e3: "<mrk mid=\"7254\" mtype=\"seg\">Οι demo ιστοσελίδες απαιτούν το σετάρισμα των ρυθμίσεων Recaptcha.</mrk> <mrk mid=\"7255\" mtype=\"seg\">Παρακαλώ επικοινωνήστε με τον διαχειριστή της ιστοσελίδα σας για αυτή τη σύνδεσή σας στο Canvas.</mrk>"
+  demo_sites_require_recaptcha_settings_to_be_config_8bf9c7e3: "<mrk mid=\"7254\" mtype=\"seg\">Οι demo ιστοσελίδες απαιτούν το σετάρισμα των ρυθμίσεων Recaptcha.</mrk> <mrk mid=\"7255\" mtype=\"seg\">Παρακαλώ επικοινωνήστε με τον διαχειριστή της ιστοσελίδα σας για αυτή τη σύνδεσή σας στο Omega.</mrk>"
   demos: 
     _register: 
       add_site: "Προσθήκη Ιστοσελίδας"
@@ -5206,7 +5206,7 @@ el:
       provost: Κοσμήτορας
       school_administrator: "Διαχειριστής Σχολείου"
       school_technology_coordinator: "Συντονιστής Σχολικής Τεχνολογίας"
-      sign_up_to_canvas: "Εγγραφείτε για να δοκιμάσετε το Canvas"
+      sign_up_to_canvas: "Εγγραφείτε για να δοκιμάσετε το Omega"
       south_america_central_america_and_caribbean: "Νότια Αμερική, Κεντρική Αμερική και Καραϊβική"
       student: Μαθητής
       subscribe: "Θέλω να λαμβάνω, νέα, συμβουλές και πληροφορίες από την Instructure"
@@ -5698,7 +5698,7 @@ el:
   either_the_url_or_domain_should_be_set_c29cf8c1: "Θα πρέπει να ρυθμιστούν είτε το url είτε το domain."
   element_option_missing_error_an_element_to_attach__be433478: "<mrk mid=\"4293\" mtype=\"seg\">σφάλμα έλλειψης επιλογής «στοιχείο»:</mrk> <mrk mid=\"4294\" mtype=\"seg\">Θα πρέπει να οριστεί κάποιο στοιχείο για την προβολή TreeBrowserView κατά τη ρύθμιση της επιλογής σε «σωστό» στην προβολή BBTreeBrowserView</mrk>"
   email: 
-    default_from_name: "Instructure Canvas"
+    default_from_name: "Instructure Omega"
   email_22a7d52d: "Ηλεκτρονική Διεύθυνση"
   email_address_6e0443a5: "Ηλεκτρονική διεύθυνση"
   email_already_in_use_330248e: "Αυτή η ηλεκτρονική διεύθυνση χρησιμοποιείται ήδη"
@@ -5934,7 +5934,7 @@ el:
       write_only_comments: "<mrk mid=\"4184\" mtype=\"seg\">Τα σχόλια για αυτή τη σελίδα είναι ιδιωτικά.</mrk> <mrk mid=\"4185\" mtype=\"seg\">Μπορείτε να κάνετε σχόλια, αλλά μόνο ο ιδιοκτήτης του portfolio θα μπορεί να τα δει.</mrk>"
     show_me: "δείξε μου"
     static_page: 
-      created_with_canvas: "Δημιουργήθηκε με το Canvas"
+      created_with_canvas: "Δημιουργήθηκε με το Omega"
       headers: 
         page_comments: "Σχολια σελίδας"
       links: 
@@ -6218,7 +6218,7 @@ el:
       file_previews: 
         download_file: "Λήψη του *όνομα αρχείου*"
         no_preview_available: "Δεν υπάρχει διαθέσιμη προεπισκόπηση για αυτό το αρχείο."
-  file_s_will_be_included_on_all_pages_in_the_canvas_80569935: "Το/α αρχείο/α θα περιληφθεί/ούν σε όλες τις σελίδες της εφαρμογής desktop του Canvas."
+  file_s_will_be_included_on_all_pages_in_the_canvas_80569935: "Το/α αρχείο/α θα περιληφθεί/ούν σε όλες τις σελίδες της εφαρμογής desktop του Omega."
   file_status: 
     hidden_status: "<mrk mid=\"6970\" mtype=\"seg\">Κρυφό.</mrk> <mrk mid=\"6971\" mtype=\"seg\">Διατίθεται με σύνδεσμο</mrk>"
     published_status: Δημοσιευμένο/α
@@ -7028,9 +7028,9 @@ el:
     message_will_be_sent_to_all_the_teachers_tas_in_the_course: "Το μήνυμα θα αποσταλεί σε όλους τους Καθηγητές/βοηθούς διδασκαλίας του μαθήματος."
     please_select_one: "Παρακαλώ επιλέξτε..."
     report_problem: "Αναφορά Προβλήματος"
-    report_problem_sub: "Αν το Canvas δεν συμπεριφέρεται σωστά, ενημερώστε μας"
-    search_the_canvas_guides: "Αναζήτηση στους Οδηγούς Canvas"
-    see_if_your_issue_is_addressed_in_the_canvas_guides: "Δείτε αν το πρόβλημά σας αναφέρεται στους *Οδηγούς Canvas*."
+    report_problem_sub: "Αν το Omega δεν συμπεριφέρεται σωστά, ενημερώστε μας"
+    search_the_canvas_guides: "Αναζήτηση στους Οδηγούς Omega"
+    see_if_your_issue_is_addressed_in_the_canvas_guides: "Δείτε αν το πρόβλημά σας αναφέρεται στους *Οδηγούς Omega*."
     send_message: "Αποστολή Μηνύματος"
     sending: "Γίνεται αποστολή..."
     somethings_broken_but_i_can_work_around_it_for_now: "Κάτι δεν λειτουργεί σωστά, αλλά τα καταφέρνω προς το παρόν"
@@ -7137,7 +7137,7 @@ el:
   if_you_do_not_select_usage_rights_now_this_file_wi_40c42125: "Αν δεν επιλέξετε δικαιώματα χρήσης τώρα, θα αναιρεθεί η δημοσίευση αυτού του αρχείου μετά τη μεταφόρτωσή του."
   if_you_enable_this_feature_be_sure_that_your_sales_566967e6: "Αν ενεργοποιήσετε αυτή τη λειτουργία, βεβαιωθείτε ότι έχουν προστεθεί στον λογαριασμό σας salesforce αυτά τα προσαρμοσμένα πεδία με τα ίδια ακριβώς ονόματα που εμφανίζονται στην αριστερή στήλη του πίνακα"
   if_you_leave_the_zip_file_download_currently_being_c47c1dfb: "Αν απομακρυνθείτε, η λήψη του αρχείου zip που προετοιμάζεται αυτή τη στιγμή θα ακυρωθεί."
-  if_you_ve_been_using_another_course_management_sys_67edfab1: "<mrk mid=\"4311\" mtype=\"seg\">Αν χρησιμοποιούσατε άλλο σύστημα διαχείρισης μαθημάτων, ίσως έχετε υλικό σε αυτό που θέλετε να μεταφέρετε στο Canvas.</mrk> <mrk mid=\"4312\" mtype=\"seg\">Μπορούμε να σας βοηθήσουμε σε αυτή τη διαδικασία μεταφοράς του περιεχομένου σας στο Canvas.</mrk>"
+  if_you_ve_been_using_another_course_management_sys_67edfab1: "<mrk mid=\"4311\" mtype=\"seg\">Αν χρησιμοποιούσατε άλλο σύστημα διαχείρισης μαθημάτων, ίσως έχετε υλικό σε αυτό που θέλετε να μεταφέρετε στο Omega.</mrk> <mrk mid=\"4312\" mtype=\"seg\">Μπορούμε να σας βοηθήσουμε σε αυτή τη διαδικασία μεταφοράς του περιεχομένου σας στο Omega.</mrk>"
   if_you_would_like_to_keep_your_unsubmitted_comment_b7e349ce: "Αν θέλετε να κρατήσετε τα σχόλια που δεν έχετε υποβάλει, παρακαλώ αποθηκεύστε τα πριν απομακρυνθείτε από αυτή τη σελίδα."
   ignore_assignment_738b3c99: "Αγνοήστε την Εργασία"
   ignore_assignment_a4837cb3: "Αγνοήστε την Εργασία %{assignment}"
@@ -7191,7 +7191,7 @@ el:
   incomplete_da3c2ea2: "Μη ολοκληρωμένο"
   incompleteregistration: 
     get_started: Ξεκινήστε
-    welcome_to_canvas: "Καλώς ορίσατε στο Canvas!"
+    welcome_to_canvas: "Καλώς ορίσατε στο Omega!"
   incorrect_answer_7c17e63b: "Λάθος Απάντηση"
   increase_indent_6af90f7c: "Αύξηση Εσοχής Κειμένου"
   increase_indent_6d550a4a: "Αύξηση Εσοχής Κειμένου"
@@ -7216,7 +7216,7 @@ el:
   installed_7b284a91: Εγκαταστάθηκε
   institution_14179014: Ίδρυμα
   instructions: 
-    authorize_google_drive: "Πριν μπορέσετε να συνεργαστείτε σε έγγραφα, θα πρέπει να εξουσιοδοτήσετε το Canvas να έχει πρόσβαση στον λογαριασμό σας στο Google Drive."
+    authorize_google_drive: "Πριν μπορέσετε να συνεργαστείτε σε έγγραφα, θα πρέπει να εξουσιοδοτήσετε το Omega να έχει πρόσβαση στον λογαριασμό σας στο Google Drive."
   instructions_2f88ee72: Οδηγίες
   instructor_messages_a4c28674: "Μηνύματα Καθηγητή/ιας"
   instructor_name_36bc0f39: "Όνομα Καθηγητή/ιας"
@@ -7224,7 +7224,7 @@ el:
   instructors_cdd595d0: Εκπαιδευτές
   instructure: 
     alerts: 
-      file_previews_disabled: "Οι προεπισκοπήσεις αρχείων είναι απενεργοποιημένες για αυτή την ιστοσελίδα Canvas"
+      file_previews_disabled: "Οι προεπισκοπήσεις αρχείων είναι απενεργοποιημένες για αυτή την ιστοσελίδα Omega"
     browsers: 
       unrecognized: "Μη Αναγνωρισμένος Φυλλομετρητής"
     buttons: 
@@ -7241,7 +7241,7 @@ el:
         minute: λεπ
     draft: Προσχέδιο
     errors: 
-      cannot_view_document_in_canvas: "Αυτό το έγγραφο δεν μπορεί να εμφανιστεί μέσα στο Canvas."
+      cannot_view_document_in_canvas: "Αυτό το έγγραφο δεν μπορεί να εμφανιστεί μέσα στο Omega."
       document_preview_processing: "<mrk mid=\"5994\" mtype=\"seg\">Η προεπισκόπηση του εγγράφου δημιουργείται αυτή τη στιγμή.</mrk> <mrk mid=\"5995\" mtype=\"seg\">Παρακαλώ δοκιμάστε ξανά αργότερα.</mrk>"
       field_is_required: "Αυτό το πεδίο είναι υποχρεωτικό"
       invalid_datetime: "Μη έγκυρη ημερομηνία/ώρα"
@@ -7280,12 +7280,12 @@ el:
       enter_search_terms: "εισαγωγή όρων αναζήτησης"
   instructure_inline_media_comment: 
     alerts: 
-      kaltura_disabled: "Το Kaltura είναι απενεργοποιημένο για αυτή την ιστοσελίδα Canvas"
+      kaltura_disabled: "Το Kaltura είναι απενεργοποιημένο για αυτή την ιστοσελίδα Omega"
     links: 
       minimize_embedded_kaltura_content: "Ελαχιστοποίηση ενσωματωμένου περιεχομένου"
   instructure_js: 
     alerts: 
-      file_previews_disabled: "Οι προεπισκοπήσεις αρχείων είναι απενεργοποιημένες για αυτή την ιστοσελίδα Canvas"
+      file_previews_disabled: "Οι προεπισκοπήσεις αρχείων είναι απενεργοποιημένες για αυτή την ιστοσελίδα Omega"
     buttons: 
       next_module: "Επόμενη Ενότητα"
       previous_module: "Προηγούμενη Ενότητα"
@@ -7411,7 +7411,7 @@ el:
       previous: Προηγούμενο
   jquery_doc_previews: 
     errors: 
-      cannot_view_document_in_canvas: "Αυτό το έγγραφο δεν μπορεί να εμφανιστεί μέσα στο Canvas."
+      cannot_view_document_in_canvas: "Αυτό το έγγραφο δεν μπορεί να εμφανιστεί μέσα στο Omega."
       document_preview_processing: "<mrk mid=\"5994\" mtype=\"seg\">Η προεπισκόπηση του εγγράφου δημιουργείται αυτή τη στιγμή.</mrk> <mrk mid=\"5995\" mtype=\"seg\">Παρακαλώ δοκιμάστε ξανά αργότερα.</mrk>"
   jquery_media_comments: 
     loading: "Φόρτωση πολυμέσων..."
@@ -7466,9 +7466,9 @@ el:
         reset_explanation: "Η επαναφορά του τεστ σπουδαστή θα διαγράψει το ιστορικό αυτού του σπουδαστή, επιτρέποντάς σας να δείτε το μάθημα ως τελείως νέος σπουδαστής."
         warning_title: "Αυτή τη στιγμή είστε συνδεδεμένοι στην Προβολή Σπουδαστή"
     head: 
-      default_page_title: "Σύστημα Διαχείρισης Εκπαιδευτικού Περιεχομένου Canvas"
+      default_page_title: "Σύστημα Διαχείρισης Εκπαιδευτικού Περιεχομένου Omega"
     mobile_auth: 
-      log_in_to_canvas: "Σύνδεση Στο Canvas"
+      log_in_to_canvas: "Σύνδεση Στο Omega"
   lbs_report_header_course_code: "Κωδικός Μαθήματος"
   lbs_report_header_final_score: "Τελική Βαθμολογία"
   lbs_report_header_student_name: "Όνομα Σπουδαστή"
@@ -7493,7 +7493,7 @@ el:
   lib: 
     angel: 
       failed_import_link: "Η εισαγωγή συνδέσμου απέτυχε"
-      failed_import_link_body: "Αυτός ο σύνδεσμος οδηγούσε σε μια λειτουργία Angel που δεν μπόρεσε να συνδεθεί από το Canvas ή που παραλείφθηκε από την εξαγωγή."
+      failed_import_link_body: "Αυτός ο σύνδεσμος οδηγούσε σε μια λειτουργία Angel που δεν μπόρεσε να συνδεθεί από το Omega ή που παραλείφθηκε από την εξαγωγή."
     api: 
       attachments: 
         only_one_folder: "Δεν μπορείτε να ορίσετε τη διαδρομή και το id του φακέλου"
@@ -7546,16 +7546,16 @@ el:
     incoming_message_processor: 
       failure_message: 
         body: |-
-            <mrk mid="1537" mtype="seg">Το μήνυμα με τίτλο «%{subject}» δεν μπόρεσε να παραδοθεί.</mrk>  <mrk mid="1538" mtype="seg">Το μήνυμα εστάλη σε άγνωστη διεύθυνση ηλεκτρονικού ταχυδρομείου.</mrk>  <mrk mid="1539" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Canvas, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
+            <mrk mid="1537" mtype="seg">Το μήνυμα με τίτλο «%{subject}» δεν μπόρεσε να παραδοθεί.</mrk>  <mrk mid="1538" mtype="seg">Το μήνυμα εστάλη σε άγνωστη διεύθυνση ηλεκτρονικού ταχυδρομείου.</mrk>  <mrk mid="1539" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Omega, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
             
             <mrk mid="1540" mtype="seg">Ευχαριστούμε,
-            Η ομάδα υποστήριξης του Canvas</mrk>
+            Η ομάδα υποστήριξης του Omega</mrk>
       locked_topic: 
         body: |-
-            <mrk mid="7192" mtype="seg">Δεν ήταν δυνατή η αποστολή του μηνύματος με τίτλο «%{subject}», επειδή το θέμα συζήτησης είναι κλειδωμένο. </mrk> <mrk mid="7193" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Canvas, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
+            <mrk mid="7192" mtype="seg">Δεν ήταν δυνατή η αποστολή του μηνύματος με τίτλο «%{subject}», επειδή το θέμα συζήτησης είναι κλειδωμένο. </mrk> <mrk mid="7193" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Omega, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
             
             <mrk mid="7194" mtype="seg">Ευχαριστούμε,
-            Η ομάδα υποστήριξης του Canvas</mrk>
+            Η ομάδα υποστήριξης του Omega</mrk>
     progress_runner: 
       completed_message: 
         one: "έγινε επεξεργασία 1 στοιχείου"
@@ -7649,7 +7649,7 @@ el:
         sending: "Γίνεται αποστολή..."
         sent: Εστάλη!
       new: 
-        page_title: "Σύνδεση στο Canvas"
+        page_title: "Σύνδεση στο Omega"
       new_login_content: 
         back_to_login: "Πίσω στη Σύνδεση"
         browse_courses: "Προσπελάστε μαθήματα"
@@ -7664,7 +7664,7 @@ el:
     logout_confirm: 
       cancel: Ακύρωση
       details: 
-        log_out: "Είστε σίγουρος/η ότι θέλετε να αποσυνδεθείτε από το Canvas;"
+        log_out: "Είστε σίγουρος/η ότι θέλετε να αποσυνδεθείτε από το Omega;"
       log_out: Αποσύνδεση
       page_title: Αποσύνδεση
     otp: 
@@ -7798,7 +7798,7 @@ el:
       record_upload_media_comment: "Ηχογράφηση/Μεταφόρτωση Πολυμεσικού Σχολίου"
   media_comments: 
     alerts: 
-      kaltura_disabled: "Το Kaltura είναι απενεργοποιημένο για αυτή την ιστοσελίδα Canvas"
+      kaltura_disabled: "Το Kaltura είναι απενεργοποιημένο για αυτή την ιστοσελίδα Omega"
     buttons: 
       submit: "Υποβολή Αρχείου Πολυμέσων"
     cancel: Ακύρωση
@@ -7877,7 +7877,7 @@ el:
   members_are_free_to_join_defa5929: "Τα μέλη μπορούν ελεύθερα να συμμετάσχουν"
   membership_by_invitation_only_9bc27199: "Συνδρομή μόνο κατόπιν πρόσκλησης"
   message: 
-    default_subject: "Ειδοποίηση Canvas"
+    default_subject: "Ειδοποίηση Omega"
   message_5c38209d: Μήνυμα
   message_896d2ed0: "%{message}"
   message_body_1f782712: "Κύριο Μέρος Μηνύματος"
@@ -7919,34 +7919,34 @@ el:
           click_to_finish_registration: "Κάντε κλικ εδώ για να ολοκληρώσετε τη διαδικασία εγγραφής"
           email: "Ηλεκτρονική Διεύθυνση"
           name: Όνομα
-          subject: "Πρόσκληση του Διαχειριστή του Λογαριασμού του Canvas"
-          url_info_label: "Θα πρέπει να εγγραφείτε στο Canvas πριν συμμετάσχετε ως διαχειριστής λογαριασμού."
+          subject: "Πρόσκληση του Διαχειριστή του Λογαριασμού του Omega"
+          url_info_label: "Θα πρέπει να εγγραφείτε στο Omega πριν συμμετάσχετε ως διαχειριστής λογαριασμού."
           username: "Όνομα Χρήστη"
         name_info: "Όνομα:%{name}"
-        subject: "Πρόσκληση του Διαχειριστή του Λογαριασμού του Canvas"
+        subject: "Πρόσκληση του Διαχειριστή του Λογαριασμού του Omega"
         url_info: |-
-            Θα πρέπει να εγγραφείτε στο Canvas πριν συμμετάσχετε ως διαχειριστής λογαριασμού.  Μπορείτε να ολοκληρώσετε τη διαδικασία εγγραφής εδώ:
+            Θα πρέπει να εγγραφείτε στο Omega πριν συμμετάσχετε ως διαχειριστής λογαριασμού.  Μπορείτε να ολοκληρώσετε τη διαδικασία εγγραφής εδώ:
             %{url}
         username_info: "Όνομα Χρήστη: %{username}"
     added_to_conversation: 
       email: 
         html: 
-          body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
+          body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
           link_text: "Προβολή Συνομιλίας"
-          subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
+          subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
           unknown_user: "Άγνωστος Χρήστης"
-        subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
+        subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
       sms: 
-        body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
+        body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
         unknown_user: "Άγνωστος Χρήστης"
       summary: 
-        body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
-        subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas."
+        body: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
+        subject: "Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
       twitter: 
-        tweet: "Ειδοποίηση Canvas - Προστεθήκατε στη συνομιλία από τον χρήστη %{user_name}."
+        tweet: "Ειδοποίηση Omega - Προστεθήκατε στη συνομιλία από τον χρήστη %{user_name}."
         unknown_user: "Άγνωστος Χρήστης"
     alert: 
       email: 
@@ -8010,13 +8010,13 @@ el:
       sms: 
         details: "Περισσότερες πληροφορίες στη διεύθυνση  %{url}"
       twitter: 
-        body: "Ειδοποίηση Canvas - Δημιουργήσατε αυτή την Ανακοίνωση: %{title}, %{course}."
+        body: "Ειδοποίηση Omega - Δημιουργήσατε αυτή την Ανακοίνωση: %{title}, %{course}."
     announcement_reply: 
       email: 
         body: "Ο χρήστης %{user} δημοσίευσε ένα νέο σχόλιο στην ανακοίνωση: %{discussion_topic} για το μάθημα %{course}:"
         html: 
           body: "Ο χρήστης %{user} δημοσίευσε ένα νέο σχόλιο στην ανακοίνωση: %{discussion_topic} για το μάθημα %{course}:"
-          discussion_entry_reply_message: "Μπείτε στη συζήτηση χρησιμοποιώντας τον παρακάτω σύνδεσμο ή σχολιάστε απαντώντας σε αυτό το μήνυμα. Όταν επιτρέπεται, εαν χρειάζεστε να συμπεριλάβετε μια επισύναψη, παρακαλώ συνδεθείτε στο Canvas και απαντήστε στην ανακοίνωση."
+          discussion_entry_reply_message: "Μπείτε στη συζήτηση χρησιμοποιώντας τον παρακάτω σύνδεσμο ή σχολιάστε απαντώντας σε αυτό το μήνυμα. Όταν επιτρέπεται, εαν χρειάζεστε να συμπεριλάβετε μια επισύναψη, παρακαλώ συνδεθείτε στο Omega και απαντήστε στην ανακοίνωση."
           link: "Κάντε κλικ εδώ για να μπορέσετε να δείτε και εσείς την ανακοίνωση"
           subject: "Νέο Σχόλιο στην Ανακοίνωση : %{discussion_topic}: %{course}"
         subject: "<mrk mid=\"6920\" mtype=\"seg\">Νέο Σχόλιο στην Ανακοίνωση %{discussion_topic}:</mrk> <mrk mid=\"6921\" mtype=\"seg\">%{course}</mrk>"
@@ -8025,7 +8025,7 @@ el:
       summary: 
         subject: "Νέο Σχόλιο στην Ανακοίνωση: %{discussion_topic}: %{course}"
       twitter: 
-        body: "Ειδοποίηση Canvas - Σχόλιο σε Ανακοίνωση:  %{discussion_topic}, %{course}."
+        body: "Ειδοποίηση Omega - Σχόλιο σε Ανακοίνωση:  %{discussion_topic}, %{course}."
     appointment_canceled_by_user: 
       email: 
         html: 
@@ -8057,7 +8057,7 @@ el:
         message: "Ο χρήστης %{user} ακύρωσε την κράτησή του για το «%{appointment_name}»."
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
       twitter: 
-        message: "Ειδοποίηση Canvas - Ο χρήστης %{user} ακύρωσε την κράτησή του για το «%{appointment_name}»."
+        message: "Ειδοποίηση Omega - Ο χρήστης %{user} ακύρωσε την κράτησή του για το «%{appointment_name}»."
     appointment_deleted_for_user: 
       email: 
         html: 
@@ -8088,7 +8088,7 @@ el:
         message: "Η χρονοθυρίδα σας για το «%{appointment_name} ακυρώθηκε»."
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
       twitter: 
-        message: "Ειδοποίηση Canvas - Η χρονοθυρίδα σας για το «%{appointment_name} ακυρώθηκε»."
+        message: "Ειδοποίηση Omega - Η χρονοθυρίδα σας για το «%{appointment_name} ακυρώθηκε»."
     appointment_group_deleted: 
       email: 
         html: 
@@ -8112,7 +8112,7 @@ el:
         message: "Όλα τα ραντεβού για το «%{appointment_name} έχουν ακυρωθεί»."
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
       twitter: 
-        message: "Ειδοποίηση Canvas - Όλα τα ραντεβού για το «%{appointment_name} έχουν ακυρωθεί»."
+        message: "Ειδοποίηση Omega - Όλα τα ραντεβού για το «%{appointment_name} έχουν ακυρωθεί»."
     appointment_group_published: 
       email: 
         group_signup: "Ομάδα (%{group_category})"
@@ -8144,7 +8144,7 @@ el:
         message: "Χρονοθυρίδες για τη συνάντηση «%{appointment_name}» είναι τώρα διαθέσιμες προς χρήση για εγγραφή (%{dates})."
         subject: "Η συνάντηση «%{appointment_name}» είναι διαθέσιμη προς χρήση για εγγραφή (%{course})"
       twitter: 
-        message: "Ειδοποίηση Canvas - ΟΙ εγγραφές έχουν ανοίξει για το «%{appointment_name}»."
+        message: "Ειδοποίηση Omega - ΟΙ εγγραφές έχουν ανοίξει για το «%{appointment_name}»."
     appointment_group_updated: 
       email: 
         group_signup: "Ομάδα (%{group_category})"
@@ -8175,7 +8175,7 @@ el:
         message: "Χρονοθυρίδες έχουν προστεθεί στο «%{appointment_name}» και είναι διαθέσιμες προς χρήση για εγγραφή (%{dates})."
         subject: "Η συνάντηση «%{appointment_name}» έχει ενημερωθεί (%{course})"
       twitter: 
-        message: "Ειδοποίηση Canvas - Νέες χρονοθυρίδες διαθέσιμες για το «%{appointment_name}»."
+        message: "Ειδοποίηση Omega - Νέες χρονοθυρίδες διαθέσιμες για το «%{appointment_name}»."
     appointment_reserved_by_user: 
       email: 
         html: 
@@ -8204,7 +8204,7 @@ el:
         message: "Ο χρήστης %{user} εγγράφηκε στη συνάντηση «%{appointment_name}»."
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
       twitter: 
-        message: "Ειδοποίηση Canvas - Ο χρήστης %{user} εγγράφηκε στη συνάντηση «%{appointment_name}»."
+        message: "Ειδοποίηση Omega - Ο χρήστης %{user} εγγράφηκε στη συνάντηση «%{appointment_name}»."
     appointment_reserved_for_user: 
       email: 
         html: 
@@ -8236,7 +8236,7 @@ el:
         message: "Ο χρήστης %{user} σας έγραψε στη συνάντηση «%{appointment_name}» (%{date_and_time})."
         subject: "Εγγραφήκατε στη συνάντηση «%{appointment_name}» (%{course})"
       twitter: 
-        message: "Ειδοποίηση Canvas - Εγγραφήκατε στη συνάντηση «%{appointment_name}»."
+        message: "Ειδοποίηση Omega - Εγγραφήκατε στη συνάντηση «%{appointment_name}»."
     assignment_changed: 
       email: 
         body: |-
@@ -8257,7 +8257,7 @@ el:
       summary: 
         subject: "<mrk mid=\"1699\" mtype=\"seg\">Η Εργασία Άλλαξε:</mrk> <mrk mid=\"1700\" mtype=\"seg\">%{title}, %{course}</mrk>"
       twitter: 
-        assignment_change: "<mrk mid=\"1701\" mtype=\"seg\">Ειδοποίηση Canvas - Αλλαγή:</mrk> <mrk mid=\"1702\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
+        assignment_change: "<mrk mid=\"1701\" mtype=\"seg\">Ειδοποίηση Omega - Αλλαγή:</mrk> <mrk mid=\"1702\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
     assignment_created: 
       email: 
         labels: 
@@ -8281,7 +8281,7 @@ el:
         due_at: "λήξη υποβολής: %{assignment_due_date_time}"
         no_due_date: "καταληκτική ημερομηνία: Δεν υπάρχει καταληκτική ημερ/νία"
       twitter: 
-        assignment_change: "<mrk mid=\"1711\" mtype=\"seg\">Ειδοποίηση Canvas - Αλλαγή Ημερομηνίας:</mrk> <mrk mid=\"1712\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
+        assignment_change: "<mrk mid=\"1711\" mtype=\"seg\">Ειδοποίηση Omega - Αλλαγή Ημερομηνίας:</mrk> <mrk mid=\"1712\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
         due_at: "λήξη υποβολής: %{assignment_due_date_time}"
         no_due_date: "καταληκτική ημερομηνία: Δεν υπάρχει καταληκτική ημερ/νία"
     assignment_due_date_override_changed: 
@@ -8303,7 +8303,7 @@ el:
         due_at: "ημερομηνία λήξης υποβολής: %{assignment_due_date_time}"
         no_due_date: "καταληκτική ημερομηνία: Δεν υπάρχει καταληκτική ημερ/νία"
       twitter: 
-        assignment_change: "<mrk mid=\"6569\" mtype=\"seg\">Ειδοποίηση Canvas - Αλλαγή Ημερομηνίας:</mrk> <mrk mid=\"6570\" mtype=\"seg\">%{assignment_name}, %{course_name} (%{override})</mrk>"
+        assignment_change: "<mrk mid=\"6569\" mtype=\"seg\">Ειδοποίηση Omega - Αλλαγή Ημερομηνίας:</mrk> <mrk mid=\"6570\" mtype=\"seg\">%{assignment_name}, %{course_name} (%{override})</mrk>"
         due_at: "λήξη υποβολής: %{assignment_due_date_time}"
         no_due_date: "καταληκτική ημερομηνία: Δεν υπάρχει καταληκτική ημερ/νία"
     assignment_graded: 
@@ -8323,7 +8323,7 @@ el:
         assignment_graded: "<mrk mid=\"1718\" mtype=\"seg\">Η Εργασία Βαθμολογήθηκε:</mrk> <mrk mid=\"1719\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
         the_assignment_is_graded: "Η εργασία %{assignment_name} έχει βαθμολογηθεί."
       twitter: 
-        assignment_graded: "<mrk mid=\"1721\" mtype=\"seg\">Ειδοποίηση Canvas - Βαθμολογήθηκε:</mrk> <mrk mid=\"1722\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
+        assignment_graded: "<mrk mid=\"1721\" mtype=\"seg\">Ειδοποίηση Omega - Βαθμολογήθηκε:</mrk> <mrk mid=\"1722\" mtype=\"seg\">%{assignment_name}, %{course_name}</mrk>"
     assignment_locked: "Αυτή η εργασία είναι κλειδωμένη προς το παρόν"
     assignment_locked_at: "Η εργασία κλειδώθηκε %{at}."
     assignment_locked_until: "Αυτή η εργασία είναι κλειδωμένη μέχρι %{date}."
@@ -8345,7 +8345,7 @@ el:
         turned_in_at: "υποβλήθηκε στις: %{submission_date}"
         user_resubmitted: "<mrk mid=\"1728\" mtype=\"seg\">Επανυποβολή:</mrk> <mrk mid=\"1729\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
       twitter: 
-        user_resubmitted: "<mrk mid=\"1730\" mtype=\"seg\">Ειδοποίηση Canvas - Επανυποβολή:</mrk> <mrk mid=\"1731\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
+        user_resubmitted: "<mrk mid=\"1730\" mtype=\"seg\">Ειδοποίηση Omega - Επανυποβολή:</mrk> <mrk mid=\"1731\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
     assignment_submitted: 
       email: 
         html: 
@@ -8363,7 +8363,7 @@ el:
         turned_in_at: "υποβλήθηκε στις: %{submission_date}"
         user_submitted: "Υποβολή: %{user_name}, %{assignment_name}"
       twitter: 
-        user_submitted: "<mrk mid=\"1734\" mtype=\"seg\">Ειδοποίηση Canvas - Υποβολή:</mrk> <mrk mid=\"1735\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
+        user_submitted: "<mrk mid=\"1734\" mtype=\"seg\">Ειδοποίηση Omega - Υποβολή:</mrk> <mrk mid=\"1735\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
     assignment_submitted_late: 
       email: 
         html: 
@@ -8381,7 +8381,7 @@ el:
         turned_in_at: "υποβλήθηκε στις: %{submission_date}"
         user_submitted: "<mrk mid=\"5564\" mtype=\"seg\">Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"5565\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
       twitter: 
-        user_submitted: "<mrk mid=\"1742\" mtype=\"seg\">Ειδοποίηση Canvas - Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"1743\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
+        user_submitted: "<mrk mid=\"1742\" mtype=\"seg\">Ειδοποίηση Omega - Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"1743\" mtype=\"seg\">%{user_name}, %{assignment_name}</mrk>"
     assignment_unmuted: 
       email: 
         body: |-
@@ -8442,7 +8442,7 @@ el:
             στο %{service} και έχετε προσκληθεί κάνοντας χρήστη της ηλεκτρονικής σας διεύθυνσης, %{email}.</mrk>
         subject: "Πρόσκληση Συνεργασίας: %{course_or_group}"
       twitter: 
-        body: "<mrk mid=\"1761\" mtype=\"seg\">Ειδοποίηση Canvas - Πρόσκληση Συνεργασίας:</mrk> <mrk mid=\"1762\" mtype=\"seg\">%{document}, %{course_or_group}</mrk>"
+        body: "<mrk mid=\"1761\" mtype=\"seg\">Ειδοποίηση Omega - Πρόσκληση Συνεργασίας:</mrk> <mrk mid=\"1762\" mtype=\"seg\">%{document}, %{course_or_group}</mrk>"
     confirm_email_communication_channel: 
       email: 
         body: "Η ηλεκτρονική διεύθυνση %{email} έχει καταχωριστεί στο %{website} για τον χρήστη %{user}."
@@ -8450,8 +8450,8 @@ el:
         html: 
           body: "Η ηλεκτρονική διεύθυνση %{email} έχει καταχωριστεί στο %{website} για τον χρήστη %{user}."
           details: "Κάντε κλικ εδώ για να επιβεβαιώσετε την εγγραφή"
-          subject: "<mrk mid=\"624\" mtype=\"seg\">Επιβεβαίωση Ηλεκτρονικής Διεύθυνσης:</mrk> <mrk mid=\"625\" mtype=\"seg\">Canvas</mrk>"
-        subject: "<mrk mid=\"4596\" mtype=\"seg\">Επιβεβαίωση Ηλεκτρονικής Διεύθυνσης:</mrk> <mrk mid=\"4597\" mtype=\"seg\">Canvas</mrk>"
+          subject: "<mrk mid=\"624\" mtype=\"seg\">Επιβεβαίωση Ηλεκτρονικής Διεύθυνσης:</mrk> <mrk mid=\"625\" mtype=\"seg\">Omega</mrk>"
+        subject: "<mrk mid=\"4596\" mtype=\"seg\">Επιβεβαίωση Ηλεκτρονικής Διεύθυνσης:</mrk> <mrk mid=\"4597\" mtype=\"seg\">Omega</mrk>"
     confirm_registration: 
       email: 
         body: "<mrk mid=\"6873\" mtype=\"seg\">Ευχαριστούμε που εγγραφήκατε στο %{product_name}!</mrk>  <mrk mid=\"6874\" mtype=\"seg\">Αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου επιβεβαιώνει ότι ο χρήστης %{user} εγγράφεται για νέο λογαριασμό στο %{website}.</mrk>"
@@ -8464,7 +8464,7 @@ el:
     confirm_sms_communication_channel: 
       sms: 
         body: |-
-            <mrk mid="4694" mtype="seg">Επιβεβαίωση του κωδικού w/ για εγγραφή στο Canvas:</mrk>
+            <mrk mid="4694" mtype="seg">Επιβεβαίωση του κωδικού w/ για εγγραφή στο Omega:</mrk>
             
             <mrk mid="4695" mtype="seg">%{confirmation_code}
             
@@ -8500,20 +8500,20 @@ el:
           audio_comment: "Αυτό το μήνυμα περιέχει πολυμεσικά σχόλια. Για να ακούσετε ή να απαντήσετε, κάντε κλικ σε αυτόν τον σύνδεσμο:"
           download: λήψη
           pre_you_can: Μπορείτε
-          subject: "%{user_name}, μόλις στείλατε μήνυμα στο Canvas."
+          subject: "%{user_name}, μόλις στείλατε μήνυμα στο Omega."
           unknown_user: "Άγνωστος Χρήστης"
           view_message: "Προβολή αυτού του μηνύματος στις Συνομιλίες"
-        subject: "%{user_name}, μόλις στείλατε μήνυμα στο Canvas."
+        subject: "%{user_name}, μόλις στείλατε μήνυμα στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
         view_message: "Προβολή αυτού του μηνύματος στις Συνομιλίες"
       sms: 
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση  %{url}"
       summary: 
-        body: "%{user_name}, μόλις στείλατε μήνυμα στο Canvas:"
-        subject: "%{user_name}, μόλις στείλατε μήνυμα στο Canvas."
+        body: "%{user_name}, μόλις στείλατε μήνυμα στο Omega:"
+        subject: "%{user_name}, μόλις στείλατε μήνυμα στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
       twitter: 
-        tweet: "Ειδοποίηση Canvas - Μήνυμα από τον χρήστη %{user_name}."
+        tweet: "Ειδοποίηση Omega - Μήνυμα από τον χρήστη %{user_name}."
     conversation_message: 
       email: 
         attached_files: "Επισυναπτόμενα Αρχεία:"
@@ -8523,27 +8523,27 @@ el:
           audio_comment: "Αυτό το μήνυμα περιέχει πολυμεσικά σχόλια. Για να ακούσετε ή να απαντήσετε, κάντε κλικ σε αυτόν τον σύνδεσμο:"
           download: λήψη
           pre_you_can: Μπορείτε
-          subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Canvas."
+          subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Omega."
           unknown_user: "Άγνωστος Χρήστης"
           view_message: "Προβολή αυτού του μηνύματος στις Συνομιλίες"
-        subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Canvas."
+        subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
         view_message: "Προβολή αυτού του μηνύματος στις Συνομιλίες"
       sms: 
         more_info: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
         unknown_user: "Άγνωστος Χρήστης"
       summary: 
-        body: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Canvas:"
-        subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Canvas."
+        body: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Omega:"
+        subject: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Omega."
         unknown_user: "Άγνωστος Χρήστης"
       twitter: 
-        tweet: "Ειδοποίηση Canvas - Μήνυμα από τον χρήστη %{user_name}."
+        tweet: "Ειδοποίηση Omega - Μήνυμα από τον χρήστη %{user_name}."
     course_already_started: 
       email: 
         body: |-
             <mrk mid="3684" mtype="seg">Γεια σας %{user},
             
-            %{course}, το μάθημά σας στο Canvas, ξεκίνησε πριν μερικές ημέρες, και παρατηρήσαμε ότι δεν έχετε συνδεθεί ακόμη.</mrk> <mrk mid="3685" mtype="seg">Θέλαμε απλώς να σας στείλουμε μια τελευταία υπενθύμιση σε περίπτωση που το ξεχάσατε.</mrk>
+            %{course}, το μάθημά σας στο Omega, ξεκίνησε πριν μερικές ημέρες, και παρατηρήσαμε ότι δεν έχετε συνδεθεί ακόμη.</mrk> <mrk mid="3685" mtype="seg">Θέλαμε απλώς να σας στείλουμε μια τελευταία υπενθύμιση σε περίπτωση που το ξεχάσατε.</mrk>
             
             <mrk mid="3686" mtype="seg">Για να συνδεθείτε, μεταβείτε στο %{site} και εισαγάγετε το όνομα χρήστη και τον κωδικό πρόσβασής σας.</mrk> <mrk mid="3687" mtype="seg">Αν δεν έχετε ορίσει ακόμη κωδικό πρόσβασης, μπορείτε να ορίσετε εδώ:</mrk> <mrk mid="3688" mtype="seg">%{password_url}
             
@@ -8551,52 +8551,52 @@ el:
             
             <mrk mid="3690" mtype="seg">Ελπίζουμε να σας δούμε σύντομα,
             
-            Η ομάδα του Canvas</mrk>
+            Η ομάδα του Omega</mrk>
         course_already_started: "Το μάθημά σας έχει ήδη ξεκινήσει"
     course_required_materials: 
       email: 
         body: |-
             <mrk mid="642" mtype="seg">Γεια σας %{user},
             
-            Έχουμε καλά νέα!</mrk> <mrk mid="643" mtype="seg">%{course}, το μάθημα στο οποίο εγγραφήκατε στο Canvas θα ξεκινήσει σύντομα.</mrk>
+            Έχουμε καλά νέα!</mrk> <mrk mid="643" mtype="seg">%{course}, το μάθημα στο οποίο εγγραφήκατε στο Omega θα ξεκινήσει σύντομα.</mrk>
             
-            <mrk mid="644" mtype="seg">Για να σε βεβαιωθείτε ότι ωφελείστε στον μέγιστο βαθμό από το μάθημα, ελέγξτε μήπως υπάρχουν για αυτό ιδιαίτερες οδηγίες ή υλικό από τον εκπαιδευτή.</mrk>  <mrk mid="645" mtype="seg">Μπορείτε να αναζητήσετε τέτοιο υλικό στις λεπτομέρειες του μαθήματος στο Canvas ή απλώς κάνοντας κλικ στον παρακάτω σύνδεσμο.</mrk>
+            <mrk mid="644" mtype="seg">Για να σε βεβαιωθείτε ότι ωφελείστε στον μέγιστο βαθμό από το μάθημα, ελέγξτε μήπως υπάρχουν για αυτό ιδιαίτερες οδηγίες ή υλικό από τον εκπαιδευτή.</mrk>  <mrk mid="645" mtype="seg">Μπορείτε να αναζητήσετε τέτοιο υλικό στις λεπτομέρειες του μαθήματος στο Omega ή απλώς κάνοντας κλικ στον παρακάτω σύνδεσμο.</mrk>
             
             <mrk mid="646" mtype="seg">%{url}
             
             Συνεχίστε να μαθαίνετε,
             
-            Η ομάδα του Canvas</mrk>
+            Η ομάδα του Omega</mrk>
         course_required_materials: "Υλικό και οδηγίες για το μάθημα %{course}"
     course_started: 
       email: 
         body: |-
             <mrk mid="3692" mtype="seg">Γεια σας %{user},
             
-            Αυτή είναι μια φιλική υπενθύμιση ότι το %{course}, το μάθημά σας στο Canvas, ξεκινάει σήμερα.</mrk> <mrk mid="3693" mtype="seg">Μπορείτε να συνδεθείτε στο %{site} και να ξεκινήσετε!</mrk>
+            Αυτή είναι μια φιλική υπενθύμιση ότι το %{course}, το μάθημά σας στο Omega, ξεκινάει σήμερα.</mrk> <mrk mid="3693" mtype="seg">Μπορείτε να συνδεθείτε στο %{site} και να ξεκινήσετε!</mrk>
             
-            <mrk mid="3694" mtype="seg">Μην ξεχάσετε να ρυθμίσετε το προφίλ σας στο Canvas, ώστε οι υπόλοιποι συμμετέχοντες στο μάθημα να ξέρουν ποιος είστε.</mrk> <mrk mid="3695" mtype="seg">Μπορείτε να ενημερώσετε το προφίλ σας στο %{profile_url}
+            <mrk mid="3694" mtype="seg">Μην ξεχάσετε να ρυθμίσετε το προφίλ σας στο Omega, ώστε οι υπόλοιποι συμμετέχοντες στο μάθημα να ξέρουν ποιος είστε.</mrk> <mrk mid="3695" mtype="seg">Μπορείτε να ενημερώσετε το προφίλ σας στο %{profile_url}
             
             Συνεχίστε να μαθαίνετε,
             
-            Η ομάδα του Canvas</mrk>
+            Η ομάδα του Omega</mrk>
         course_starts_today: "Το μάθημά σας ξεκινάει σήμερα"
     course_starts_in_week: 
       email: 
         body: |-
             <mrk mid="3698" mtype="seg">%{user},
             
-            Έφτασε σχεδόν η ώρα!</mrk> <mrk mid="3699" mtype="seg">%{Course}, ένα μάθημα στο οποίο εγγραφήκατε στο Canvas, ξεκινάει την επόμενη εβδομάδα.</mrk> <mrk mid="3700" mtype="seg">Ξέρουμε πόσο ενθουσιασμένος πρέπει να είστε και είμαστε και εμείς ενθουσιασμένοι.</mrk>
+            Έφτασε σχεδόν η ώρα!</mrk> <mrk mid="3699" mtype="seg">%{Course}, ένα μάθημα στο οποίο εγγραφήκατε στο Omega, ξεκινάει την επόμενη εβδομάδα.</mrk> <mrk mid="3700" mtype="seg">Ξέρουμε πόσο ενθουσιασμένος πρέπει να είστε και είμαστε και εμείς ενθουσιασμένοι.</mrk>
             
             <mrk mid="3701" mtype="seg">Τι μπορείτε να κάνετε για να προετοιμαστείτε;</mrk>
             
-            <mrk mid="3702" mtype="seg">Αν δεν έχετε δημιουργήσει ήδη προφίλ στο Canvas, μπορείτε να συνδεθείτε και να το δημιουργήσετε στο Canvas.net.</mrk> <mrk mid="3703" mtype="seg">Το προφίλ σας θα βοηθήσει άλλους συμμετέχοντες στο μάθημα να ξέρουν ποιος είστε.</mrk> <mrk mid="3704" mtype="seg">Εκεί, θα μπορέσετε να ρυθμίσετε και τις προτιμήσεις ειδοποιήσεών σας.</mrk>
+            <mrk mid="3702" mtype="seg">Αν δεν έχετε δημιουργήσει ήδη προφίλ στο Omega, μπορείτε να συνδεθείτε και να το δημιουργήσετε στο Omega.net.</mrk> <mrk mid="3703" mtype="seg">Το προφίλ σας θα βοηθήσει άλλους συμμετέχοντες στο μάθημα να ξέρουν ποιος είστε.</mrk> <mrk mid="3704" mtype="seg">Εκεί, θα μπορέσετε να ρυθμίσετε και τις προτιμήσεις ειδοποιήσεών σας.</mrk>
             
             <mrk mid="3705" mtype="seg">Τέλος, μπορείτε να δείτε το απαιτούμενο υλικό και τις οδηγίες για το μάθημά σας εδώ:</mrk> <mrk mid="3706" mtype="seg">%{url}
             
             Συνεχίστε να μαθαίνετε,
             
-            Η ομάδα του Canvas</mrk>
+            Η ομάδα του Omega</mrk>
         course_starts_next_week: "Το μάθημά σου ξεκινάει την επόμενη εβδομάδα"
     dialog: 
       title: "Αποστολή απαντητικού μηνύματος"
@@ -8606,7 +8606,7 @@ el:
           link: "Κάντε κλικ εδώ για να συμμετάσχετε στη συνομιλία"
     email: 
       footer: |-
-          <mrk mid="7197" mtype="seg">Λάβατε αυτό το email επειδή συμμετέχετε σε ένα ή περισσότερα μαθήματα μέσω του Canvas.</mrk>  <mrk mid="7198" mtype="seg">Για να αλλάξετε ή να απενεργοποιήσετε τις ειδοποιήσεις ηλεκτρονικού ταχυδρομείου, επισκεφθείτε το:</mrk>
+          <mrk mid="7197" mtype="seg">Λάβατε αυτό το email επειδή συμμετέχετε σε ένα ή περισσότερα μαθήματα μέσω του Omega.</mrk>  <mrk mid="7198" mtype="seg">Για να αλλάξετε ή να απενεργοποιήσετε τις ειδοποιήσεις ηλεκτρονικού ταχυδρομείου, επισκεφθείτε το:</mrk>
           <mrk mid="7199" mtype="seg">%{url}</mrk>
     enrollment_accepted: 
       email: 
@@ -8672,13 +8672,13 @@ el:
       summary: 
         subject: "Εγγραφή στο Μάθημα"
       twitter: 
-        body: "Ειδοποίηση Canvas - Εγγράφηκε: course ως %{role_type}"
+        body: "Ειδοποίηση Omega - Εγγράφηκε: course ως %{role_type}"
     enrollment_registration: 
       email: 
-        details: "<mrk mid=\"1834\" mtype=\"seg\">Θα πρέπει να εγγραφείτε στο Canvas πριν συμμετάσχετε στην τάξη.</mrk>  <mrk mid=\"1835\" mtype=\"seg\">Για να ξεκινήσετε, επισκεφθείτε τη σελίδα του μαθήματος εδώ:</mrk>"
+        details: "<mrk mid=\"1834\" mtype=\"seg\">Θα πρέπει να εγγραφείτε στο Omega πριν συμμετάσχετε στην τάξη.</mrk>  <mrk mid=\"1835\" mtype=\"seg\">Για να ξεκινήσετε, επισκεφθείτε τη σελίδα του μαθήματος εδώ:</mrk>"
         html: 
           body: "<mrk mid=\"4881\" mtype=\"seg\">Έχετε προσκληθεί να συμμετάσχετε σε κάποιο μάθημα στο %{website}.</mrk> <mrk mid=\"4882\" mtype=\"seg\">Το μάθημα αυτό ονομάζεται %{course}.</mrk> <mrk mid=\"4883\" mtype=\"seg\">Ρόλος στο μάθημα:</mrk> <mrk mid=\"4884\" mtype=\"seg\">%{role_type}</mrk>"
-          details: "Θα πρέπει να εγγραφείτε στο Canvas πριν συμμετάσχετε στην τάξη."
+          details: "Θα πρέπει να εγγραφείτε στο Omega πριν συμμετάσχετε στην τάξη."
           email: "Ηλεκτρονική Διεύθυνση"
           link: "Κάντε κλικ εδώ για να ξεκινήσετε"
           name: Όνομα
@@ -8743,8 +8743,8 @@ el:
           login_at_account: "%{login_email} στον λογαριασμό %{account_name}"
           login_managed_by_account: "Η διαχείριση των διαπιστευτηρίων σύνδεσης γίνεται από τον λογαριασμό %{account_name}"
           password_from_account: "<mrk mid=\"668\" mtype=\"seg\">Θα έπρεπε να έχετε λάβει τον κωδικό πρόσβασης για τη σύνδεση από τους διαχειριστές των υπολογιστικών σας συστημάτων στον λογαριασμό %{account_name} και η Instructure δεν έχει πρόσβαση στον κωδικό πρόσβασής σας.</mrk> <mrk mid=\"669\" mtype=\"seg\">Αν ο κωδικός πρόσβασής σας δεν λειτουργεί, παρακαλώ επικοινωνήστε με τους διαχειριστές των υπολογιστικών συστημάτων για αλλαγή ή επιβεβαίωση του κωδικού σας.</mrk>"
-          requested_password_reset: "Ζητήσατε επιβεβαίωση του κωδικού πρόσβασής σας για να συνδεθείτε στο Canvas."
-          subject: "<mrk mid=\"3727\" mtype=\"seg\">Ξέχασα τον Κωδικό μου:</mrk> <mrk mid=\"3728\" mtype=\"seg\">Canvas</mrk>"
+          requested_password_reset: "Ζητήσατε επιβεβαίωση του κωδικού πρόσβασής σας για να συνδεθείτε στο Omega."
+          subject: "<mrk mid=\"3727\" mtype=\"seg\">Ξέχασα τον Κωδικό μου:</mrk> <mrk mid=\"3728\" mtype=\"seg\">Omega</mrk>"
         labels: 
           associated_with_accounts: "Η διεύθυνση αυτή σχετίζεται με τους παρακάτω λογαριασμούς"
           change_password_at: "αλλαγή του κωδικού πρόσβασης αυτής της σύνδεσης σε"
@@ -8752,8 +8752,8 @@ el:
         login_at_account: "%{login_email} στον λογαριασμό %{account_name}"
         login_managed_by_account: "Η διαχείριση των διαπιστευτηρίων σύνδεσης γίνεται από τον λογαριασμό %{account_name}"
         password_from_account: "<mrk mid=\"1861\" mtype=\"seg\">Θα έπρεπε να έχετε λάβει τον κωδικό πρόσβασης για τη σύνδεση από τους διαχειριστές των υπολογιστικών σας συστημάτων στον λογαριασμό %{account_name} και η Instructure δεν έχει πρόσβαση στον κωδικό πρόσβασής σας.</mrk>  <mrk mid=\"1862\" mtype=\"seg\">Αν ο κωδικός πρόσβασής σας δεν λειτουργεί, παρακαλώ επικοινωνήστε με τους διαχειριστές των υπολογιστικών συστημάτων για αλλαγή ή επιβεβαίωση του κωδικού σας.</mrk>"
-        requested_password_reset: "Ζητήσατε επιβεβαίωση του κωδικού πρόσβασής σας για να συνδεθείτε στο Canvas."
-        subject: "<mrk mid=\"1864\" mtype=\"seg\">Ξέχασα τον Κωδικό μου:</mrk> <mrk mid=\"1865\" mtype=\"seg\">Canvas</mrk>"
+        requested_password_reset: "Ζητήσατε επιβεβαίωση του κωδικού πρόσβασής σας για να συνδεθείτε στο Omega."
+        subject: "<mrk mid=\"1864\" mtype=\"seg\">Ξέχασα τον Κωδικό μου:</mrk> <mrk mid=\"1865\" mtype=\"seg\">Omega</mrk>"
     grade_weight_changed: 
       email: 
         grade_changed: "Η πολιτική βαθμολόγησης του μαθήματος %{course_name} έχει αλλάξει."
@@ -8779,7 +8779,7 @@ el:
           grades_based_on_percent: "Η βαθμολόγηση βασίζεται στο σταθμισμένο σύνολο για κάθε ομάδα υποβολής"
           subject: "Η Βαρύτητα του Βαθμού Άλλαξε"
       twitter: 
-        grade_changed: "<mrk mid=\"1877\" mtype=\"seg\">Ειδοποίηση Canvas - Η Πολιτική Βαθμολόγησης Άλλαξε:</mrk> <mrk mid=\"1878\" mtype=\"seg\">%{course_name}</mrk>"
+        grade_changed: "<mrk mid=\"1877\" mtype=\"seg\">Ειδοποίηση Omega - Η Πολιτική Βαθμολόγησης Άλλαξε:</mrk> <mrk mid=\"1878\" mtype=\"seg\">%{course_name}</mrk>"
     group_assignment_submitted_late: 
       email: 
         body: "Η ομάδα %{group_name} μόλις υπέβαλε εκπρόθεσμα την εργασία %{assignment_name} για το μάθημα %{course_name}"
@@ -8797,7 +8797,7 @@ el:
         body: "Η ομάδα %{group_name} υπέβαλε εκπρόθεσμα την εργασία %{assignment_name} για το μάθημα %{course_name}."
         subject: "<mrk mid=\"1885\" mtype=\"seg\">Εκπρόθεσμη Υποβολή:</mrk> <mrk mid=\"1886\" mtype=\"seg\">%{group_name}, %{assignment_name}</mrk>"
       twitter: 
-        subject: "<mrk mid=\"1887\" mtype=\"seg\">Ειδοποίηση Canvas - Εκπρόθεσμη Υποβολή Ομάδας:</mrk> <mrk mid=\"1888\" mtype=\"seg\">%{group_name}, %{assignment_name}</mrk>"
+        subject: "<mrk mid=\"1887\" mtype=\"seg\">Ειδοποίηση Omega - Εκπρόθεσμη Υποβολή Ομάδας:</mrk> <mrk mid=\"1888\" mtype=\"seg\">%{group_name}, %{assignment_name}</mrk>"
     group_membership_accepted: 
       email: 
         account_group: "Το αίτημά σας να συμμετάσχετε στην ομάδα %{group_name} για τον λογαριασμό %{account_name} έγινε δεκτό."
@@ -8819,7 +8819,7 @@ el:
         course_group: "Το αίτημά σας να συμμετάσχετε στην ομάδα %{group_name} για το μάθημα %{course_name} έγινε δεκτό."
         subject: "<mrk mid=\"1902\" mtype=\"seg\">Η Συνδρομή Ομάδας έγινε Δεκτή:</mrk> <mrk mid=\"1903\" mtype=\"seg\">%{group_name}</mrk>"
       twitter: 
-        account_group: "<mrk mid=\"1904\" mtype=\"seg\">Ειδοποίηση Canvas - Η Συνδρομή Ομάδας έγινε Δεκτή:</mrk> <mrk mid=\"1905\" mtype=\"seg\">%{group_name} για τον λογαριασμό %{account_name}.</mrk>"
+        account_group: "<mrk mid=\"1904\" mtype=\"seg\">Ειδοποίηση Omega - Η Συνδρομή Ομάδας έγινε Δεκτή:</mrk> <mrk mid=\"1905\" mtype=\"seg\">%{group_name} για τον λογαριασμό %{account_name}.</mrk>"
     group_membership_rejected: 
       email: 
         account_group: "Το αίτημά σας να συμμετάσχετε στην ομάδα %{group_name} για τον λογαριασμό %{account_name} απορρίφθηκε."
@@ -8841,7 +8841,7 @@ el:
         course_group: "Το αίτημά σας να συμμετάσχετε στην ομάδα %{group_name} για το μάθημα %{course_name} απορρίφθηκε."
         subject: "Η Συνδρομή Ομάδας Απορρίφθηκε για την Ομάδα %{group_name}"
       twitter: 
-        account_group: "<mrk mid=\"1921\" mtype=\"seg\">Ειδοποίηση Canvas - Η Συνδρομή Ομάδας Απορρίφθηκε:</mrk> <mrk mid=\"1922\" mtype=\"seg\">%{group_name} για τον λογαριασμό %{account_name}.</mrk>"
+        account_group: "<mrk mid=\"1921\" mtype=\"seg\">Ειδοποίηση Omega - Η Συνδρομή Ομάδας Απορρίφθηκε:</mrk> <mrk mid=\"1922\" mtype=\"seg\">%{group_name} για τον λογαριασμό %{account_name}.</mrk>"
     html_message: 
       html_not_exist: "Δεν δημιουργήθηκε ούτε στάλθηκε η έκδοση HTML αυτού του μηνύματος."
     index: 
@@ -8853,12 +8853,12 @@ el:
           click_to_preferences: "Ενημέρωση των ρυθμίσεων ειδοποιήσεών σας"
     merge_email_communication_channel: 
       email: 
-        body: "<mrk mid=\"1925\" mtype=\"seg\">Ένας λογαριασμός δημιουργήθηκε για εσάς στο %{host}, αλλά έχετε ήδη λογαριασμό στο Canvas.</mrk>  <mrk mid=\"1926\" mtype=\"seg\">Αν θέλετε να τα συγχωνεύσετε, παρακαλώ επισκεφθείτε το ακόλουθο url:</mrk>"
+        body: "<mrk mid=\"1925\" mtype=\"seg\">Ένας λογαριασμός δημιουργήθηκε για εσάς στο %{host}, αλλά έχετε ήδη λογαριασμό στο Omega.</mrk>  <mrk mid=\"1926\" mtype=\"seg\">Αν θέλετε να τα συγχωνεύσετε, παρακαλώ επισκεφθείτε το ακόλουθο url:</mrk>"
         html: 
-          account_created: "Ένας λογαριασμός δημιουργήθηκε για εσάς στο %{host}, αλλά έχετε ήδη λογαριασμό στο Canvas."
+          account_created: "Ένας λογαριασμός δημιουργήθηκε για εσάς στο %{host}, αλλά έχετε ήδη λογαριασμό στο Omega."
           merge2: "Αν επιθυμείτε τη συγχώνευσή τους, *κάντε κλικ εδώ*"
-          subject: "Νέος Λογαριασμός Canvas"
-        subject: "Νέος Λογαριασμός Canvas"
+          subject: "Νέος Λογαριασμός Omega"
+        subject: "Νέος Λογαριασμός Omega"
     message: 
       actions: 
         reply: Απάντηση
@@ -8893,7 +8893,7 @@ el:
         body: "Ένας νέος διαχειριστής, ο χρήστης %{user}, προστέθηκε για τον λογαριασμό %{account}"
         subject: "Νέος Λογαριασμός Χρήστη"
       twitter: 
-        body: "<mrk mid=\"1935\" mtype=\"seg\">Ειδοποίηση Canvas - Νέος Διαχειριστής:</mrk> <mrk mid=\"1936\" mtype=\"seg\">%{user}, %{account}</mrk>"
+        body: "<mrk mid=\"1935\" mtype=\"seg\">Ειδοποίηση Omega - Νέος Διαχειριστής:</mrk> <mrk mid=\"1936\" mtype=\"seg\">%{user}, %{account}</mrk>"
     new_announcement: 
       email: 
         html: 
@@ -8904,7 +8904,7 @@ el:
       sms: 
         details: "Περισσότερες πληροφορίες στη διεύθυνση %{url}"
       twitter: 
-        body: "<mrk mid=\"1940\" mtype=\"seg\">Ειδοποίηση Canvas - Ανακοίνωση:</mrk> <mrk mid=\"1941\" mtype=\"seg\">%{title}, %{course}.</mrk>"
+        body: "<mrk mid=\"1940\" mtype=\"seg\">Ειδοποίηση Omega - Ανακοίνωση:</mrk> <mrk mid=\"1941\" mtype=\"seg\">%{title}, %{course}.</mrk>"
     new_context_group_membership: 
       email: 
         body_account: "<mrk mid=\"1942\" mtype=\"seg\">Προστεθήκατε σε μια νέα ομάδα για τον λογαριασμό %{account}.</mrk>  <mrk mid=\"1943\" mtype=\"seg\">Το όνομα της ομάδας είναι %{group_name}.</mrk>"
@@ -8926,8 +8926,8 @@ el:
         body_course: "<mrk mid=\"1955\" mtype=\"seg\">Προστεθήκατε σε μια νέα ομάδα για το μάθημα %{course}.</mrk>  <mrk mid=\"1956\" mtype=\"seg\">Το όνομα της ομάδας είναι %{group_name}.</mrk>"
         subject: "Νέα Συνδρομή Ομάδας για το μάθημα/τον λογαριασμό %{course_or_account}"
       twitter: 
-        body_account: "<mrk mid=\"1958\" mtype=\"seg\">Ειδοποίηση Canvas - Νέα Ομάδα:</mrk> <mrk mid=\"1959\" mtype=\"seg\">Ομάδα %{group} για τον λογαριασμό %{account}</mrk>"
-        body_course: "<mrk mid=\"1960\" mtype=\"seg\">Ειδοποίηση Canvas - Νέα Ομάδα:</mrk> <mrk mid=\"1961\" mtype=\"seg\">Ομάδα %{group} για το μάθημα %{course}</mrk>"
+        body_account: "<mrk mid=\"1958\" mtype=\"seg\">Ειδοποίηση Omega - Νέα Ομάδα:</mrk> <mrk mid=\"1959\" mtype=\"seg\">Ομάδα %{group} για τον λογαριασμό %{account}</mrk>"
+        body_course: "<mrk mid=\"1960\" mtype=\"seg\">Ειδοποίηση Omega - Νέα Ομάδα:</mrk> <mrk mid=\"1961\" mtype=\"seg\">Ομάδα %{group} για το μάθημα %{course}</mrk>"
     new_context_group_membership_invitation: 
       email: 
         body_account: "Έχετε προσκληθεί να συμμετάσχετε στην ομάδα %{group} για τον λογαριασμό %{account}."
@@ -8949,8 +8949,8 @@ el:
         body_course: "Έχετε προσκληθεί να συμμετάσχετε στην ομάδα %{group} για το μάθημα %{course}."
         subject: "Νέα Συνδρομή Ομάδας για το μάθημα/τον λογαριασμό %{course_or_account}"
       twitter: 
-        body_account: "<mrk mid=\"6079\" mtype=\"seg\">Ειδοποίηση Canvas - Πρόσκληση:</mrk> <mrk mid=\"6080\" mtype=\"seg\">Ομάδα %{group} για τον λογαριασμό %{account}</mrk>"
-        body_course: "<mrk mid=\"6081\" mtype=\"seg\">Ειδοποίηση Canvas - Πρόσκληση:</mrk> <mrk mid=\"6082\" mtype=\"seg\">Ομάδα %{group} για το μάθημα %{course}.</mrk>"
+        body_account: "<mrk mid=\"6079\" mtype=\"seg\">Ειδοποίηση Omega - Πρόσκληση:</mrk> <mrk mid=\"6080\" mtype=\"seg\">Ομάδα %{group} για τον λογαριασμό %{account}</mrk>"
+        body_course: "<mrk mid=\"6081\" mtype=\"seg\">Ειδοποίηση Omega - Πρόσκληση:</mrk> <mrk mid=\"6082\" mtype=\"seg\">Ομάδα %{group} για το μάθημα %{course}.</mrk>"
     new_course: 
       email: 
         body: "Ένα μάθημα, %{course}, προστέθηκε για τον λογαριασμό %{account}"
@@ -8976,7 +8976,7 @@ el:
           teachers: Καθηγητές
         subject: "Νέο Μάθημα"
       twitter: 
-        body: "<mrk mid=\"6584\" mtype=\"seg\">Ειδοποίηση Canvas - Νέο Μάθημα:</mrk> <mrk mid=\"6585\" mtype=\"seg\">%{course}, %{account}</mrk>"
+        body: "<mrk mid=\"6584\" mtype=\"seg\">Ειδοποίηση Omega - Νέο Μάθημα:</mrk> <mrk mid=\"6585\" mtype=\"seg\">%{course}, %{account}</mrk>"
     new_discussion_entry: 
       email: 
         body: "Ο χρήστης %{user} δημοσίευσε ένα νέο σχόλιο στο νήμα %{discussion_topic} για το μάθημα %{course}:"
@@ -8990,7 +8990,7 @@ el:
       summary: 
         subject: "<mrk mid=\"6589\" mtype=\"seg\">Νέο Σχόλιο για το %{discussion_topic}:</mrk> <mrk mid=\"6590\" mtype=\"seg\">%{course}</mrk>"
       twitter: 
-        body: "<mrk mid=\"6594\" mtype=\"seg\">Ειδοποίηση Canvas - Σχόλιο:</mrk> <mrk mid=\"6595\" mtype=\"seg\">%{discussion_topic}, %{course}.</mrk>"
+        body: "<mrk mid=\"6594\" mtype=\"seg\">Ειδοποίηση Omega - Σχόλιο:</mrk> <mrk mid=\"6595\" mtype=\"seg\">%{discussion_topic}, %{course}.</mrk>"
     new_discussion_mention: 
       email: 
         html: 
@@ -9013,7 +9013,7 @@ el:
       summary: 
         subject: "<mrk mid=\"6603\" mtype=\"seg\">Νέα Συζήτηση - %{discussion_topic}:</mrk> <mrk mid=\"6604\" mtype=\"seg\">%{course}</mrk>"
       twitter: 
-        subject: "<mrk mid=\"6148\" mtype=\"seg\">Ειδοποίηση Canvas - Θέμα:</mrk> <mrk mid=\"6149\" mtype=\"seg\">%{discussion_topic}, %{course}</mrk>"
+        subject: "<mrk mid=\"6148\" mtype=\"seg\">Ειδοποίηση Omega - Θέμα:</mrk> <mrk mid=\"6149\" mtype=\"seg\">%{discussion_topic}, %{course}</mrk>"
     new_event_created: 
       email: 
         body: "Έχει προγραμματιστεί ένα νέο γεγονός που πρέπει να γνωρίζετε για το μάθημα %{course_name}:"
@@ -9039,7 +9039,7 @@ el:
       twitter: 
         from_to_time: "από %{start_date_time} έως %{end_date_time}"
         no_time_set: "Δεν έχει καθοριστεί ώρα"
-        subject: "<mrk mid=\"6165\" mtype=\"seg\">Ειδοποίηση Canvas - Γεγονός:</mrk> <mrk mid=\"6166\" mtype=\"seg\">%{event_title}, %{course_name}</mrk>"
+        subject: "<mrk mid=\"6165\" mtype=\"seg\">Ειδοποίηση Omega - Γεγονός:</mrk> <mrk mid=\"6166\" mtype=\"seg\">%{event_title}, %{course_name}</mrk>"
     new_file_added: 
       email: 
         body: "Ένα νέο αρχείο προστέθηκε στο μάθημα %{name}:"
@@ -9054,7 +9054,7 @@ el:
       summary: 
         subject: "<mrk mid=\"6030\" mtype=\"seg\">Νέο Αρχείο Προστέθηκε:</mrk> <mrk mid=\"6031\" mtype=\"seg\">%{title}, %{name}</mrk>"
       twitter: 
-        body: "<mrk mid=\"6032\" mtype=\"seg\">Ειδοποίηση Canvas - Νέο Αρχείο:</mrk> <mrk mid=\"6033\" mtype=\"seg\">%{title} (%{size}) για %{name}:</mrk>"
+        body: "<mrk mid=\"6032\" mtype=\"seg\">Ειδοποίηση Omega - Νέο Αρχείο:</mrk> <mrk mid=\"6033\" mtype=\"seg\">%{title} (%{size}) για %{name}:</mrk>"
     new_files_added: 
       email: 
         body: "%{count} νέα αρχεία προστέθηκαν στο μάθημα %{name}:"
@@ -9072,7 +9072,7 @@ el:
         link: "Μπορείτε να τα δείτε εδώ"
         subject: "%{count} νέα αρχεία προστέθηκαν στο μάθημα %{name}:"
       twitter: 
-        body: "Ειδοποίηση Canvas - %{count} νέα αρχεία στο %{name}"
+        body: "Ειδοποίηση Omega - %{count} νέα αρχεία στο %{name}"
     new_student_organized_group: 
       email: 
         body_account: "<mrk mid=\"6167\" mtype=\"seg\">Μια νέα ομάδα που οργανώθηκε από σπουδαστές και ονομάζεται «%{group_name}» δημιουργήθηκε για τον λογαριασμό %{account}.</mrk> <mrk mid=\"6168\" mtype=\"seg\">Το πρώτο μέλος είναι ο/η %{user}.</mrk>"
@@ -9094,8 +9094,8 @@ el:
         body_course: "<mrk mid=\"6181\" mtype=\"seg\">Μια νέα ομάδα που οργανώθηκε από σπουδαστές και ονομάζεται «%{group_name}» δημιουργήθηκε για το μάθημα %{course}.</mrk> <mrk mid=\"6182\" mtype=\"seg\">Το πρώτο μέλος είναι ο/η %{user}.</mrk>"
         subject: "Νέα Ομάδα Σπουδαστών για το μάθημα/τον λογαριασμό %{course_or_account}"
       twitter: 
-        body_account: "<mrk mid=\"6183\" mtype=\"seg\">Ειδοποίηση Canvas - Νέα Ομάδα:</mrk> <mrk mid=\"6184\" mtype=\"seg\">Ομάδα %{group_name} για τον λογαριασμό %{account}</mrk>"
-        body_course: "<mrk mid=\"6185\" mtype=\"seg\">Ειδοποίηση Canvas - Νέα Ομάδα:</mrk> <mrk mid=\"6186\" mtype=\"seg\">%{group_name} για το μάθημα %{course}</mrk>"
+        body_account: "<mrk mid=\"6183\" mtype=\"seg\">Ειδοποίηση Omega - Νέα Ομάδα:</mrk> <mrk mid=\"6184\" mtype=\"seg\">Ομάδα %{group_name} για τον λογαριασμό %{account}</mrk>"
+        body_course: "<mrk mid=\"6185\" mtype=\"seg\">Ειδοποίηση Omega - Νέα Ομάδα:</mrk> <mrk mid=\"6186\" mtype=\"seg\">%{group_name} για το μάθημα %{course}</mrk>"
     new_user: 
       email: 
         body: "Ο νέος χρήστης, %{user}, μόλις εγγράφηκε για τον λογαριασμό %{account}"
@@ -9112,7 +9112,7 @@ el:
         body: "Ο νέος χρήστης, %{user}, μόλις εγγράφηκε για τον λογαριασμό %{account}"
         subject: "Νέος Χρήστης"
       twitter: 
-        body: "<mrk mid=\"2050\" mtype=\"seg\">Ειδοποίηση Canvas - Νέος Χρήστης:</mrk> <mrk mid=\"2051\" mtype=\"seg\">%{user}, %{account}</mrk>"
+        body: "<mrk mid=\"2050\" mtype=\"seg\">Ειδοποίηση Omega - Νέος Χρήστης:</mrk> <mrk mid=\"2051\" mtype=\"seg\">%{user}, %{account}</mrk>"
     page_locked: "Αυτή η σελίδα είναι κλειδωμένη προς το παρόν."
     page_locked_at: "Αυτή η σελίδα ήταν κλειδωμένη %{at}."
     page_locked_until: "Αυτή η σελίδα θα παραμείνει κλειδωμένη μέχρι %{date}."
@@ -9130,40 +9130,40 @@ el:
         body: "<mrk mid=\"1625\" mtype=\"seg\">Έχετε προσκληθεί στην ομότιμη αξιολόγηση με τον/την %{reviewee}.</mrk> <mrk mid=\"1626\" mtype=\"seg\">Ακολουθήστε τον παρακάτω σύνδεσμο για να τις δείτε!</mrk>"
     pseudonym_registration: 
       email: 
-        body: "<mrk mid=\"2053\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!</mrk>  <mrk mid=\"2054\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Canvas, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
+        body: "<mrk mid=\"2053\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!</mrk>  <mrk mid=\"2054\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Omega, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
         html: 
-          body: "<mrk mid=\"3772\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!</mrk> <mrk mid=\"3773\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Canvas, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
+          body: "<mrk mid=\"3772\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!</mrk> <mrk mid=\"3773\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Omega, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
           link: "Κάντε κλικ εδώ για να ολοκληρώσετε τη διαδικασία εγγραφής"
-          subject: "Ολοκλήρωση Εγγραφής:Canvas"
+          subject: "Ολοκλήρωση Εγγραφής:Omega"
         link_message: "Για να ολοκληρώσετε τη διαδικασία εγγραφής, παρακαλώ επισκεφθείτε το ακόλουθο url:"
-        subject: "Ολοκλήρωση Εγγραφής:Canvas"
+        subject: "Ολοκλήρωση Εγγραφής:Omega"
       sms: 
-        body: "<mrk mid=\"7598\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!</mrk>  <mrk mid=\"7599\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Canvas, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
+        body: "<mrk mid=\"7598\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!</mrk>  <mrk mid=\"7599\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Omega, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
         link: "<mrk mid=\"7600\" mtype=\"seg\">Κάντε κλικ στο παρακάτω url για να ολοκληρώσετε τη διαδικασία εγγραφής:</mrk> <mrk mid=\"7601\" mtype=\"seg\">%{link}</mrk>"
       summary: 
-        body: "<mrk mid=\"7602\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!</mrk>  <mrk mid=\"7603\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Canvas, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
+        body: "<mrk mid=\"7602\" mtype=\"seg\">Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!</mrk>  <mrk mid=\"7603\" mtype=\"seg\">Πριν συνδεθείτε και αρχίσετε να χρησιμοποιείτε το Omega, θα πρέπει να ολοκληρώσετε τη διαδικασία ρύθμισης.</mrk>"
         link_message: "Για να ολοκληρώσετε τη διαδικασία εγγραφής, παρακαλώ επισκεφθείτε το ακόλουθο url:"
-        subject: "<mrk mid=\"7605\" mtype=\"seg\">Ολοκλήρωση Εγγραφής:</mrk> <mrk mid=\"7606\" mtype=\"seg\">Canvas</mrk>"
+        subject: "<mrk mid=\"7605\" mtype=\"seg\">Ολοκλήρωση Εγγραφής:</mrk> <mrk mid=\"7606\" mtype=\"seg\">Omega</mrk>"
       twitter: 
-        body: "Ειδοποίηση Canvas - Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!"
+        body: "Ειδοποίηση Omega - Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!"
     pseudonym_registration_done: 
       email: 
-        body: "Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!  "
+        body: "Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!  "
         html: 
-          body: "Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!"
+          body: "Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!"
           link: "Κάντε κλικ εδώ για πρόσβαση στον λογαριασμό σας"
-          subject: "Η Εγγραφή στο Canvas Ολοκληρώθηκε"
+          subject: "Η Εγγραφή στο Omega Ολοκληρώθηκε"
         link_message: "Επισκεφθείτε το παρακάτω url για να μπείτε στον λογαριασμό σας:"
-        subject: "Η Εγγραφή στο Canvas Ολοκληρώθηκε"
+        subject: "Η Εγγραφή στο Omega Ολοκληρώθηκε"
       sms: 
-        body: "Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!"
+        body: "Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!"
         link: "Επισκεφθείτε το παρακάτω url για να μπείτε στον λογαριασμό σας %{link}"
       summary: 
-        body: "Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!"
+        body: "Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!"
         link_message: "Επισκεφθείτε το παρακάτω url για να μπείτε στον λογαριασμό σας:"
-        subject: "Η Εγγραφή στο Canvas Ολοκληρώθηκε"
+        subject: "Η Εγγραφή στο Omega Ολοκληρώθηκε"
       twitter: 
-        body: "Ειδοποίηση Canvas - Έχετε εγγραφεί για λογαριασμό στο Canvas στον λογαριασμό %{account}!"
+        body: "Ειδοποίηση Omega - Έχετε εγγραφεί για λογαριασμό στο Omega στον λογαριασμό %{account}!"
     quiz_locked: "Αυτό το κουίζ είναι κλειδωμένο προς το παρόν."
     quiz_locked_at: "Το κουίζ κλειδώθηκε %{at}."
     quiz_locked_module: "Το κουίζ αποτελεί μέρος της μονάδας *%{module}* και δεν έχει ξεκλειδωθεί ακόμα."
@@ -9185,7 +9185,7 @@ el:
         body: "Ολοκληρώθηκε μια αναβαθμολόγηση για το κουίζ σας %{title}."
         subject: "Το Κουίζ Αναβαθμολογήθηκε:  %{quiz}, %{context}"
       twitter: 
-        body: "Ειδοποίηση Canvas - Το Κουίζ Αναβαθμολογήθηκε: %{quiz}"
+        body: "Ειδοποίηση Omega - Το Κουίζ Αναβαθμολογήθηκε: %{quiz}"
     quiz_unpublished_module: "Αυτό το κουίζ είναι μέρος μιας μη δημοσιευμένης ενότητας και δεν είναι ακόμη διαθέσιμο."
     report_generated: 
       email: 
@@ -9214,7 +9214,7 @@ el:
         body: "<mrk mid=\"2079\" mtype=\"seg\">Σας γίνεται υπενθύμιση για την αξιολόγηση:</mrk> <mrk mid=\"2080\" mtype=\"seg\">%{rubric}, %{context}:</mrk>"
         subject: "<mrk mid=\"2081\" mtype=\"seg\">Υπενθύμιση για Αξιολόγηση:</mrk> <mrk mid=\"2082\" mtype=\"seg\">%{rubric}, %{context}</mrk>"
       twitter: 
-        tweet: "Ειδοποίηση Canvas - Υπενθύμιση: αξιολόγηση %{rubric}, %{context}"
+        tweet: "Ειδοποίηση Omega - Υπενθύμιση: αξιολόγηση %{rubric}, %{context}"
     rubric_association_created: 
       email: 
         body: "Μια νέα αξιολόγηση δημιουργήθηκε για το %{context}:"
@@ -9231,7 +9231,7 @@ el:
         body: "Μια νέα αξιολόγηση δημιουργήθηκε για το %{context}:"
         subject: "<mrk mid=\"2091\" mtype=\"seg\">Νέα Αξιολόγηση:</mrk> <mrk mid=\"2092\" mtype=\"seg\">%{title}, %{context}</mrk>"
       twitter: 
-        tweet: "<mrk mid=\"2093\" mtype=\"seg\">Ειδοποίηση Canvas - Νέα Αξιολόγηση:</mrk> <mrk mid=\"2094\" mtype=\"seg\">%{title}, %{context}.</mrk>"
+        tweet: "<mrk mid=\"2093\" mtype=\"seg\">Ειδοποίηση Omega - Νέα Αξιολόγηση:</mrk> <mrk mid=\"2094\" mtype=\"seg\">%{title}, %{context}.</mrk>"
     send_form: 
       labels: 
         message_body: Μήνυμα
@@ -9251,7 +9251,7 @@ el:
         body: "Ο/Η %{author} μόλις προσέθεσε ένα σχόλιο στην υποβολή του χρήστη %{user} για την εργασία %{assignment}."
         subject: "<mrk mid=\"2103\" mtype=\"seg\">Σχόλιο Υποβολής:</mrk> <mrk mid=\"2104\" mtype=\"seg\">%{user}, %{assignment}, %{context}</mrk>"
       twitter: 
-        tweet: "<mrk mid=\"2105\" mtype=\"seg\">Ειδοποίηση Canvas - Σχόλιο:</mrk> <mrk mid=\"2106\" mtype=\"seg\">%{author} για την εργασία %{assignment}, %{user}, %{context}.</mrk>"
+        tweet: "<mrk mid=\"2105\" mtype=\"seg\">Ειδοποίηση Omega - Σχόλιο:</mrk> <mrk mid=\"2106\" mtype=\"seg\">%{author} για την εργασία %{assignment}, %{user}, %{context}.</mrk>"
     submission_comment_for_teacher: 
       email: 
         body: "Ο/Η %{author} μόλις προσέθεσε ένα σχόλιο στην υποβολή του χρήστη %{user} για την εργασία %{assignment}"
@@ -9271,7 +9271,7 @@ el:
         someone: Κάποιος
         subject: "<mrk mid=\"2116\" mtype=\"seg\">Σχόλιο Υποβολής:</mrk> <mrk mid=\"2117\" mtype=\"seg\">%{user}, %{assignment}, %{context}</mrk>"
       twitter: 
-        tweet: "<mrk mid=\"2118\" mtype=\"seg\">Ειδοποίηση Canvas - Σχόλιο:</mrk> <mrk mid=\"2119\" mtype=\"seg\">%{author} για την εργασία %{assignment}, %{user}, %{context}.</mrk>"
+        tweet: "<mrk mid=\"2118\" mtype=\"seg\">Ειδοποίηση Omega - Σχόλιο:</mrk> <mrk mid=\"2119\" mtype=\"seg\">%{author} για την εργασία %{assignment}, %{user}, %{context}.</mrk>"
     submission_grade_changed: 
       email: 
         body: "Ο βαθμός για την εργασία σας, %{assignment_title} έχει αλλάξει."
@@ -9313,7 +9313,7 @@ el:
         not_applicable: "Δεν εφαρμόζεται"
         score: "<mrk mid=\"2144\" mtype=\"seg\">βαθμολογία:</mrk>  <mrk mid=\"2145\" mtype=\"seg\">%{score} από %{total}</mrk>"
         score_pending: "(εκκρεμεί αναθεώρηση)"
-        tweet: "<mrk mid=\"2146\" mtype=\"seg\">Ειδοποίηση Canvas - Αλλαγή Βαθμού:</mrk> <mrk mid=\"2147\" mtype=\"seg\">%{date}</mrk>"
+        tweet: "<mrk mid=\"2146\" mtype=\"seg\">Ειδοποίηση Omega - Αλλαγή Βαθμού:</mrk> <mrk mid=\"2147\" mtype=\"seg\">%{date}</mrk>"
     submission_graded: 
       email: 
         body: "Η εργασία σας %{assignment} έχει βαθμολογηθεί."
@@ -9355,7 +9355,7 @@ el:
         not_applicable: "Δεν εφαρμόζεται"
         score: "<mrk mid=\"2168\" mtype=\"seg\">βαθμολογία:</mrk>  <mrk mid=\"2169\" mtype=\"seg\">%{score} από %{total}</mrk>"
         score_pending_review: "(εκκρεμεί αναθεώρηση)"
-        tweet: "<mrk mid=\"2170\" mtype=\"seg\">Ειδοποίηση Canvas - Βαθμολογήθηκε:</mrk> <mrk mid=\"2171\" mtype=\"seg\">%{assignment}, %{context}</mrk>"
+        tweet: "<mrk mid=\"2170\" mtype=\"seg\">Ειδοποίηση Omega - Βαθμολογήθηκε:</mrk> <mrk mid=\"2171\" mtype=\"seg\">%{assignment}, %{context}</mrk>"
     submission_needs_grading: 
       email: 
         body: "Ο χρήστης %{user_name} ολοκλήρωσε το κουίζ %{quiz_title} και απαιτείται χειροκίνητη βαθμολόγηση."
@@ -9380,7 +9380,7 @@ el:
         subject: "<mrk mid=\"6706\" mtype=\"seg\">Κουίζ που Υποβλήθηκε:</mrk> <mrk mid=\"6707\" mtype=\"seg\">%{quiz}, %{context}</mrk>"
         submitted_date: "<mrk mid=\"6708\" mtype=\"seg\">υποβλήθηκε:</mrk> <mrk mid=\"6709\" mtype=\"seg\">%{date}</mrk>"
       twitter: 
-        body: "<mrk mid=\"6710\" mtype=\"seg\">Ειδοποίηση Canvas - Υποβλήθηκε Κουίζ:</mrk> <mrk mid=\"6711\" mtype=\"seg\">%{quiz}, %{user_name}</mrk>"
+        body: "<mrk mid=\"6710\" mtype=\"seg\">Ειδοποίηση Omega - Υποβλήθηκε Κουίζ:</mrk> <mrk mid=\"6711\" mtype=\"seg\">%{quiz}, %{user_name}</mrk>"
     submission_posted: 
       email: 
         html: 
@@ -9388,16 +9388,16 @@ el:
           link: "Μπορείτε να το δείτε εδώ"
     summaries: 
       email: 
-        daily_body: "<mrk mid=\"2172\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια ημερήσια αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Canvas.</mrk>  <mrk mid=\"2173\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για τις %{date}:</mrk>"
+        daily_body: "<mrk mid=\"2172\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια ημερήσια αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Omega.</mrk>  <mrk mid=\"2173\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για τις %{date}:</mrk>"
         html: 
           click_to_preferences: "Κάντε κλικ εδώ για να επεξεργαστείτε τις προτιμήσεις ειδοποιήσεών σας"
-          daily_body: "<mrk mid=\"3828\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια ημερήσια αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Canvas.</mrk> <mrk mid=\"3829\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για τις %{date}:</mrk>"
-          subject: "Πρόσφατες Ειδοποιήσεις Canvas"
+          daily_body: "<mrk mid=\"3828\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια ημερήσια αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Omega.</mrk> <mrk mid=\"3829\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για τις %{date}:</mrk>"
+          subject: "Πρόσφατες Ειδοποιήσεις Omega"
           view: "Κάντε κλικ για προβολή"
-          weekly_body: "<mrk mid=\"3835\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια εβδομαδιαία αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Canvas.</mrk> <mrk mid=\"3836\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για την εβδομάδα που ολοκληρώθηκε στις %{date}:</mrk>"
+          weekly_body: "<mrk mid=\"3835\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια εβδομαδιαία αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Omega.</mrk> <mrk mid=\"3836\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για την εβδομάδα που ολοκληρώθηκε στις %{date}:</mrk>"
         notifications_link: "Μπορείτε να αλλάξετε τις ρυθμίσεις των ειδοποιήσεών σας μεταβαίνοντας στην ακόλουθη σελίδα:"
-        subject: "Πρόσφατες Ειδοποιήσεις Canvas"
-        weekly_body: "<mrk mid=\"2176\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια εβδομαδιαία αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Canvas.</mrk>  <mrk mid=\"2177\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για την εβδομάδα που ολοκληρώθηκε στις %{date}:</mrk>"
+        subject: "Πρόσφατες Ειδοποιήσεις Omega"
+        weekly_body: "<mrk mid=\"2176\" mtype=\"seg\">Έχετε εγγραφεί για να λαμβάνετε μια εβδομαδιαία αναφορά ορισμένων ειδοποιήσεων από τον λογαριασμό σας στο Omega.</mrk>  <mrk mid=\"2177\" mtype=\"seg\">Παρακάτω θα βρείτε την αναφορά για την εβδομάδα που ολοκληρώθηκε στις %{date}:</mrk>"
       sms: 
         notifications_sms: "%{notifications_count} νέες ειδοποιήσεις στο %{url}"
     topic_locked_at: "Αυτό το θέμα κλειδώθηκε %{at}."
@@ -9419,7 +9419,7 @@ el:
       summary: 
         subject: "Η σελίδα ενημερώθηκε: %{title},%{user}"
       twitter: 
-        tweet: "<mrk mid=\"2189\" mtype=\"seg\">Ειδοποίηση Canvas - Η Σελίδα Ενημερώθηκε:</mrk> <mrk mid=\"2190\" mtype=\"seg\">%{title}, %{user}.</mrk>"
+        tweet: "<mrk mid=\"2189\" mtype=\"seg\">Ειδοποίηση Omega - Η Σελίδα Ενημερώθηκε:</mrk> <mrk mid=\"2190\" mtype=\"seg\">%{title}, %{user}.</mrk>"
     web_conference_invitation: 
       email: 
         body: "Έχετε προσκληθεί να συμμετάσχετε σε με συνεδρία μέσω διαδικτύου, %{title} για %{name}."
@@ -9436,7 +9436,7 @@ el:
         body: "Έχετε προσκληθεί να συμμετάσχετε σε με συνεδρία μέσω διαδικτύου, %{title} για %{name}."
         subject: "<mrk mid=\"2199\" mtype=\"seg\">Πρόσκληση για Συνεδρία μέσω Διαδικτύου:</mrk> <mrk mid=\"2200\" mtype=\"seg\">%{name}</mrk>"
       twitter: 
-        tweet: "Ειδοποίηση Canvas - Πρόσκληση: Παρευρεθείτε στη συνεδρία %{title}, %{name}"
+        tweet: "Ειδοποίηση Omega - Πρόσκληση: Παρευρεθείτε στη συνεδρία %{title}, %{name}"
     web_conference_recording_ready: 
       email: 
         body: "Η ηχογράφησή σας του %{title} για %{name} είναι έτοιμη."
@@ -9453,7 +9453,7 @@ el:
         body: "Η ηχογράφησή σας του %{title} για %{name} είναι έτοιμη."
         subject: "<mrk mid=\"3635\" mtype=\"seg\">Ηχογράφηση Συνεδρίας μέσω Διαδικτύου Έτοιμη:</mrk> <mrk mid=\"3636\" mtype=\"seg\">%{name}</mrk>"
       twitter: 
-        tweet: "<mrk mid=\"3637\" mtype=\"seg\">Ειδοποίηση Canvas - Η ηχογράφηση είναι έτοιμη:</mrk> <mrk mid=\"3638\" mtype=\"seg\">%{title}, %{name}</mrk>"
+        tweet: "<mrk mid=\"3637\" mtype=\"seg\">Ειδοποίηση Omega - Η ηχογράφηση είναι έτοιμη:</mrk> <mrk mid=\"3638\" mtype=\"seg\">%{title}, %{name}</mrk>"
   migrate_67c9f753: Μεταφορά
   migration: 
     announcement_type: Ανακοίνωση
@@ -9625,7 +9625,7 @@ el:
   nav_text_94206145: "Κείμενο Πλοήγησης"
   nav_text_active_a924ae88: "Ενεργό Κείμενο Πλοήγησης"
   near_mastery_f25174a4: "Κοντά στο Επίπεδο Επιδεξιότητας"
-  need_a_canvas_account_221d18ed: "Χρειάζεστε Λογαριασμό Canvas;"
+  need_a_canvas_account_221d18ed: "Χρειάζεστε Λογαριασμό Omega;"
   never_1ed1244d: ποτέ
   never_df100b49: Ποτέ
   new_13daf639: Νέο
@@ -9703,9 +9703,9 @@ el:
   note_some_items_fall_outside_the_start_and_or_end__feab0642: "Σημείωση: Ορισμένα στοιχεία βρίσκονται εκτός των ημερομηνιών έναρξης ή/και λήξης του μαθήματος"
   note_students_have_submitted_work_for_these_assign_7bc34e28: "<mrk mid=\"7314\" mtype=\"seg\">ΣΗΜΕΙΩΣΗ:</mrk> <mrk mid=\"7315\" mtype=\"seg\">Οι σπουδαστές έχουν υποβάλει υλικό για αυτές τις εργασίες που δεν έχει βαθμολογηθεί.</mrk> <mrk mid=\"7316\" mtype=\"seg\">Αν δημοσιεύσετε αυτούς τους βαθμούς τώρα, θα πρέπει να αναδημοσιεύσετε τις βαθμολογίες τους μετά τη βαθμολόγηση των πιο πρόσφατων υποβολών τους.</mrk>"
   note_sub_account_themes_are_not_active_during_this_a5dd9da: "Σημείωση: Τα θέματα του υπο-λογαριασμού δεν είναι ενεργά κατά τη διάρκεια αυτής της προεπισκόπησης."
-  note_this_login_s_account_uses_delegated_authentic_89227914: "<mrk mid=\"7317\" mtype=\"seg\">Σημείωση:</mrk> <mrk mid=\"7318\" mtype=\"seg\">Αυτός ο λογαριασμός σύνδεσης χρησιμοποιεί έλεγχο ταυτότητας με ανάθεση, αλλά επιτρέπει τον έλεγχο ταυτότητας του εναλλακτικού κωδικού πρόσβασης στο Canvas.</mrk> <mrk mid=\"7319\" mtype=\"seg\">Τα πεδία του κωδικού πρόσβασης σε αυτή τη φόρμα ενημερώνουν τον εναλλακτικό κωδικό πρόσβασης στο Canvas, *όχι* τον έλεγχο ταυτότητας με ανάθεση.</mrk>"
+  note_this_login_s_account_uses_delegated_authentic_89227914: "<mrk mid=\"7317\" mtype=\"seg\">Σημείωση:</mrk> <mrk mid=\"7318\" mtype=\"seg\">Αυτός ο λογαριασμός σύνδεσης χρησιμοποιεί έλεγχο ταυτότητας με ανάθεση, αλλά επιτρέπει τον έλεγχο ταυτότητας του εναλλακτικού κωδικού πρόσβασης στο Omega.</mrk> <mrk mid=\"7319\" mtype=\"seg\">Τα πεδία του κωδικού πρόσβασης σε αυτή τη φόρμα ενημερώνουν τον εναλλακτικό κωδικό πρόσβασης στο Omega, *όχι* τον έλεγχο ταυτότητας με ανάθεση.</mrk>"
   notes_c42e0fd5: Σημειώσεις
-  notice_some_notifications_may_contain_confidential_5985f52a: "Ειδοποίηση: Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες. Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Canvas εκτός του συστήματος του ιδρύματος."
+  notice_some_notifications_may_contain_confidential_5985f52a: "Ειδοποίηση: Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες. Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Omega εκτός του συστήματος του ιδρύματος."
   notification: 
     account_notification_display: "Καθολικές Ανακοινώσεις"
     added_to_conversation_description: "Έχετε προστεθεί σε μια συνομιλία"
@@ -10113,7 +10113,7 @@ el:
       instructions: 
         main: 
           manage: 
-            description: "*Τα αποτελέσματα δημιουργούνται εδώ για να παρέχεται η δυνατότητα παρακολούθησης της επίτευξης επιδεξιότητας σε κάποιο μάθημα. Για να ξεκινήσετε, ελέγξτε τη μπάρα του μενού κατά μήκος του επάνω μέρους. Κάντε κλικ στο κουμπί Νέο για να δημιουργήσετε νέο μαθησιακό αποτέλεσμα ή στο κουμπί Νέα Ομάδα για να δημιουργήσετε νέα ομάδα στην οποία θα οργανώσετε τα αποτελέσματά σας. Το κουμπί Εύρεση θα σας επιτρέψει να χρησιμοποιήσετε μαθησιακά αποτελέσματα που δημιούργησε η πολιτεία ή το πανεπιστήμιό σας. Καθώς δημιουργείτε και χρησιμοποιείτε μαθησιακά αποτελέσματα, θα είστε σε θέση να χρησιμοποιείτε το μενού αριστερά για την πλοήγησή σας στα αποτελέσματά σας. Μπορείτε να σέρνετε και να αποθέτετε αποτελέσματα μεταξύ των διαφορετικών επιπέδων για τη δημιουργία δομής.**Και κυρίως, το Canvas σας επιτρέπει να προσθέτετε μαθησιακά αποτελέσματα στις ρουμπρίκες βαθμολόγησής σας ώστε να μπορείτε να αξιολογείτε το επίπεδο επιδεξιότητας ενώ βαθμολογείτε εργασίες. Μόλις ρυθμίσετε τα μαθησιακά αποτελέσματα, κάντε κλικ στην επιλογή Διαχείριση Ρουμπρίκων για να ξεκινήσετε να χρησιμοποιείτε τα αποτελέσματά σας για σκοπούς βαθμολόγησης.*"
+            description: "*Τα αποτελέσματα δημιουργούνται εδώ για να παρέχεται η δυνατότητα παρακολούθησης της επίτευξης επιδεξιότητας σε κάποιο μάθημα. Για να ξεκινήσετε, ελέγξτε τη μπάρα του μενού κατά μήκος του επάνω μέρους. Κάντε κλικ στο κουμπί Νέο για να δημιουργήσετε νέο μαθησιακό αποτέλεσμα ή στο κουμπί Νέα Ομάδα για να δημιουργήσετε νέα ομάδα στην οποία θα οργανώσετε τα αποτελέσματά σας. Το κουμπί Εύρεση θα σας επιτρέψει να χρησιμοποιήσετε μαθησιακά αποτελέσματα που δημιούργησε η πολιτεία ή το πανεπιστήμιό σας. Καθώς δημιουργείτε και χρησιμοποιείτε μαθησιακά αποτελέσματα, θα είστε σε θέση να χρησιμοποιείτε το μενού αριστερά για την πλοήγησή σας στα αποτελέσματά σας. Μπορείτε να σέρνετε και να αποθέτετε αποτελέσματα μεταξύ των διαφορετικών επιπέδων για τη δημιουργία δομής.**Και κυρίως, το Omega σας επιτρέπει να προσθέτετε μαθησιακά αποτελέσματα στις ρουμπρίκες βαθμολόγησής σας ώστε να μπορείτε να αξιολογείτε το επίπεδο επιδεξιότητας ενώ βαθμολογείτε εργασίες. Μόλις ρυθμίσετε τα μαθησιακά αποτελέσματα, κάντε κλικ στην επιλογή Διαχείριση Ρουμπρίκων για να ξεκινήσετε να χρησιμοποιείτε τα αποτελέσματά σας για σκοπούς βαθμολόγησης.*"
             title: "Ρύθμιση Αποτελεσμάτων"
     mastery_error: "Πρέπει να είναι μεγαλύτερο ή ίσο από 0"
     missing_outcome: "Αδύνατη η εύρεση αυτού του αποτελέσματος εκμάθησης"
@@ -10264,7 +10264,7 @@ el:
     view_more_link: "Εμφάνιση Περισσότερων"
   paginated_view: 
     loading_more_results: "Γίνεται φόρτωση περισσοτέρων αποτελεσμάτων"
-  parent_of_a_canvas_user_afba1624: "Γονέας ή Χρήστης Canvas;"
+  parent_of_a_canvas_user_afba1624: "Γονέας ή Χρήστης Omega;"
   parent_signup_b7c6bf0a: "Εγγραφή Γονέα"
   parents_sign_up_here_f0aa8f4f: "Οι γονείς εγγράφονται εδώ"
   participation_af2598: Συμμετοχή
@@ -10313,12 +10313,12 @@ el:
   please_wait_e6355980: "Παρακαλώ περιμένετε..."
   plugins: 
     academic_benchmark_importer: 
-      description: "Επιτρέπει την εισαγωγή προτύπων Academic Benchmark στο Canvas."
+      description: "Επιτρέπει την εισαγωγή προτύπων Academic Benchmark στο Omega."
     account_reports: 
       description: "Επιλογή αναφορών λογαρισμού"
       name: "Ανοφορές Λογαριασμού"
     app_center: 
-      description: "Κέντρο Εφαρμογών για παρακολούθηση/εγκατάσταση εξωτερικών εργαλείων στο Canvas"
+      description: "Κέντρο Εφαρμογών για παρακολούθηση/εγκατάσταση εξωτερικών εργαλείων στο Omega"
       name: "Κέντρο Εφαρμογών"
     app_center_settings: 
       labels: 
@@ -10336,7 +10336,7 @@ el:
       no_copying_frozen: "Να μην επιτρέπεται η αντιγραφή εργασιών που έχουν παγώσει."
     banner_grade_exchange_settings: 
       labels: 
-        canvas_source_identifier: "Όνομα της σύνδεσής σας Canvas"
+        canvas_source_identifier: "Όνομα της σύνδεσής σας Omega"
         sis_source_identifier: "Όνομα της σύνδεσής σας Banner"
     big_blue_button: 
       description: "Υποστήριξη συνεδρίας μέσω διαδικτύου BigBlueButton"
@@ -10367,10 +10367,10 @@ el:
         api_key: "Κλειδί API"
         base_url: "URL βάσης"
     canvas_webhooks: 
-      description: "Προσθήκη webhook για το Canvas"
-      name: "Webhook του Canvas"
+      description: "Προσθήκη webhook για το Omega"
+      name: "Webhook του Omega"
     catalog_provisioner: 
-      description: "Πάροχος Λογαριασμού Καταλόγου για το Canvas"
+      description: "Πάροχος Λογαριασμού Καταλόγου για το Omega"
       name: "Πάροχος Καταλόγου"
     crocodoc: 
       description: "Ενεργοποιήστε το Crocodoc ως επιλογή προεπισκόπησης εγγράφων"
@@ -10479,7 +10479,7 @@ el:
         default_email_domain: "Προεπιλεγμένο domain email"
         email_preference: "Προτίμηση ηλεκτρονικής διεύθυνσης"
         lms_delivery_name: "Όνομα παράδοσης του συστήματος διαχείρισης εκπαίδευσης (LMS)"
-        map_sections_to_courses: "Χαρτογράφηση τομέων IMS στα Μαθήματα του Canvas"
+        map_sections_to_courses: "Χαρτογράφηση τομέων IMS στα Μαθήματα του Omega"
         section_end_days_adjustment: "Προσαρμογή των ημερών λήξης του τομέα"
         section_name_selection: "Επιλογή ονόματος τμήματος"
         section_start_days_adjustment: "Προσαρμογή των ημερών έναρξης του τομέα"
@@ -10489,8 +10489,8 @@ el:
       author: Συγγραφέας
       description: Περιγραφή
       name: Όνομα
-      no_plugins: "Δεν έχουν εγκατασταθεί προσθήκες του Canvas "
-      page_title: "Προσθήκες του Canvas"
+      no_plugins: "Δεν έχουν εγκατασταθεί προσθήκες του Omega "
+      page_title: "Προσθήκες του Omega"
       tag: Ετικέτα
       version: Έκδοση
       website: Ιστοσελίδα
@@ -10504,7 +10504,7 @@ el:
           <mrk mid="2380" mtype="seg">Θα χρειαστεί να διαθέτετε λογαριασμό είτε στο [Kaltura.com](%{kaltura_url})
           είτε σε σύνδεση του Kaltura.</mrk>
           
-          <mrk mid="2381" mtype="seg">**Σημείωση:** Μόλις ρυθμίσετε το Kaltura στο Canvas, θα πρέπει να μεταβείτε στην Κονσόλα Διαχείρισης Kaltiura και στην επιλογή «Ρυθμίσεις -&gt;
+          <mrk mid="2381" mtype="seg">**Σημείωση:** Μόλις ρυθμίσετε το Kaltura στο Omega, θα πρέπει να μεταβείτε στην Κονσόλα Διαχείρισης Kaltiura και στην επιλογή «Ρυθμίσεις -&gt;
           Ρυθμίσεις Ενσωμάτωσης» να ενεργοποιήσετε τις ειδοποιήσεις διακομιστή με URL Ειδοποίησης:</mrk>
           
           <mrk mid="2382" mtype="seg">%{notification_url}
@@ -10512,7 +10512,7 @@ el:
           Στη συνέχεια, τσεκάρετε τα κουτάκια «Προσθήκη Καταχώρισης» και «Διαγραφή Καταχώρισης» στη στήλη «Εστάλη από τον Διακομιστή».</mrk>
       headers: 
         account_settings: "Ρυθμίσεις Λογαρισμού"
-        canvas_settings: "Ρυθμίσεις Canvas"
+        canvas_settings: "Ρυθμίσεις Omega"
         domain_settings: "Ρυθμίσεις Domain"
         misc_settings: "<mrk mid=\"3788\" mtype=\"seg\">Διάφορα</mrk> <mrk mid=\"3789\" mtype=\"seg\">Ρυθμίσεις</mrk>"
         ui_conf_ids: "ID Ρύθμισης UI"
@@ -10578,7 +10578,7 @@ el:
     notices: 
       settings_updated: "Οι ρυθμίσεις της προσθήκης ενημερώθηκαν επιτυχώς"
     panda_pub_settings: 
-      description: "Το PandaPub είναι μια υπηρεσία δημοσίευσης/εγγραφής (pub/sub), η οποία, αφού ρυθμιστεί, επιτρέπει σε μερικά τμήματα του Canvas να λαμβάνουν ειδοποιήσεις για γεγονότα εντός του φυλλομετρητή, αντί να γίνεται γκάλοπ για τυχόν αλλαγές."
+      description: "Το PandaPub είναι μια υπηρεσία δημοσίευσης/εγγραφής (pub/sub), η οποία, αφού ρυθμιστεί, επιτρέπει σε μερικά τμήματα του Omega να λαμβάνουν ειδοποιήσεις για γεγονότα εντός του φυλλομετρητή, αντί να γίνεται γκάλοπ για τυχόν αλλαγές."
       labels: 
         application_id: "Id Εφαρμογής"
         base_url: "URL βάσης"
@@ -10637,7 +10637,7 @@ el:
     webct_scraper_settings: 
       description: |-
           <mrk mid="3508" mtype="seg">Αν το ίδρυμα δεν χρησιμοποιεί τις «Εκπαιδευτικές Ενότητες» του WebCT (συμπεριλαμβανομένων σχολείων που αγόρασαν το WebCT πριν από την έκδοση 4.0, όταν οι ενότητες ήταν πια διαθέσιμες), οι μεταφορές μαθημάτων μπορούν να βελτιωθούν με την εισαγωγή του «Περιεχομένου Μαθήματος»
-          ως Ενότητες στο Canvas αντί για τις «Εκπαιδευτικές Ενότητες».</mrk> <mrk mid="3509" mtype="seg">Αυτή η σελίδα επιτρέπει τη διαμόρφωση της προεπιλεγμένης συμπεριφοράς της λειτουργίας μεταφοράς του WebCT όσον αφορά στις ενότητες περιεχομένου.</mrk> <mrk mid="3510" mtype="seg">Είναι σημαντικό να θυμάστε ότι ενώ κατά τη μεταφορά μεμονωμένου μαθήματος διατηρείτε τη δυνατότητα επιλογής, κατά τη μαζική μεταφορά χρησιμοποιείται πάντα η τιμή που έχει ρυθμιστεί εδώ και δεν είναι δυνατή η αλλαγή της για κάθε μεταφορά.</mrk>
+          ως Ενότητες στο Omega αντί για τις «Εκπαιδευτικές Ενότητες».</mrk> <mrk mid="3509" mtype="seg">Αυτή η σελίδα επιτρέπει τη διαμόρφωση της προεπιλεγμένης συμπεριφοράς της λειτουργίας μεταφοράς του WebCT όσον αφορά στις ενότητες περιεχομένου.</mrk> <mrk mid="3510" mtype="seg">Είναι σημαντικό να θυμάστε ότι ενώ κατά τη μεταφορά μεμονωμένου μαθήματος διατηρείτε τη δυνατότητα επιλογής, κατά τη μαζική μεταφορά χρησιμοποιείται πάντα η τιμή που έχει ρυθμιστεί εδώ και δεν είναι δυνατή η αλλαγή της για κάθε μεταφορά.</mrk>
       labels: 
         allow_outline_selection: "Προβάλετε την επιλογή χρήσης του Περιεχομένου των Μαθημάτων ως Ενότητες στον οδηγό μεταφοράς"
         folders_as_outline: "Χρήση του «Περιεχομένου Μαθήματος» WebCT για τις ενότητες, ως προεπιλογή"
@@ -10727,7 +10727,7 @@ el:
   priority_dd4381ee: Προτεραιότητα
   privacy_290109ea: Απόρρητο
   processing_2fcc9739: "Γίνεται Επεξεργασία"
-  product_name: Canvas
+  product_name: Omega
   profile: 
     access_token: 
       default_app_name: "Δεν υπάρχει Εφαρμογή"
@@ -10790,7 +10790,7 @@ el:
     page_title: "Σπουδαστές υπό Παρατήρηση"
     please_select_an_option: "Παρακαλώ διαλέξτε μια επιλογή"
     profile: 
-      approved_integrations: "Αυτές είναι οι τρίτες εφαρμογές στις οποίες έχετε δώσει εξουσιοδότηση πρόσβασης στην ιστοσελίδα του Canvas εκ μέρους σας:"
+      approved_integrations: "Αυτές είναι οι τρίτες εφαρμογές στις οποίες έχετε δώσει εξουσιοδότηση πρόσβασης στην ιστοσελίδα του Omega εκ μέρους σας:"
       buttons: 
         add_picture_file: "Προσθήκη Αρχείου"
         authorize_google_drive: "Εξουσιοδότηση Πρόσβασης στο Google Drive"
@@ -10804,15 +10804,15 @@ el:
         save_yo_name: "Αποθήκευση Ονόματος Yo"
         select_image: "Επιλογή Εικόνας"
         update_settings: "Ενημέρωση Ρυθμίσεων"
-      delicious_description: "<mrk mid=\"6746\" mtype=\"seg\">Το Delicious είναι ένα εργαλείο που σας επιτρέπει να αποθηκεύετε και να μοιράζεστε τους σελιδοδείκτες σας με άλλα άτομα.</mrk> <mrk mid=\"6747\" mtype=\"seg\">Ο επεξεργαστής πλούσιου περιεχομένου του Canvas θα σας επιτρέψει να πραγματοποιήσετε αναζήτηση στις καρτέλες σας στο Delicious για να συνδέεστε εύκολα μέσω αυτών από το Canvas σε άλλες πηγές που θεωρείτε χρήσιμες.</mrk>"
-      diigo_description: "<mrk mid=\"6748\" mtype=\"seg\">Το Diigo είναι ένα εργαλείο συλλογικών σελιδοδεικτών ειδικά φτιαγμένο για σκοπούς έρευνας και εκπαίδευσης.</mrk> <mrk mid=\"6749\" mtype=\"seg\">Ο επεξεργαστής πλούσιου περιεχομένου του Canvas θα σας επιτρέψει να πραγματοποιήσετε αναζήτηση στις καρτέλες σας στο Diigo για να συνδέεστε εύκολα μέσω αυτών από το Canvas σε άλλες πηγές που θεωρείτε χρήσιμες.</mrk>"
+      delicious_description: "<mrk mid=\"6746\" mtype=\"seg\">Το Delicious είναι ένα εργαλείο που σας επιτρέπει να αποθηκεύετε και να μοιράζεστε τους σελιδοδείκτες σας με άλλα άτομα.</mrk> <mrk mid=\"6747\" mtype=\"seg\">Ο επεξεργαστής πλούσιου περιεχομένου του Omega θα σας επιτρέψει να πραγματοποιήσετε αναζήτηση στις καρτέλες σας στο Delicious για να συνδέεστε εύκολα μέσω αυτών από το Omega σε άλλες πηγές που θεωρείτε χρήσιμες.</mrk>"
+      diigo_description: "<mrk mid=\"6748\" mtype=\"seg\">Το Diigo είναι ένα εργαλείο συλλογικών σελιδοδεικτών ειδικά φτιαγμένο για σκοπούς έρευνας και εκπαίδευσης.</mrk> <mrk mid=\"6749\" mtype=\"seg\">Ο επεξεργαστής πλούσιου περιεχομένου του Omega θα σας επιτρέψει να πραγματοποιήσετε αναζήτηση στις καρτέλες σας στο Diigo για να συνδέεστε εύκολα μέσω αυτών από το Omega σε άλλες πηγές που θεωρείτε χρήσιμες.</mrk>"
       error_loading_token_details: "Σφάλμα Φόρτωσης Λεπτομερειών Token"
       feature_options: "Επιλογές χαρακτηριστικών"
       full_token_warning: |-
           <mrk mid="6751" mtype="seg">**Αντιγραφή αυτού του token κάτω τώρα**.</mrk> <mrk mid="6752" mtype="seg">Εφόσον απομακρυνθείτε από αυτή τη σελίδα δεν θα μπορείτε πλέον να
           ανακτήσετε το πλήρες token, θα πρέπει να το δημιουργήσετε εκ νέου για να λάβετε νέα τιμή.</mrk>
       generate_access_token_description: |-
-          <mrk mid="6753" mtype="seg">Τα token πρόσβασης είναι αυτά που επιτρέπουν σε τρίτες εφαρμογές να έχουν πρόσβαση στις πηγές του Canvas εκ μέρους σας.</mrk> <mrk mid="6754" mtype="seg">Τα token συνήθως δημιουργούνται αυτόματα για
+          <mrk mid="6753" mtype="seg">Τα token πρόσβασης είναι αυτά που επιτρέπουν σε τρίτες εφαρμογές να έχουν πρόσβαση στις πηγές του Omega εκ μέρους σας.</mrk> <mrk mid="6754" mtype="seg">Τα token συνήθως δημιουργούνται αυτόματα για
           εφαρμογές για τις οποίες είναι απαραίτητα, αλλά αν [προγραμματίζετε κάποιο νέο ή περιορισμένο πρότζεκτ](%{documentation_url}) μπορείτε να δημιουργήσετε το token από εδώ.</mrk>
       google_drive_description: "Μόλις μας εξουσιοδοτήσετε να βλέπουμε το Google Drive σας, θα μπορείτε να υποβάλετε τις εργασίες σας απευθείας μέσω του Google Drive και να δημιουργήσετε και να μοιραστείτε έγγραφα με μέλη της τάξης σας."
       headers: 
@@ -10889,7 +10889,7 @@ el:
         view_your_profile: "δείτε το προφίλ σας"
         yo: "Υπηρεσία Yo"
       loading_token_details: "Φόρτωση Λεπτομερεών Token"
-      no_approved_integrations: "<mrk mid=\"2501\" mtype=\"seg\">Οι τρίτες εφαρμογές μπορεί να ζητήσουν άδεια πρόσβασης στην ιστοσελίδα του Canvas εκ μέρους σας.</mrk> <mrk mid=\"2502\" mtype=\"seg\">Όσο εξουσιοδοτείτε εφαρμογές, θα τις βλέπετε να προστίθενται σε λίστα εδώ.</mrk>"
+      no_approved_integrations: "<mrk mid=\"2501\" mtype=\"seg\">Οι τρίτες εφαρμογές μπορεί να ζητήσουν άδεια πρόσβασης στην ιστοσελίδα του Omega εκ μέρους σας.</mrk> <mrk mid=\"2502\" mtype=\"seg\">Όσο εξουσιοδοτείτε εφαρμογές, θα τις βλέπετε να προστίθενται σε λίστα εδώ.</mrk>"
       no_registered_services: "Δεν υπάρχουν υπηρεσίες στις οποίες έχετε εγγραφεί"
       none: Κανένα
       profile_pictures: "Επιλέξτε την εικόνα που θα θέλατε να χρησιμοποιήσετε ως την φωτογραφία του προφίλ σας, ή μεταφορτώστε μια καινούργια εικόνα:"
@@ -10916,7 +10916,7 @@ el:
           <mrk mid="2518" mtype="seg">Μπορείτε επίσης να εγγραφείτε για την αποστολή ειδοποιήσεων στον λογαριασμό σας στο Twitter.</mrk>
           <mrk mid="2519" mtype="seg">Αυτές οι ειδοποιήσεις θα αποστέλλονται ως άμεσα μηνύματα από εσάς σε εσάς και δεν θα εμφανίζονται στη δημόσια ροή σας.</mrk>
       unknown_service: Άγνωστο
-      web_services: "<mrk mid=\"2520\" mtype=\"seg\">Το Canvas μπορεί να κάνει τη ζωή σας πιο εύκολη συνδεόμενο με τα διαδικτυακά εργαλεία που χρησιμοποιείτε ήδη.</mrk> <mrk mid=\"2521\" mtype=\"seg\">Κάντε κλικ σε οποιαδήποτε από τις υπηρεσίες στην επιλογή «Άλλες Υπηρεσίες» για να καταλάβετε τι εννοούμε.</mrk>"
+      web_services: "<mrk mid=\"2520\" mtype=\"seg\">Το Omega μπορεί να κάνει τη ζωή σας πιο εύκολη συνδεόμενο με τα διαδικτυακά εργαλεία που χρησιμοποιείτε ήδη.</mrk> <mrk mid=\"2521\" mtype=\"seg\">Κάντε κλικ σε οποιαδήποτε από τις υπηρεσίες στην επιλογή «Άλλες Υπηρεσίες» για να καταλάβετε τι εννοούμε.</mrk>"
       yo_description: |-
           <mrk mid="7030" mtype="seg">Το Yo είναι ένα εργαλείο επικοινωνίας χαρακτήρα μηδέν, με ένα χτύπημα.</mrk>
           <mrk mid="7031" mtype="seg">Αν έχετε λογαριασμό Yo, μπορείτε να τον καταχωρίσετε εδώ.</mrk> <mrk mid="7032" mtype="seg">Στη συνέχεια, αν επιτρέψετε στα
@@ -10944,8 +10944,8 @@ el:
     twitter_select: 
       twitter: Twitter
     ways_to_contact: 
-      bouncing_channel: "<mrk mid=\"6224\" mtype=\"seg\">Δεν ήταν δυνατή η αποστολή μηνυμάτων από το Canvas προς εσάς με χρήση αυτού του τρόπου επικοινωνίας.</mrk> <mrk mid=\"6225\" mtype=\"seg\">Παρακαλώ βεβαιωθείτε ότι οι πληροφορίες επικοινωνίας είναι σωστές για να συνεχίσετε να λαμβάνετε μηνύματα από το Canvas.</mrk>"
-      bouncing_email: "<mrk mid=\"6228\" mtype=\"seg\">Δεν ήταν δυνατή η αποστολή email από το Canvas προς αυτή τη διεύθυνση.</mrk> <mrk mid=\"6229\" mtype=\"seg\">Παρακαλώ βεβαιωθείτε ότι η διεύθυνση είναι σωστή για να συνεχίσετε να λαμβάνετε email από το Canvas.</mrk>"
+      bouncing_channel: "<mrk mid=\"6224\" mtype=\"seg\">Δεν ήταν δυνατή η αποστολή μηνυμάτων από το Omega προς εσάς με χρήση αυτού του τρόπου επικοινωνίας.</mrk> <mrk mid=\"6225\" mtype=\"seg\">Παρακαλώ βεβαιωθείτε ότι οι πληροφορίες επικοινωνίας είναι σωστές για να συνεχίσετε να λαμβάνετε μηνύματα από το Omega.</mrk>"
+      bouncing_email: "<mrk mid=\"6228\" mtype=\"seg\">Δεν ήταν δυνατή η αποστολή email από το Omega προς αυτή τη διεύθυνση.</mrk> <mrk mid=\"6229\" mtype=\"seg\">Παρακαλώ βεβαιωθείτε ότι η διεύθυνση είναι σωστή για να συνεχίσετε να λαμβάνετε email από το Omega.</mrk>"
       buttons: 
         confirm: Επιβεβαιώστε
         ok_thanks: "ΟΚ, ευχαριστούμε"
@@ -10964,7 +10964,7 @@ el:
         cell_number: "Αριθμός Κινητού"
         country: Χώρα
         email_address: "Ηλεκτρονική Διεύθυνση"
-        enable_login_for_email: "Θέλω να συνδεθώ στο Canvas κάνοντας χρήστη αυτής της ηλεκτρονικής διεύθυνσης"
+        enable_login_for_email: "Θέλω να συνδεθώ στο Omega κάνοντας χρήστη αυτής της ηλεκτρονικής διεύθυνσης"
         sms_email: "Ηλεκτρονική Διεύθυνση SMS"
       links: 
         add_email_address: "Προσθήκη Ηλεκτρονικής Διεύθυνσης"
@@ -11001,7 +11001,7 @@ el:
     notifications: 
       privacy_notice: 
         ok: οκ
-        privacy_notice: "<mrk mid=\"6994\" mtype=\"seg\">Ειδοποίηση:</mrk> <mrk mid=\"6995\" mtype=\"seg\">Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες.</mrk> <mrk mid=\"6996\" mtype=\"seg\">Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Canvas εκτός του συστήματος του ιδρύματος.</mrk>"
+        privacy_notice: "<mrk mid=\"6994\" mtype=\"seg\">Ειδοποίηση:</mrk> <mrk mid=\"6995\" mtype=\"seg\">Κάποιες ειδοποιήσεις ενδέχεται να περιέχουν εμπιστευτικές πληροφορίες.</mrk> <mrk mid=\"6996\" mtype=\"seg\">Επιλέγοντας να λαμβάνετε ειδοποιήσεις σε email άλλο από αυτό που σας έχει δώσει το ίδρυμά σας ενδεχομένως να οδηγήσει στην αποστολή ευαίσθητων πληροφοριών μαθημάτων και ομάδων του Omega εκτός του συστήματος του ιδρύματος.</mrk>"
         privacy_notice_title: "Σημείωση περί Απορρήτου"
     take_picture_view: 
       retry: "Δοκιμάστε ξανά"
@@ -11185,7 +11185,7 @@ el:
       give_everyone_full_credit: "Πείτε μπράβο σε όλους για αυτή την ερώτηση"
       no_scores_reduced: "Δώστε μόρια τόσο για τη διορθωμένη απάντηση όσο και για την προηγούμενη σωστή (*δεν θα μειωθούν οι βαθμοί*)"
       regrade_disabled: "Δεν επιτρέπεται η αναβαθμολόγηση αυτής της ερώτησης, επειδή είτε η απάντηση έχει αφαιρεθεί είτε έχει αλλάξει ο τύπος της ερώτησης μετά την ολοκλήρωση της υποβολής από τον σπουδαστή."
-      regrade_options: "<mrk mid=\"6262\" mtype=\"seg\">Επιλέξτε μια επιλογή αναβαθμολόγησης για τους σπουδαστές που έχουν ήδη κάνει το κουίζ.</mrk> <mrk mid=\"6263\" mtype=\"seg\">Το Canvas θα αναβαθμολογήσει όλες τις υποβολές σας αφού αποθηκεύσετε το κουίζ (οι βαθμολογίες των σπουδαστών ενδέχεται να επηρεαστούν).</mrk>"
+      regrade_options: "<mrk mid=\"6262\" mtype=\"seg\">Επιλέξτε μια επιλογή αναβαθμολόγησης για τους σπουδαστές που έχουν ήδη κάνει το κουίζ.</mrk> <mrk mid=\"6263\" mtype=\"seg\">Το Omega θα αναβαθμολογήσει όλες τις υποβολές σας αφού αποθηκεύσετε το κουίζ (οι βαθμολογίες των σπουδαστών ενδέχεται να επηρεαστούν).</mrk>"
       some_scores_reduced: "Δώστε μόρια μόνο για τη σωστή απάντηση (*οι βαθμολογίες μερικών σπουδαστών ίσως μειωθούν*)"
       update_question_without_regrading: "Ενημέρωση ερώτησης χωρίς αναβαθμολόγηση"
   quiz_40ee61b1: κουίζ
@@ -11199,7 +11199,7 @@ el:
         action_log: "Καταγραφή Ενεργειών"
       notices: 
         no_events_available: "Δεν καταγράφηκαν γεγονότα κατά τη συνεδρία απάντησης στο κουίζ."
-      page_blurred: "Η προβολή της σελίδας συμπλήρωσης του κουίζ στο Canvas διακόπηκε..."
+      page_blurred: "Η προβολή της σελίδας συμπλήρωσης του κουίζ στο Omega διακόπηκε..."
       page_focused: Συνέχεια.
       question_answered: 
         one: "Ερώτηση που απαντήθηκε:"
@@ -11426,7 +11426,7 @@ el:
     ldb_login_popup: 
       email: "Ηλεκτρονική Διεύθυνση"
       log_in: Σύνδεση
-      logged_out_of_canvas: "<mrk mid=\"5125\" mtype=\"seg\">*Έχετε αποσυνδεθεί από το Canvas.*</mrk> <mrk mid=\"5126\" mtype=\"seg\">Παρακαλώ συνδεθείτε για να συνεχίσετε.</mrk>"
+      logged_out_of_canvas: "<mrk mid=\"5125\" mtype=\"seg\">*Έχετε αποσυνδεθεί από το Omega.*</mrk> <mrk mid=\"5126\" mtype=\"seg\">Παρακαλώ συνδεθείτε για να συνεχίσετε.</mrk>"
       password: "Κωδικός πρόσβασης"
       titles: 
         log_in: "Παρακαλώ συνδεθείτε"
@@ -12066,7 +12066,7 @@ el:
         labels: 
           started: Εκκίνηση
           times_up: "<mrk mid=\"5510\" mtype=\"seg\">Τέλος Χρόνου!</mrk> <mrk mid=\"5511\" mtype=\"seg\">Υποβολή αποτελεσμάτων</mrk>"
-        logged_out_of_canvas: "<mrk mid=\"5512\" mtype=\"seg\">*Έχετε αποσυνδεθεί από το Canvas.*</mrk> <mrk mid=\"5513\" mtype=\"seg\">Παρακαλώ συνδεθείτε για να συνεχίσετε</mrk>"
+        logged_out_of_canvas: "<mrk mid=\"5512\" mtype=\"seg\">*Έχετε αποσυνδεθεί από το Omega.*</mrk> <mrk mid=\"5513\" mtype=\"seg\">Παρακαλώ συνδεθείτε για να συνεχίσετε</mrk>"
         login_required: "Απαιτείται να συνδεθείτε"
         not_saved: "Δέν αποθηκεύτηκε"
         quiz_instructions: "Οδηγίες Κουίζ"
@@ -12425,7 +12425,7 @@ el:
       labels: 
         email: "Ηλεκτρονική Διεύθυνση"
         name: Όνομα
-    welcome_to_canvas: "Καλώς ορίσατε στο Canvas!"
+    welcome_to_canvas: "Καλώς ορίσατε στο Omega!"
   registration_url_60e0eaaa: "URL Εγγραφής"
   regular_style_checkbox_ee3d71c1: "Κουτάκι επιλογής κανονικής εμφάνισης"
   remove_account_from_this_profile_c3095eb2: "Αφαίρεση λογαριασμού απο αυτό το προφίλ"
@@ -12457,7 +12457,7 @@ el:
   replaces_the_current_folder_tree_with_a_new_access_6f9d15c2: "Αντικαθιστά το τρέχον δέντρο φακέλων με νέο προσβάσιμο και με περισσότερες λειτουργίες δέντρο φακέλων."
   reply_389d6fb9: Απάντηση
   reply_all_80298bee: "Απάντηση όλων"
-  reply_from_name: "%{name} μέσω των Ειδοποιήσεων του Canvas"
+  reply_from_name: "%{name} μέσω των Ειδοποιήσεων του Omega"
   reply_to_comment_72d96728: "Απάντηση στο Σχόλιο"
   reply_to_current_message_55391f5b: "Απάντηση στο Τρέχον Μήνυμα"
   reply_to_main_discussion_29823888: "Απάντηση στην Κύρια Συζήτηση"
@@ -12514,7 +12514,7 @@ el:
       manage_announcements: "Διαχείριση καθολικών ανακοινώσεων"
       manage_assignments: "Διαχείριση (προσθήκη/επεξεργασία/διαγραφή) εργασιών και κουίζ"
       manage_calendar: "Προσθήκη, επεξεργασία και διαγραφή γεγονότων στο ημερολόγιο του μαθήματος"
-      manage_canvasnet_courses: "Διαχείριση των μαθημάτων του Canvas"
+      manage_canvasnet_courses: "Διαχείριση των μαθημάτων του Omega"
       manage_catalog: "Διαχείριση καταλόγου"
       manage_content: "Διαχείριση όλου του υπόλοιπου περιεχομένου του μαθήματος"
       manage_courses: "Διαχείριση (προσθήκη/επεξεργασία/διαγραφή) μαθημάτων"
@@ -12690,7 +12690,7 @@ el:
   salesforce_account_id_eb5c78ad: "ID Λογαριασμού Salesforce"
   salesforce_has_a_different_login_host_for_sanbox_a_2d878ae9: "Η Salesforce έχει διαφορετικό διακομιστή σύνδεσης για λογαριασμούς Sanbox σε σχέση με αυτόν που έχει για λογαριασμούς παραγωγής, επομένως αν χρησιμοποιείτε λογαριασμό Sanbox από τη Salesforce και δεν τσεκάρετε αυτό το κουτάκι, δεν θα είναι δυνατή η επαλήθευση (και αντίστροφα, επίσης, αν έχετε λογαριασμό παραγωγής και ΤΣΕΚΑΡΕΤΕ αυτό το κουτάκι, δεν θα γίνει επαλήθευση)"
   salesforce_ticketing_webtocase_connector_80f75716: "Συνδέτης (Connector) WebToCase του Συστήματος Υποβολής Ticket της Salesforce"
-  same_value_as_canvas_url__c_will_probably_be_going_37027686: "Η ίδια τιμή με το «Canvas_URL__c» ενδεχομένως να εξαφανιστεί σύντομα"
+  same_value_as_canvas_url__c_will_probably_be_going_37027686: "Η ίδια τιμή με το «Omega_URL__c» ενδεχομένως να εξαφανιστεί σύντομα"
   sample_data_e4fd01ff: "Δείγμα Δεδομένων"
   save_11a80ec3: Αποθήκευση
   save_changes_698abe77: "Αποθήκευση Αλλαγών "
@@ -12915,7 +12915,7 @@ el:
         current_enrollments: "Τρέχουσες εγγραφές"
         decrosslist_section: "Επαναφορά αυτού του Τομέα στη Λίστα"
   sections_94731e51: Τμήματα
-  see_some_lti_tools_that_work_great_with_canvas_16ef75a0: "*Δείτε μερικά εργαλεία LTI* που λειτουργούν τέλεια με το Canvas."
+  see_some_lti_tools_that_work_great_with_canvas_16ef75a0: "*Δείτε μερικά εργαλεία LTI* που λειτουργούν τέλεια με το Omega."
   see_vericite_results_b44dd8c8: "Προβολή των αποτελεσμάτων του VeriCite"
   select_a_grading_period_5ea50f1: "Επιλογή Περιόδου Βαθμολόγησης..."
   select_a_grading_period_aab25483: "Επιλογή Περιόδου Βαθμολόγησης"
@@ -13241,7 +13241,7 @@ el:
       sample_course_code: Μάθημα-101
       start_a_new_course: "Ξεκινήστε Νέο Μάθημα"
     new_nav_header: 
-      default_page_title: "Σύστημα Διαχείρισης Εκπαιδευτικού Περιεχομένου Canvas"
+      default_page_title: "Σύστημα Διαχείρισης Εκπαιδευτικού Περιεχομένου Omega"
       links: 
         dashboard: Εργαλειοθήκη
         skip_to_content: "Μεταφορά προς το Περιεχόμενο"
@@ -13266,9 +13266,9 @@ el:
       links_title: Τίτλος
       links_url: URL
       manage_settings: "Διαχείριση Υπηρεσιών στις οποίες έχετε Εγγραφεί"
-      message_me: "στείλτε μου μήνυμα στο Canvas"
+      message_me: "στείλτε μου μήνυμα στο Omega"
       message_title: Μήνυμα
-      message_user_canvas: "Στείλτε μήνυμα στον χρήστη %{user} στο Canvas"
+      message_user_canvas: "Στείλτε μήνυμα στον χρήστη %{user} στο Omega"
       name: Όνομα
       no_links: "Ο/Η %{name} δεν έχει προσθέσει συνδέσμους"
       nothing_in_common: "Δεν έχετε τίποτα κοινό"
@@ -13546,7 +13546,7 @@ el:
       no_points_possible: "Δεν είναι δυνατή η αναπροσαρμογή χωρίς πιθανά μόρια"
       none_to_update: "Δεν υπάρχουν δεδομένα προς ενημέρωση"
   shared_secret_892c88f2: "Διαμοιρασμένο Μυστικό"
-  should_be_self_evident_the_canvas_id_of_the_report_44378262: "θα πρέπει να είναι αυταπόδεικτο, το ID στο Canvas του χρήστη που αναφέρει το σφάλμα"
+  should_be_self_evident_the_canvas_id_of_the_report_44378262: "θα πρέπει να είναι αυταπόδεικτο, το ID στο Omega του χρήστη που αναφέρει το σφάλμα"
   show_and_hide_courses_menu_9e09d1d0: "Εμφάνιση και απόκρυψη μενού μαθημάτων"
   show_by_date_e3967761: "Εμφάνιση βάσει Ημερομηνίας"
   show_by_type_c5d61732: "Εμφάνιση βάσει Τύπου"
@@ -13603,14 +13603,14 @@ el:
     view_privacy_policy: "Προβολή Πολιτικής Απορρήτου"
   site_admin: 
     domain_not_found: 
-      body_description: "<mrk mid=\"5529\" mtype=\"seg\">Παρακαλώ ελέγξτε το URL σας για το Canvas και προσπαθήστε ξανά.</mrk> <mrk mid=\"5530\" mtype=\"seg\">Αν δεν γνωρίζετε το URL σας για το Canvas, παρακαλώ επικοινωνήστε με το ίδρυμά σας ή τον εκπαιδευτή του μαθήματος.</mrk>"
+      body_description: "<mrk mid=\"5529\" mtype=\"seg\">Παρακαλώ ελέγξτε το URL σας για το Omega και προσπαθήστε ξανά.</mrk> <mrk mid=\"5530\" mtype=\"seg\">Αν δεν γνωρίζετε το URL σας για το Omega, παρακαλώ επικοινωνήστε με το ίδρυμά σας ή τον εκπαιδευτή του μαθήματος.</mrk>"
       body_reference: "Αν επιθυμείτε να δημιουργήσετε λογαριασμό ανεξάρτητο από κάποιο ίδρυμα, μπορείτε να εγγραφείτε στο"
       links: 
         canvas_instructure: canvas.instructure.com
-      page_title: "Ωχ, όχι! Το Canvas δεν μπορεί να βρει τη σελίδα σύνδεσής σας."
+      page_title: "Ωχ, όχι! Το Omega δεν μπορεί να βρει τη σελίδα σύνδεσής σας."
       you_typed: Πληκτρολογήσατε
     institution_suspended: 
-      body: "<mrk mid=\"3962\" mtype=\"seg\">Ο λογαριασμός του σχολείου σας στο Canvas έχει ανασταλεί προσωρινά.</mrk> <mrk mid=\"3963\" mtype=\"seg\">Παρακαλώ επικοινωνήστε με τον διαχειριστή σας στο Canvas.</mrk>"
+      body: "<mrk mid=\"3962\" mtype=\"seg\">Ο λογαριασμός του σχολείου σας στο Omega έχει ανασταλεί προσωρινά.</mrk> <mrk mid=\"3963\" mtype=\"seg\">Παρακαλώ επικοινωνήστε με τον διαχειριστή σας στο Omega.</mrk>"
       links: 
         logout: Αποσύνδεση
         stop_masquerading: "[Τερματισμός Μεταμφίεσης]"
@@ -14051,7 +14051,7 @@ el:
   teacher_5a73b637: Δάσκαλος
   teachers_52e2423f: Καθηγητές
   teal_f729a294: Γαλαζοπράσινο
-  tell_us_how_and_when_you_would_like_to_be_notified_de3ed2bc: "Πείτε μας πώς και πότε θέλετε να ειδοποιείστε για νέα γεγονότα στο Canvas."
+  tell_us_how_and_when_you_would_like_to_be_notified_de3ed2bc: "Πείτε μας πώς και πότε θέλετε να ειδοποιείστε για νέα γεγονότα στο Omega."
   term_e1c1d390: "Ακαδημιακό Χρονικό Διάστημα"
   terms: 
     index: 
@@ -14117,7 +14117,7 @@ el:
   the_app_was_updated_successfully_3d71cd1b: "Η εφαρμογή ενημερώθηκε επιτυχώς"
   the_end_date_for_submissions_66168efa: "Η καταληκτική ημερομηνία για υποβολές"
   the_error_stack_trace_if_there_is_one_b7e008a1: "Τα ίχνη στοίβας για το σφάλμα, αν υπάρχουν"
-  the_files_tab_is_the_place_to_share_lecture_slides_95a93bce: "<mrk mid=\"1159\" mtype=\"seg\">Η ετικέτα Αρχεία είναι ο χώρος όπου μπορείτε να μοιραστείτε διαφάνειες από παραδόσεις, πρότυπα έγγραφα, βοηθήματα μελέτης, οτιδήποτε θα θέλουν να κατεβάσουν οι σπουδαστές.</mrk>  <mrk mid=\"1160\" mtype=\"seg\">Η μεταφόρτωση και η οργάνωση των αρχείων σας είναι εύκολη με το Canvas.</mrk>  <mrk mid=\"1161\" mtype=\"seg\">Θα σας δείξουμε πώς γίνεται.</mrk>"
+  the_files_tab_is_the_place_to_share_lecture_slides_95a93bce: "<mrk mid=\"1159\" mtype=\"seg\">Η ετικέτα Αρχεία είναι ο χώρος όπου μπορείτε να μοιραστείτε διαφάνειες από παραδόσεις, πρότυπα έγγραφα, βοηθήματα μελέτης, οτιδήποτε θα θέλουν να κατεβάσουν οι σπουδαστές.</mrk>  <mrk mid=\"1160\" mtype=\"seg\">Η μεταφόρτωση και η οργάνωση των αρχείων σας είναι εύκολη με το Omega.</mrk>  <mrk mid=\"1161\" mtype=\"seg\">Θα σας δείξουμε πώς γίνεται.</mrk>"
   the_following_fields_are_invalid_fields_b3565800: "<mrk mid=\"6483\" mtype=\"seg\">Τα ακόλουθα πεδία δεν είναι έγκυρα:</mrk> <mrk mid=\"6484\" mtype=\"seg\">%{fields}</mrk>"
   the_full_hostname_for_the_account_instance_somethi_e325da1f: "Το πλήρες όνομα του διακομιστή για τη σύνδεση στον λογαριασμό (π.χ. something.instructure.com)"
   the_grading_period_was_deleted_7814a349: "Η περίοδος βαθμολόγησης διαγράφηκε"
@@ -14127,10 +14127,10 @@ el:
   the_material_is_licensed_under_creative_commons_3242cb5e: "Το υλικό φέρει άδεια Creative Commons"
   the_material_is_subject_to_fair_use_exception_41bc6a4b: "Το υλικό υπόκειται σε εξαίρεση θεμιτής χρήσης"
   the_message_titled_subject_could_not_be_delivered__f063857e: |-
-      <mrk mid="7642" mtype="seg">Δεν ήταν δυνατή η αποστολή του μηνύματος με τίτλο «%{subject}», επειδή το θέμα συζήτησης έχει διαγραφεί.</mrk> <mrk mid="7643" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Canvas, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
+      <mrk mid="7642" mtype="seg">Δεν ήταν δυνατή η αποστολή του μηνύματος με τίτλο «%{subject}», επειδή το θέμα συζήτησης έχει διαγραφεί.</mrk> <mrk mid="7643" mtype="seg">Αν προσπαθείτε να επικοινωνήσετε με κάποιον μέσω του Omega, μπορείτε να δοκιμάσετε να συνδεθείτε στον λογαριασμό σας και να του στείλετε μήνυμα χρησιμοποιώντας το εργαλείο «Εισερχόμενα».</mrk>
       
       <mrk mid="7644" mtype="seg">Ευχαριστούμε,
-      Η ομάδα υποστήριξης του Canvas</mrk>
+      Η ομάδα υποστήριξης του Omega</mrk>
   the_module_item_is_locked_27fe420b: "Το στοιχείο της ενότητας είναι κλειδωμένο."
   the_most_recent_scores_for_user_current_user_name__ea82f0b6: "Οι πιο πρόσφατες βαθμολογίες του χρήστη %{current_user_name} και του αποτελέσματος %{outcome_name}."
   the_profile_picture_has_been_reported_d609d6dd: "Η εικόνα προφίλ έχει αναφερθεί"
@@ -14175,7 +14175,7 @@ el:
   this_course_cannot_be_added_to_the_courses_menu_at_a3fbb11e: "Αυτό το μάθημα δεν μπορεί να προστεθεί στο μενού των μαθημάτων αυτή τη στιγμή."
   this_course_does_not_allow_score_uploads_4b35fe07: "Αυτό το μάθημα δεν επιτρέπει τη μεταφόρτωση βαθμολογίας."
   this_course_hasn_t_started_yet_you_will_not_be_abl_c828c423: "<mrk mid=\"4593\" mtype=\"seg\">Αυτό το μάθημα δεν έχει ξεκινήσει ακόμη.</mrk> <mrk mid=\"4594\" mtype=\"seg\">Δεν θα μπορείτε να συμμετάσχετε στο μάθημα έως τις %{date}.</mrk>"
-  this_course_is_claimed_and_ready_but_you_ll_need_t_25b95a0a: "<mrk mid=\"1167\" mtype=\"seg\">Αυτό το μάθημα είναι ήδη κατοχυρωμένο και έτοιμο, αλλά θα πρέπει πρώτα να ολοκληρώσετε τη διαδικασία εγγραφής πριν δημοσιεύσετε το μάθημα.</mrk>  <mrk mid=\"1168\" mtype=\"seg\">Πρέπει να έχετε λάβει ένα μήνυμα ηλεκτρονικού ταχυδρομείου από το Canvas με έναν σύνδεσμο για να ολοκληρώσετε τη διαδικασία.</mrk>  <mrk mid=\"1169\" mtype=\"seg\">Βεβαιωθείτε ότι ελέγχετε τα spam σας.</mrk>"
+  this_course_is_claimed_and_ready_but_you_ll_need_t_25b95a0a: "<mrk mid=\"1167\" mtype=\"seg\">Αυτό το μάθημα είναι ήδη κατοχυρωμένο και έτοιμο, αλλά θα πρέπει πρώτα να ολοκληρώσετε τη διαδικασία εγγραφής πριν δημοσιεύσετε το μάθημα.</mrk>  <mrk mid=\"1168\" mtype=\"seg\">Πρέπει να έχετε λάβει ένα μήνυμα ηλεκτρονικού ταχυδρομείου από το Omega με έναν σύνδεσμο για να ολοκληρώσετε τη διαδικασία.</mrk>  <mrk mid=\"1169\" mtype=\"seg\">Βεβαιωθείτε ότι ελέγχετε τα spam σας.</mrk>"
   this_course_is_visible_only_to_teachers_until_it_i_ce972f0: "Αυτό το μάθημα είναι ορατό μόνο από καθηγητές μέχρι να δημοσιευθεί."
   this_email_address_is_unconfirmed_f0fc8c6e: "Αυτή η ηλεκτρονική διεύθυνση δεν έχει επιβεβαιωθεί"
   this_enables_users_to_generate_and_download_course_4c69c531: "Αυτό επιτρέπει στους χρήστες να δημιουργήσουν και να κατεβάσουν το ePub του μαθήματος."
@@ -14187,7 +14187,7 @@ el:
   this_folder_is_currently_locked_and_unavailable_to_f85c451: "Ο φάκελος είναι προς το παρόν κλειδωμένος και δεν μπορείτε να τον δείτε."
   this_grade_differs_from_the_student_s_view_of_the__56742bd0: "Ο βαθμός αυτός διαφέρει από τον βαθμό που βλέπει ο σπουδαστής, επειδή κάποιες εργασίες είναι σε σίγαση"
   this_image_appears_as_a_background_watermark_to_yo_1c6b4497: "<mrk mid=\"1753\" mtype=\"seg\">Αυτή η εικόνα εμφανίζεται ως υδατογράφημα φόντου στη σελίδα σας.</mrk> <mrk mid=\"1754\" mtype=\"seg\">Αποδεκτοί τύποι αρχείων: png, svg, gif, jpeg</mrk>"
-  this_is_a_comma_separated_list_of_url_s_to_trust_t_a6611f4: "<mrk mid=\"5832\" mtype=\"seg\">Αυτή είναι μια αξιόπιστη λίστα URL οριοθετούμενων από κόμματα.</mrk> <mrk mid=\"5833\" mtype=\"seg\">Αν θεωρηθεί αξιόπιστο κάθε URL που βρίσκεται σε αυτή τη λίστα, αυτό θα οδηγήσει στο να προσπεραστεί κάθε CSRF token κατά τη σύνδεσή σας στο Canvas.</mrk>"
+  this_is_a_comma_separated_list_of_url_s_to_trust_t_a6611f4: "<mrk mid=\"5832\" mtype=\"seg\">Αυτή είναι μια αξιόπιστη λίστα URL οριοθετούμενων από κόμματα.</mrk> <mrk mid=\"5833\" mtype=\"seg\">Αν θεωρηθεί αξιόπιστο κάθε URL που βρίσκεται σε αυτή τη λίστα, αυτό θα οδηγήσει στο να προσπεραστεί κάθε CSRF token κατά τη σύνδεσή σας στο Omega.</mrk>"
   this_is_a_media_comment_click_here_to_view_c297bf62: "Αυτό είναι ένα πολυμεσικό σχόλιο, *κάντε κλικ εδώ για προβολή*."
   this_is_the_currently_chosen_grade_for_this_studen_86118eb6: "Αυτός είναι ο τρέχων επιλεγμένος βαθμός για αυτόν τον σπουδαστή."
   this_is_the_default_email_address_f3c421fb: "Αυτή είναι η προεπιλεγμένη ηλεκτρονική διεύθυνση"
@@ -14208,13 +14208,13 @@ el:
   this_quiz_has_been_excused_d89d2b74: "Αυτό το κουίζ έχει παραλειφθεί"
   this_quiz_is_unpublished_only_teachers_can_see_the_51d281b1: "*Αυτό το κουίζ δεν έχει δημοσιευθεί* Μόνο καθηγητές μπορούν να δουν το κουίζ μέχρι να δημοσιευθεί."
   this_recorder_uses_flash_as_a_result_you_may_find__427d2ddb: "<mrk mid=\"214\" mtype=\"seg\">Αυτός ο καταγραφέας χρησιμοποιεί Flash.</mrk> <mrk mid=\"215\" mtype=\"seg\">Κατά συνέπεια, ίσως είναι πιο εύκολο να πραγματοποιήσετε κάποια ηχογράφηση τοπικά στη συσκευή σας και κατόπιν να χρησιμοποιήσετε την καρτέλα μεταφόρτωσης αρχείου πολυμέσων για να τη μεταφορτώσετε.</mrk>"
-  this_sample_page_includes_common_ui_elements_in_ca_331f4ac4: "Αυτή η σελίδα-δείγμα περιλαμβάνει συνήθη στοιχεία του UI του Canvas για να σας βοηθήσει να δημιουργήσετε τη δική σας προσαρμοσμένη σήμανση. Μόλις αρχίσετε να κάνετε αλλαγές στα χρώματα και τις εικόνες στην αριστερή πλευρική μπάρα, θα δείτε ένα κουμπί *Προεπισκόπηση των Αλλαγών Σας*. Κάντε κλικ για να ανανεώσετε τη σελίδα και να δείτε πώς φαίνονται οι αλλαγές σας."
+  this_sample_page_includes_common_ui_elements_in_ca_331f4ac4: "Αυτή η σελίδα-δείγμα περιλαμβάνει συνήθη στοιχεία του UI του Omega για να σας βοηθήσει να δημιουργήσετε τη δική σας προσαρμοσμένη σήμανση. Μόλις αρχίσετε να κάνετε αλλαγές στα χρώματα και τις εικόνες στην αριστερή πλευρική μπάρα, θα δείτε ένα κουμπί *Προεπισκόπηση των Αλλαγών Σας*. Κάντε κλικ για να ανανεώσετε τη σελίδα και να δείτε πώς φαίνονται οι αλλαγές σας."
   this_student_wrote_f1a3f22d: "Ο σπουδαστής έγραψε:"
   this_submission_has_already_been_graded_and_is_rea_8ec61c52: "Αυτή η υποβολή έχει ήδη βαθμολογηθεί και είναι έτοιμη για επανέλεγχο."
   this_topic_is_closed_for_comments_3dd10c00: "Αυτό το θέμα είναι κλειστό για σχόλια."
   this_user_has_multiple_roles_in_the_course_changin_8cbd82d4: "<mrk mid=\"1506\" mtype=\"seg\">Αυτός ο χρήστης έχει πολλαπλούς ρόλους σε αυτό το μάθημα.</mrk> <mrk mid=\"1507\" mtype=\"seg\">Αν αλλάξετε τον ρόλο του εδώ θα αντικατασταθούν όλες οι τρέχουσες εγγραφές του.</mrk>"
   this_user_is_currently_not_able_to_access_the_cour_39cabed1: "Αυτός ο χρήστης δεν έχει, προς το παρόν, πρόσβαση στο μάθημα "
-  this_will_allow_you_to_authenticate_canvas_for_pos_fdfca40: "Αυτό θα σας επιτρέψει να επαληθεύσετε το Canvas για τη δημοσίευση βαθμών στο SIS"
+  this_will_allow_you_to_authenticate_canvas_for_pos_fdfca40: "Αυτό θα σας επιτρέψει να επαληθεύσετε το Omega για τη δημοσίευση βαθμών στο SIS"
   ticketing_system_52205bff: "Σύστημα Υποβολής Ticket"
   ticketing_system_configurations_c4fecd96: "Ρυθμίσεις συστήματος υποβολής ticket"
   time: 
@@ -14392,7 +14392,7 @@ el:
       alt_help_text: "Περιγράψτε την εικόνα για βελτίωση της προσβασιμότητας"
       alt_text: "Alt text (εναλλακτικό κείμενο)"
       attributes: Πεδία
-      canvas: Canvas
+      canvas: Omega
       dimension_help_text: "Ο λόγος του μήκους της εικόνας προς το ύψος της θα διατηρηθεί"
       dimensions: Διαστάσεις
       flickr: Flickr
@@ -14569,7 +14569,7 @@ el:
   use_default_890939b7: "Χρήση Προεπιλογής"
   use_new_folder_tree_in_files_bc0ea09f: "Χρήση Νέας Δομής Φακέλων στα Αρχεία"
   use_remote_service_for_notifications_9fe667c6: "Χρήση της απομακρυσμένης υπηρεσίας για τις ειδοποιήσεις"
-  use_the_new_quiz_lti_tool_in_place_of_regular_canv_d7cb0c7f: "Χρησιμοποιήστε εργαλείο LTI του νέου κουίζ αντί για τα συνηθισμένα κουίζ του Canvas"
+  use_the_new_quiz_lti_tool_in_place_of_regular_canv_d7cb0c7f: "Χρησιμοποιήστε εργαλείο LTI του νέου κουίζ αντί για τα συνηθισμένα κουίζ του Omega"
   used_by_permission_314a78dd: "Χρησιμοποιήθηκε κατόπιν Άδειας"
   user: 
     default_user_name: Χρήστης
@@ -14658,10 +14658,10 @@ el:
       image_reported: "Έχει γίνει αναφορά αυτής της εικόνας"
   user_name_fe5887fb: "όνομα χρήστη"
   user_name_has_just_turned_in_a_late_submission_for_874a9a31: "Ο χρήστης %{user_name} μόλις υπέβαλε εκπρόθεσμα την εργασία %{assignment_name} για το μάθημα %{course_name}"
-  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "<mrk mid=\"1519\" mtype=\"seg\">Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Canvas.</mrk> <mrk mid=\"1520\" mtype=\"seg\">Για να προβάλετε τη συζήτηση, κάντε κλικ σε αυτόν τον σύνδεσμο:</mrk> <mrk mid=\"1521\" mtype=\"seg\">%{link}.</mrk>"
-  user_name_just_sent_you_a_message_in_canvas_a2cb3bf4: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Canvas."
+  user_name_just_added_you_to_a_conversation_in_canv_7b278b51: "<mrk mid=\"1519\" mtype=\"seg\">Ο χρήστης %{user_name} μόλις σας προσέθεσε σε μια συνομιλία στο Omega.</mrk> <mrk mid=\"1520\" mtype=\"seg\">Για να προβάλετε τη συζήτηση, κάντε κλικ σε αυτόν τον σύνδεσμο:</mrk> <mrk mid=\"1521\" mtype=\"seg\">%{link}.</mrk>"
+  user_name_just_sent_you_a_message_in_canvas_a2cb3bf4: "Ο χρήστης %{user_name} μόλις σας έστειλε μήνυμα στο Omega."
   user_name_just_turned_in_their_assignment_late_ass_a54b128a: "Ο χρήστης %{user_name} μόλις υπέβαλε την εργασία του (εκπρόθεσμα), %{assignment_name}"
-  user_name_you_just_sent_a_message_in_canvas_b1fd4598: "%{user_name}, μόλις στείλατε μήνυμα στο Canvas."
+  user_name_you_just_sent_a_message_in_canvas_b1fd4598: "%{user_name}, μόλις στείλατε μήνυμα στο Omega."
   user_name_you_ll_need_to_log_in_before_you_can_vie_164c8e30: "%{user_name}, πρέπει να *συνδεθείτε* πριν μπορέσετε να δείτε αυτή τη σελίδα."
   user_navigation_a097be0f: "Πλοήγηση Χρήστη"
   user_not_authorized_to_manage_sis_data_account_sis_47bd4eec: "Μη εξουσιοδοτημένος χρήστης για τη διαχείριση δεδομένων SIS - [sis_account_id] λογαριασμού"
@@ -14882,7 +14882,7 @@ el:
         name_and_email: "Όνομα και Ηλεκτρονική Διεύθυνση"
       update_instructions: "Μπορείτε να ενημερώσετε μερικές από τις πληροφορίες αυτού του χρήστη, αλλά ο ίδιος μπορεί να τις επαναφέρει αν θέλει."
     new: 
-      create_a_canvas_account: "Δημιουργία Λογαριασμού Canvas"
+      create_a_canvas_account: "Δημιουργία Λογαριασμού Omega"
       privacy_policy: "Πολιτική Απορρήτου"
       terms_of_use: "Όροι Χρήσης"
     no_self_registration: "Δεν έχει ενεργοποιηθεί η αυτο-εγγραφή για αυτόν τον λογαριασμό"
@@ -14941,7 +14941,7 @@ el:
           <mrk mid="3804" mtype="seg">Δεν έχετε μαθήματα, συνεπώς αυτή η σελίδα δεν θα σας ενθουσιάσει ιδιαίτερα προς το παρόν.</mrk>
           <mrk mid="3805" mtype="seg">Μόλις δημιουργήσετε ή εγγραφείτε σε μαθήματα, θα αρχίσετε να βλέπετε
           συνομιλίες σας από όλες τις τάξεις σας.</mrk>
-      welcome_to_happiness: "Καλώς ορίσατε στο Canvas!"
+      welcome_to_happiness: "Καλώς ορίσατε στο Omega!"
   users_d1b60cb0: Χρήστες
   users_of_screen_readers_may_need_to_turn_off_the_v_98811cd: "Οι χρήστες λογισμικών ανάγνωσης οθόνης ενδέχεται να χρειαστεί να απενεργοποιήσουν τον εικονικό κέρσορα προκειμένου να μπορέσουν να χρησιμοποιήσουν αυτές τις συντομεύσεις πληκτρολογίου"
   users_with_no_enrollments_5dddce33: "Χρήστες με καθόλου εγγραφές"
@@ -14983,11 +14983,11 @@ el:
   warning_for_improved_accessibility_in_moving_files_71e1028b: "<mrk mid=\"1183\" mtype=\"seg\">Προειδοποίηση:</mrk> <mrk mid=\"1184\" mtype=\"seg\">Για βελτιωμένη προσβασιμότητα στη μετακίνηση αρχείων, παρακαλώ χρησιμοποιήστε την επιλογή Μετακίνηση στον Διάλογο στο μενού.</mrk>"
   warnings: 
     test_install: 
-      periodic_message: "Αυτή η εγκατάσταση Canvas είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της περιοδικά."
-      title: "Εγκατάσταση Τεστ του Canvas"
+      periodic_message: "Αυτή η εγκατάσταση Omega είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της περιοδικά."
+      title: "Εγκατάσταση Τεστ του Omega"
       weekly_message: 
-        one: "Αυτή η εγκατάσταση Canvas είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της κάθε εβδομάδα."
-        other: "Αυτή η εγκατάσταση Canvas είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της κάθε %{count} εβδομάδες."
+        one: "Αυτή η εγκατάσταση Omega είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της κάθε εβδομάδα."
+        other: "Αυτή η εγκατάσταση Omega είναι δοκιμαστική μόνο και θα γίνεται επαναφορά της κάθε %{count} εβδομάδες."
   watermark_c93fae0d: Υδατογράφημα
   watermark_opacity_ce3d3097: "Αδιαφάνεια Υδατογραφήματος"
   watermarks_other_images_e970fc6a: "Υδατογραφήματα & Άλλες Εικόνες"
@@ -15014,7 +15014,7 @@ el:
   webct_name: "Blackboard Vista/CE (WebCT)"
   website_url_177fc1dc: "URL ιστοσελίδας"
   week_s_cb1492ee: Εβδομάδα/ες
-  welcome_to_the_canvas_theme_editor_73091d1: "Καλώς ορίσατε στον Επεξεργαστή Θέματος (Theme Editor) του Canvas"
+  welcome_to_the_canvas_theme_editor_73091d1: "Καλώς ορίσατε στον Επεξεργαστή Θέματος (Theme Editor) του Omega"
   welcome_to_your_courses_to_customize_the_list_of_c_22de652e: "<mrk mid=\"6789\" mtype=\"seg\">Καλώς ορίσατε στα μαθήματά σας!</mrk> <mrk mid=\"6790\" mtype=\"seg\">Για παραμετροποίηση της λίστας των μαθημάτων σας, κάντε κλικ στον σύνδεσμο «Όλα τα Μαθήματα» και βάλτε αστερίσκο στα μαθήματα που θέλετε να προβάλετε.</mrk>"
   well_below_mastery_37664bdc: "Αρκετά Κάτω από το Επίπεδο Επιδεξιότητας"
   what_should_the_csv_file_look_like_985a59ac: "Πως πρέπει να είναι το CSV αρχείο;"
@@ -15226,8 +15226,8 @@ el:
   you_must_log_in_to_view_replies_9ccd4da0: "Πρέπει να είσαστε συνδεδεμένοι για να δείτε τις απαντήσεις"
   you_must_select_a_course_to_copy_content_from_e7bd9e09: "Πρέπει να επιλέξετε ένα μάθημα απ' το οποίο θα γίνει αντιγραφή περιεχομένου"
   you_must_specify_a_usage_right_5eb57f87: "Πρέπει να προσδιορίσετε ένα δικαίωμα χρήσης."
-  you_re_editing_your_canvas_theme_apply_or_cancel_c_1633384e: "<mrk mid=\"7535\" mtype=\"seg\">Επεξεργάζεστε το Θέμα σας στο Canvas!</mrk> <mrk mid=\"7536\" mtype=\"seg\">Εφαρμόστε ή ακυρώστε τις αλλαγές μέσω του *Επεξεργαστή Θέματος (Theme Editor)*.</mrk>"
-  you_re_editing_your_canvas_theme_the_changes_have__c0ae1bd1: "<mrk mid=\"4519\" mtype=\"seg\">Επεξεργάζεστε το Θέμα σας στο Canvas!</mrk> <mrk mid=\"4520\" mtype=\"seg\">Οι αλλαγές δεν έχουν εφαρμοστεί ακόμη.</mrk>"
+  you_re_editing_your_canvas_theme_apply_or_cancel_c_1633384e: "<mrk mid=\"7535\" mtype=\"seg\">Επεξεργάζεστε το Θέμα σας στο Omega!</mrk> <mrk mid=\"7536\" mtype=\"seg\">Εφαρμόστε ή ακυρώστε τις αλλαγές μέσω του *Επεξεργαστή Θέματος (Theme Editor)*.</mrk>"
+  you_re_editing_your_canvas_theme_the_changes_have__c0ae1bd1: "<mrk mid=\"4519\" mtype=\"seg\">Επεξεργάζεστε το Θέμα σας στο Omega!</mrk> <mrk mid=\"4520\" mtype=\"seg\">Οι αλλαγές δεν έχουν εφαρμοστεί ακόμη.</mrk>"
   you_scored_a_score_a5dd5561: "Έχετε συγκεντρώσει βαθμολογία %{score}."
   you_ve_been_enrolled_in_the_course_course_67b2e1b7: "Έχετε εγγραφεί στο μάθημα, %{course}."
   you_ve_been_enrolled_in_the_course_course_course_r_2b2f00f9: "<mrk mid=\"4919\" mtype=\"seg\">Έχετε εγγραφεί στο μάθημα, %{course}.</mrk> <mrk mid=\"4920\" mtype=\"seg\">Ρόλος στο μάθημα:</mrk> <mrk mid=\"4921\" mtype=\"seg\">%{role_type}</mrk>"
@@ -15260,7 +15260,7 @@ el:
       Μόλις δημιουργήσετε την εφαρμογή, σημειώστε το Κλειδί Καταναλωτή και το Μυστικό Καταναλωτή και εισαγάγετέ τα εδώ.</mrk>
   you_will_not_be_able_to_preview_your_changes_f7b868fb: "Δεν θα μπορείτε να κάνετε προεπισκόπηση των αλλαγών σας"
   your_answer_8dad6ea4: "Η Απάντησή σας:"
-  your_browser_does_not_meet_the_minimum_requirement_2fa7c11f: "Ο browser σας δεν πληροί τις ελάχιστες απαιτήσεις για το Canvas. Παρακαλούμε επισκευθείτε την *Κοινότητα Canvas* για μια λίστα με όλους τους υποστηριζόμενους browsers."
+  your_browser_does_not_meet_the_minimum_requirement_2fa7c11f: "Ο browser σας δεν πληροί τις ελάχιστες απαιτήσεις για το Omega. Παρακαλούμε επισκευθείτε την *Κοινότητα Omega* για μια λίστα με όλους τους υποστηριζόμενους browsers."
   your_comment_was_auto_saved_as_a_draft_c49d3510: "Το σχόλιο σας αποθηκεύτηκε αυτόματα σαν προσχέδιο"
   your_content_has_been_exported_bbb57764: "Το περιεχόμενο σας έχει εξαχθεί."
   your_course_db806851: "Το Μάθημά σας"
