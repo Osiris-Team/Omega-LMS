@@ -11,6 +11,14 @@ learning management systems.
 Installation
 =======
 
+### Assisted/Automatic install
+For a fast install on a brand-new device, open a terminal and execute:
+```sh
+curl -sSL URL_HERE | sudo bash
+```
+Note that you will be asked for a password, for the `canvas` user that will be created.
+
+### Manual install
 Detailed instructions for installation and configuration of Canvas are provided
 on our wiki.
 
