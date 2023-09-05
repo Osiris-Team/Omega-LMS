@@ -14,7 +14,7 @@ Installation
 ### Assisted/Automatic install
 For a fast install on a brand-new device, open a terminal and execute:
 ```sh
-curl -sSL URL_HERE | sudo bash
+curl -sSL https://raw.githubusercontent.com/Osiris-Team/canvas-lms/prod/script/ubuntu-canvas-install.sh | sudo bash
 ```
 Note that you will be asked for a password, for the `canvas` user that will be created.
 
