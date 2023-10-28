@@ -47,6 +47,7 @@ git checkout prod
 echo -e "\nInstalling necessary Ruby gems...\n"
 sudo snap install ruby --channel=3.1.0/stable --classic
 sudo snap switch ruby --channel=3.1.0/stable
+sudo snap refresh
 gem install bundle
 gem install bundler:2.3.26
 gem install nokogumbo scrypt sanitize ruby-debug-ide
