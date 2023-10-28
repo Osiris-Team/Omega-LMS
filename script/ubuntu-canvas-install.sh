@@ -38,9 +38,11 @@ sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libxmlsec1-dev curl build-essential git-core snapd
 sudo npm -g install yarn
 
-curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-sudo apt-get install nodejs
-sudo npm install -g npm@latest
+sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+nvm install 20
+nvm use 20
 node -v
 npm -v
 
