@@ -33,7 +33,7 @@ sudo apt-get update
 echo -e "\nInstalling dependencies...\n"
 sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
-   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems snapd ruby-dev
+   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems snapd
 sudo npm -g install yarn
 
 # Downloading Canvas-LMS
