@@ -31,17 +31,19 @@ sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
    libxmlsec1-dev curl build-essential nodejs npm git-core rubygems ruby-dev
 sudo npm -g install yarn
-# Ruby RVM
-gpg --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-curl -sSL https://get.rvm.io | bash -s stable --ruby
 
 # Downloading Canvas-LMS
 echo -e "\Downloading Canvas-LMS...\n"
 git clone https://github.com/Osiris-Team/canvas-lms.git
+alias proj="cd ./canvas-lms"
 git checkout prod
 
+# Install Ruby RVM
+gpg --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+curl -sSL https://get.rvm.io | bash -s stable --ruby
+sudo usermod -a -G rvm $(whoami)
 # Install Ruby version 3.1.0 using RVM
-$ruby_version = "3.1.0"
+ruby_version = "3.1.0"
 echo -e "\nInstalling Ruby $ruby_version using RVM...\n"
 rvm install "ruby-$ruby_version"
 rvm use $ruby_version
