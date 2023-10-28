@@ -1,5 +1,9 @@
 #!/bin/bash
 
+cdCanvasDir () {
+  cd ./canvas-lms
+}
+
 echo "!!! READ THE TEXT BELOW !!!"
 echo "Make sure you are OK with everything below, or enter CTRL+C to exit and retry."
 echo "->  This script will install Canvas-LMS into the current directory: $(pwd)"
@@ -35,8 +39,7 @@ sudo npm -g install yarn
 # Downloading Canvas-LMS
 echo -e "\Downloading Canvas-LMS...\n"
 git clone https://github.com/Osiris-Team/canvas-lms.git
-alias proj="cd ./canvas-lms"
-. proj
+cdCanvasDir
 pwd
 git checkout prod
 
