@@ -22,6 +22,8 @@ read
 
 # Update package repositories
 echo -e "\nUpdating package repositories...\n"
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:instructure/ruby
 sudo apt-get update
 
 echo -e "\Getting PostgreSQL Certificates...\n"
@@ -33,9 +35,9 @@ sudo apt-get update
 
 # Install dependencies
 echo -e "\nInstalling dependencies...\n"
-sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
+sudo apt-get -y install ruby3.1 ruby3.1-dev libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
-   libxmlsec1-dev curl build-essential git-core snapd
+   libxmlsec1-dev curl build-essential git-core
 sudo npm -g install yarn
 
 sudo curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
@@ -54,21 +56,14 @@ pwd
 git checkout prod
 
 # Install Ruby
-echo -e "\nInstalling Ruby and gems...\n"
-sudo snap remove ruby
-sudo snap install --channel=3.1 ruby --classic
-sudo snap switch ruby --channel=3.1
-sudo snap refresh
-ruby -v
-
-# Install Ruby gems
+echo -e "\nInstalling Ruby gems...\n"
 gem install bundle
-gem install bundler:2.4.19
+gem install bundler:2.3.26
 gem install nokogumbo scrypt sanitize ruby-debug-ide
 
 # Install project dependencies
 echo -e "\nInstalling project dependencies...\n"
-bundle _2.4.19_ install
+bundle _2.3.26_ install
 yarn install --pure-lockfile
 
 # Copy configuration files
