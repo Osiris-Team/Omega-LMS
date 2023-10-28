@@ -11,7 +11,8 @@ echo "->  Once finished run ./start.sh to run Canvas-LMS."
 echo "->  A database user named 'canvas' will be created,"
 echo "and you will have to provide a (strong) password later."
 echo "!!! READ THE TEXT ABOVE !!!"
-read -p "Press ENTER to proceed."
+echo "Press ENTER to proceed."
+read
 
 # Update package repositories
 echo -e "\nUpdating package repositories...\n"
