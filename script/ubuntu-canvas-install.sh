@@ -46,7 +46,7 @@ git checkout prod
 # Install necessary Ruby gems
 echo -e "\nInstalling necessary Ruby gems...\n"
 sudo snap remove ruby
-sudo snap install --channel=3.1 ruby
+sudo snap install --channel=3.1 ruby --classic
 sudo snap switch ruby --channel=3.1
 sudo snap refresh
 gem install bundle
