@@ -36,6 +36,7 @@ sudo npm -g install yarn
 echo -e "\Downloading Canvas-LMS...\n"
 git clone https://github.com/Osiris-Team/canvas-lms.git
 alias proj="cd ./canvas-lms"
+. proj
 pwd
 git checkout prod
 
