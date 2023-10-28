@@ -6,10 +6,6 @@ cdCanvasDir () {
   cd "${baseDir}/canvas-lms"
 }
 
-cdRubyGemsDir () {
-  cd "${baseDir}/canvas-lms/rubygems-3.4.6"
-}
-
 echo "!!! READ THE TEXT BELOW !!!"
 echo "Make sure you are OK with everything below, or enter CTRL+C to exit and retry."
 echo "->  This script will install Canvas-LMS into the current directory: $(pwd)"
@@ -58,12 +54,6 @@ sudo snap refresh
 ruby -v
 
 # Install Ruby gems
-wget https://rubygems.org/rubygems/rubygems-3.4.6.tgz
-tar -xf rubygems-3.4.6.tgz
-cdRubyGemsDir
-sudo ruby setup.rb
-cdCanvasDir
-pwd
 gem install bundle
 gem install bundler:2.3.26
 gem install nokogumbo scrypt sanitize ruby-debug-ide
