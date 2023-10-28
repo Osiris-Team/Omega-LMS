@@ -22,7 +22,7 @@ read
 
 # Update package repositories
 echo -e "\nUpdating package repositories...\n"
-sudo apt-get install software-properties-common
+sudo apt-get -y install software-properties-common 
 sudo add-apt-repository ppa:instructure/ruby
 sudo apt-get update
 
