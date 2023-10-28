@@ -28,7 +28,7 @@ sudo apt-get update
 echo -e "\nInstalling dependencies...\n"
 sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
-   libxmlsec1-dev curl build-essential nodejs npm git-core gem
+   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems
 sudo npm -g install yarn
 # Ruby RVM
 gpg --keyserver keyserver.ubuntu.com --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
