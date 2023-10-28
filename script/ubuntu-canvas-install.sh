@@ -1,7 +1,13 @@
 #!/bin/bash
 
+baseDir=$(pwd)
+
 cdCanvasDir () {
-  cd ./canvas-lms
+  cd "${baseDir}/canvas-lms"
+}
+
+cdRubyGems () {
+  cd "${baseDir}/rubygems-3.4.6"
 }
 
 echo "!!! READ THE TEXT BELOW !!!"
@@ -33,7 +39,7 @@ sudo apt-get update
 echo -e "\nInstalling dependencies...\n"
 sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
-   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems snapd
+   libxmlsec1-dev curl build-essential nodejs npm git-core snapd
 sudo npm -g install yarn
 
 # Downloading Canvas-LMS
@@ -43,12 +49,20 @@ cdCanvasDir
 pwd
 git checkout prod
 
-# Install necessary Ruby gems
-echo -e "\nInstalling necessary Ruby gems...\n"
+# Install Ruby
+echo -e "\nInstalling Ruby and gems...\n"
 sudo snap remove ruby
 sudo snap install --channel=3.1 ruby --classic
 sudo snap switch ruby --channel=3.1
 sudo snap refresh
+
+# Install Ruby gems
+wget https://rubygems.org/rubygems/rubygems-3.4.6.tgz
+tar -xf rubygems-3.4.6.tgz
+cdRubyGems
+sudo ruby setup.rb
+cdCanvas
+pwd
 gem install bundle
 gem install bundler:2.3.26
 gem install nokogumbo scrypt sanitize ruby-debug-ide
