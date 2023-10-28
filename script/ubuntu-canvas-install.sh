@@ -63,12 +63,12 @@ ruby -v
 
 # Install Ruby gems
 gem install bundle
-gem install bundler:2.3.26
+gem install bundler:2.4.19
 gem install nokogumbo scrypt sanitize ruby-debug-ide
 
 # Install project dependencies
 echo -e "\nInstalling project dependencies...\n"
-bundle _2.3.26_ install
+bundle _2.4.19_ install
 yarn install --pure-lockfile
 
 # Copy configuration files
