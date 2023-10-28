@@ -29,23 +29,20 @@ sudo apt-get update
 echo -e "\nInstalling dependencies...\n"
 sudo apt-get -y install libldap2-dev libidn11-dev postgresql-14 zlib1g-dev \
    libldap2-dev libidn11-dev libxml2-dev libsqlite3-dev libpq-dev libyaml-dev \
-   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems rbenv ruby-dev
+   libxmlsec1-dev curl build-essential nodejs npm git-core rubygems snapd ruby-dev
 sudo npm -g install yarn
 
 # Downloading Canvas-LMS
 echo -e "\Downloading Canvas-LMS...\n"
 git clone https://github.com/Osiris-Team/canvas-lms.git
 alias proj="cd ./canvas-lms"
+pwd
 git checkout prod
-
-# Ruby version to install
-desired_ruby_version="3.1.0"
-rbenv install "$desired_ruby_version"
-rbenv global "$desired_ruby_version"
-ruby --version
 
 # Install necessary Ruby gems
 echo -e "\nInstalling necessary Ruby gems...\n"
+sudo snap install ruby --channel=3.1.0/stable --classic
+sudo snap switch ruby --channel=3.1.0/stable
 gem install bundle
 gem install bundler:2.3.26
 gem install nokogumbo scrypt sanitize ruby-debug-ide
