@@ -6,7 +6,7 @@ cdCanvasDir () {
   cd "${baseDir}/canvas-lms"
 }
 
-cdRubyGems () {
+cdRubyGemsDir () {
   cd "${baseDir}/canvas-lms/rubygems-3.4.6"
 }
 
@@ -60,9 +60,9 @@ ruby -v
 # Install Ruby gems
 wget https://rubygems.org/rubygems/rubygems-3.4.6.tgz
 tar -xf rubygems-3.4.6.tgz
-cdRubyGems
+cdRubyGemsDir
 sudo ruby setup.rb
-cdCanvas
+cdCanvasDir
 pwd
 gem install bundle
 gem install bundler:2.3.26
