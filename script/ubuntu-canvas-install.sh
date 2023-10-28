@@ -41,6 +41,8 @@ sudo npm -g install yarn
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install nodejs
 sudo npm install -g npm@latest
+node -v
+npm -v
 
 # Downloading Canvas-LMS
 echo -e "\Downloading Canvas-LMS...\n"
