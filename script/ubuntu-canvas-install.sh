@@ -7,7 +7,7 @@ cdCanvasDir () {
 }
 
 cdRubyGems () {
-  cd "${baseDir}/rubygems-3.4.6"
+  cd "${baseDir}/canvas-lms/rubygems-3.4.6"
 }
 
 echo "!!! READ THE TEXT BELOW !!!"
@@ -55,6 +55,7 @@ sudo snap remove ruby
 sudo snap install --channel=3.1 ruby --classic
 sudo snap switch ruby --channel=3.1
 sudo snap refresh
+ruby -v
 
 # Install Ruby gems
 wget https://rubygems.org/rubygems/rubygems-3.4.6.tgz
